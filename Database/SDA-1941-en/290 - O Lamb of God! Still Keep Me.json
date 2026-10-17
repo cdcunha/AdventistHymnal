@@ -1,0 +1,62 @@
+﻿{
+  "Number": 290,
+  "Title": "O Lamb of God! Still Keep Me",
+  "Author": "James G. Deck",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Lamb of God! still keep me",
+        "Near to Thy wounded side;",
+        "'Tis only there in safely",
+        "And peace I can abide!",
+        "What foes and snares surround me,",
+        "What doubts and fears within!",
+        "The grace that sought and found me,",
+        "Alone can keep me clean."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "'Tis only in Thee hiding",
+        "I know my life secure —",
+        "Only in Thee abiding,",
+        "The conflict can endure.",
+        "Thine arm the victory gaineth",
+        "O'er every hateful foe;",
+        "Thy love my heart sustaineth",
+        "In all its care and woe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Soon shall my eyes behold Thee,",
+        "With rapture, face to face;",
+        "One half hath not been told me",
+        "Of all Thy power and grace.",
+        "Thy beauty, Lord, and glory,",
+        "The wonders of Thy love,",
+        "Shall be the endless story",
+        "Of all the saints above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

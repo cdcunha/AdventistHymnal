@@ -1,0 +1,67 @@
+﻿{
+  "Number": 307,
+  "Title": "The Time Is Near",
+  "Author": "R. F. Cottrell",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The time is near when Zion's sons,",
+        "With rapturous joy shall sing the song",
+        "Foretold by seers — anointed ones:",
+        "We have a city great and strong,",
+        "We have a city great and strong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Open, ye gates! The glorious King",
+        "Approaches with a holy throng;",
+        "Open, ye gates! Saints, angels, sing",
+        "On golden harps the victor's song!",
+        "On golden harps the victor's song!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O righteous nation! enter in,",
+        "That kept the law of truth below,",
+        "Enter the place, all free from sin,",
+        "Where life's pure waters gently flow.",
+        "Where life's pure waters gently flow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Within these walls shall they remain,",
+        "Who trusted, mighty Lord! in Thee.",
+        "Death, their last enemy, is slain;",
+        "They have a right to life's fair tree.",
+        "They have a right to life's fair tree."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

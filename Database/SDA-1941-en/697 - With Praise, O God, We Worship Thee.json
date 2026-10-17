@@ -1,0 +1,25 @@
+﻿{
+  "Number": 697,
+  "Title": "With Praise, O God, We Worship Thee",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "With praise, O God, we worship Thee;",
+        "With song and prayer we bow the knee,",
+        "Accept our love, receive our praise;",
+        "Direct our ways, throughout our days.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

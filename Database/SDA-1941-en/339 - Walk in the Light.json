@@ -1,0 +1,67 @@
+﻿{
+  "Number": 339,
+  "Title": "Walk in the Light",
+  "Author": "John Ernest Bode",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Walk in the light! so shalt thou know",
+        "That fellowship of love",
+        "His Spirit only can bestow",
+        "Who reigns in light above,",
+        "Who reigns in light above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Walk in the light! and thou shalt own",
+        "Thy darkness passed away;",
+        "Because that light on thee hath shone",
+        "In which is perfect day,",
+        "In which is perfect day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Walk in the light! and e'en the tomb",
+        "No fearful shade shall wear;",
+        "Glory shall chase away its gloom,",
+        "For Christ hath conquered there,",
+        "For Christ hath conquered there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Walk in the light! and thine shall be",
+        "A path, though thorny, bright;",
+        "For God, by grace, shall dwell in thee,",
+        "And God Himself is light,",
+        "And God Himself is light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

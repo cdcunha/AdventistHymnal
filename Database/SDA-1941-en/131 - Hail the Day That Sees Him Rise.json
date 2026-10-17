@@ -1,0 +1,76 @@
+﻿{
+  "Number": 131,
+  "Title": "Hail the Day That Sees Him Rise",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hail the day that sees Him rise,",
+        "And ascend His native skies,",
+        "Christ, awhile to mortals given,",
+        "Enters now the gates of heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There the glorious triumph waits,",
+        "Lift your heads, eternal gates,",
+        "Christ hath vanquished death and sin;",
+        "Take the King of glory in,"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "See, the heaven its Lord receives!",
+        "Yet He loves the earth He leaves;",
+        "Though returning to His throne,",
+        "Still He calls mankind His own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "See, He lifts His hands above!",
+        "See, He shows the prints of love!",
+        "Hark! His gracious lips bestow,",
+        "Blessings on His church below."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Saviour, parted from our sight,",
+        "High above yon azure height,",
+        "Grant our hearts may thither rise,",
+        "Following Thee beyond the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

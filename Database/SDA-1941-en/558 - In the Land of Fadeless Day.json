@@ -1,0 +1,79 @@
+﻿{
+  "Number": 558,
+  "Title": "In the Land of Fadeless Day",
+  "Author": "John R. Qements",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "In the land of fadeless day",
+        "Lies “the city foursquare;”",
+        "It shall never pass away,",
+        "And there is “no night there.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God shall “wipe away all tears;”",
+        "There’s no death, no pain, nor fears;",
+        "And they count not time by years,",
+        "For there is “no night there.”"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "All the gates of pearl are made,",
+        "In “the city foursquare;”",
+        "All the streets with gold are laid,",
+        "And there is “no night there.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All the gates shall never close,",
+        "To “the city foursquare;”",
+        "There life’s crystal river flows,",
+        "And there is “no night there.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "There they need no sunshine bright,",
+        "In “that city foursquare;”",
+        "For the Lamb is all the light,",
+        "And there is “no night there.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

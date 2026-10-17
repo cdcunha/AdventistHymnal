@@ -1,0 +1,76 @@
+﻿{
+  "Number": 92,
+  "Title": "There Is a Book",
+  "Author": "John Keble",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a book that all may read,",
+        "Which heavenly truth imparts;",
+        "And all the lore its scholars need,",
+        "Pure eyes and Christian hearts."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The works of God above, below,",
+        "Within us, and around,",
+        "Are pages in that book, to show",
+        "How God Himself is found."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The glorious sky, embracing all,",
+        "Is like the Maker’s love,",
+        "Wherewith encompassed, great and small",
+        "In peace and order move."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The dew of Heaven is like Thy grace,",
+        "It steals in silence down;",
+        "But where it falls, the favored place",
+        "By richest fruits is known."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Thou, who hast given me eyes to see,",
+        "And love for what is fair,",
+        "Give me a heart to find out Thee,",
+        "And read Thee everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

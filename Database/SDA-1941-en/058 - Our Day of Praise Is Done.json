@@ -1,0 +1,76 @@
+﻿{
+  "Number": 58,
+  "Title": "Our Day of Praise Is Done",
+  "Author": "James Edmeston",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Our day of praise is done;",
+        "The evening shadows fall;",
+        "But pass not from us with the sun,",
+        "True Light that lightenest all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Around the throne on high,",
+        "Where night can never be,",
+        "The white robed harpers of the sky",
+        "Bring ceaseless hymns to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Too faint our anthems here;",
+        "Too soon of praise we tire;",
+        "But O the strains, how full and clear,",
+        "Of that eternal choir!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "’Tis Thine each soul to calm,",
+        "Each wayward thought reclaim,",
+        "And make our life a daily psalm",
+        "Of glory to Thy Name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "A little while, and then",
+        "Shall come the glorious end;",
+        "And songs of angels and of men",
+        "In perfect praise shall blend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

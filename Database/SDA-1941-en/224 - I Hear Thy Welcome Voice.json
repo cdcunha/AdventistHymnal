@@ -1,0 +1,79 @@
+﻿{
+  "Number": 224,
+  "Title": "I Hear Thy Welcome Voice",
+  "Author": "Lewis Hartsough",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I hear thy welcome voice,",
+        "That calls me, Lord, to thee;",
+        "For cleansing in thy precious blood,",
+        "That flowed on Calvary."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I am coming, Lord!",
+        "Coming now to thee!",
+        "Wash me, cleanse me, in the blood",
+        "That flowed on Calvary."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Though coming weak and vile,",
+        "Thou dost my strength assure;",
+        "Thou dost my vileness fully cleanse,",
+        "Till spotless all, and pure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "'Tis Jesus calls me on",
+        "To perfect faith and love,",
+        "To perfect hope, and peace, and trust,",
+        "For earth and heaven above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All hail, atoning blood!",
+        "All hail, redeeming grace!",
+        "All hail! the gift of Christ, our Lord,",
+        "Our Strength and Righteousness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

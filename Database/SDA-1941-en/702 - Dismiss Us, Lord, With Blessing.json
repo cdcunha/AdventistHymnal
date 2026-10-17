@@ -1,0 +1,25 @@
+﻿{
+  "Number": 702,
+  "Title": "Dismiss Us, Lord, With Blessing",
+  "Author": "L. E. Froom",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Dismiss us, Lord, with blessing, we pray;",
+        "As from Thy worship we go our ways;",
+        "Guide in life's conflicts, all through the day;",
+        "Save in Thy kingdom, Thine be the praise.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "Number": 411,
+  "Title": "See, Israel’s Gentle Shepherd",
+  "Author": "Philip Doddridge",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "See, Israel's gentle Shepherd stands,",
+        "With all-engaging charms;",
+        "Hark, how He calls the tender lambs,",
+        "And folds them in His arms!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "\"Permit them to approach, \"He cries,",
+        "\"Nor scorn their humble name;",
+        "For 'twas to bless such souls as these,",
+        "The Lord of angels came.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We bring them, Lord, in thankful hands,",
+        "And yield them up to Thee;",
+        "Joyful that we ourselves are Thine,",
+        "Thine let our offspring be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 458,
+  "Title": "How Sweet, Upon This Sacred Day",
+  "Author": "Eliza Lee Follen",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How sweet upon this sacred day,",
+        "The best of all the seven,",
+        "To cast our earthly thoughts away,",
+        "And think of God and heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How sweet to be allowed to pray,",
+        "Our sins may be forgiven!",
+        "With filial confidence to say,",
+        "\"Father, who art in heaven!\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "How sweet the words of peace to hear",
+        "From Him to whom 'tis given",
+        "To wake the penitential tear,",
+        "And lead the way to heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And if, to make our sins depart,",
+        "In vain the will has striven,",
+        "He who regards the inmost heart",
+        "Will send his grace from heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

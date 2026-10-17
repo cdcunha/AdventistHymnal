@@ -1,0 +1,50 @@
+﻿{
+  "Number": 391,
+  "Title": "Shepherd Divine",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Shepherd divine, Thou leadest me",
+        "Where the still waters gently flow;",
+        "In pastures fair Thou feedest me;",
+        "I trust Thy love, no want I know."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In danger's hour Thou hidest me,",
+        "Safe from the foe of Thy dear flock;",
+        "At sultry noon Thou guidest me,",
+        "To rest beside the cooling rock."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When chilling dews of evening fall,",
+        "Then to the fold Thou bidst me come;",
+        "Gladly I hasten at Thy call;",
+        "Sweet is the voice that calls me home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

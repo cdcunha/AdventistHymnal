@@ -1,0 +1,63 @@
+﻿{
+  "Number": 470,
+  "Title": "Thy Holy Sabbath, Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thy holy Sabbath, Lord,",
+        "Thy people hail with joy;",
+        "And while we wait to hear Thy word,",
+        "Let praise our hearts employ."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With sweet delight the day",
+        "That Thou hast called Thine own",
+        "We hail, and all our homage pay",
+        "To Thine exalted throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O may Thy saints be blessed!",
+        "Assist us while we pray;",
+        "May we enjoy a holy rest,",
+        "And keep the sacred day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When Sabbaths here shall end,",
+        "And from these courts we move,",
+        "May we an endless Sabbath spend",
+        "In heavenly courts above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

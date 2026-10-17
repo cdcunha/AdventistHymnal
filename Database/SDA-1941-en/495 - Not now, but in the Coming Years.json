@@ -1,0 +1,93 @@
+﻿{
+  "Number": 495,
+  "Title": "Not now, but in the Coming Years",
+  "Author": "Maxwell Cornelius",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Not now, but in the coming years,",
+        "It may be in the better land,",
+        "We'll read the meaning of our tears,",
+        "And there, sometime, we'll understand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Then trust in God through all thy days;",
+        "Fear not, for He doth hold thy hand;",
+        "Though dark thy way, still sing and praise,",
+        "Sometime, sometime, we'll understand."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "We'll catch the broken thread again,",
+        "And finish what we here began;",
+        "Heaven will the mysteries explain,",
+        "And then, ah, then we'll understand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We'll know why clouds instead of sun",
+        "Were over many a cherished plan;",
+        "Why song has ceased when scarce begun;",
+        "'Tis there, sometime, we'll understand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Why what we long for most of all,",
+        "Eludes so oft our eager hand;",
+        "Why hopes are crushed and castles fall,",
+        "Up there, sometime, we'll understand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "God knows the way, He holds the key,",
+        "He guides us with unerring hand;",
+        "Sometime with tearless eyes we'll see;",
+        "Yes, there, up there, we'll understand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

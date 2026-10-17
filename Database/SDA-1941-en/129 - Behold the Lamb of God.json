@@ -1,0 +1,75 @@
+﻿{
+  "Number": 129,
+  "Title": "Behold the Lamb of God",
+  "Author": "Matthew Bridges",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Behold the Lamb of God!",
+        "O Thou for sinners slain,",
+        "Let it not be in vain",
+        "That Thou hast died;",
+        "Thee for my Savior let me take,",
+        "My only refuge let me make",
+        "Thy pierced side."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Behold the Lamb of God!",
+        "Into the sacred flood",
+        "Of Thy most precious blood",
+        "My soul I cast;",
+        "Wash me and make me clean within,",
+        "And keep me pure from every sin,",
+        "Till life be past."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Behold the Lamb of God!",
+        "All hail, incarnate Word,",
+        "Thou everlasting Lord,",
+        "Savior most blest;",
+        "Fill us with love that never faints,",
+        "Grant us with all Thy blessed saints",
+        "Eternal rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Behold the Lamb of God!",
+        "Worthy is He alone,",
+        "To sitteth on the Throne",
+        "Of God above;",
+        "One with the Ancient of all days,",
+        "One with the Comforter in praise,",
+        "All light and Love"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

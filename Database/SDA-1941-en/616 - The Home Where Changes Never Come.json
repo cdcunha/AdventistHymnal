@@ -1,0 +1,78 @@
+﻿{
+  "Number": 616,
+  "Title": "The Home Where Changes Never Come",
+  "Author": "W. H. Bellamy",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The home where changes never come,",
+        "Nor pain nor sorrow, toil nor care;",
+        "Yes! 'tis a bright and blessed home;",
+        "Who would not fain he resting there?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O wait! meekly wait, and murmur not,",
+        "O wait! meekly wait, and murmur not;",
+        "O wait! 0 wait! O wait! and murmur not."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Yet when bowed down beneath the load",
+        "By Heaven allowed, thine earthly lot;",
+        "Thou yearnest to reach that blest abode,",
+        "Wait, meekly wait, and murmur not."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "If in thy path some thorns are found,",
+        "O, think who bore them on His brow;",
+        "If grief thy sorrowing heart has found,",
+        "It reached a holier than thou."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Toil on, nor deem, though sore it be,",
+        "One sigh unheard, one prayer forgot;",
+        "The day of rest will dawn for thee!",
+        "Wait, meekly wait, and murmur not."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

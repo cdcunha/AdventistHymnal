@@ -1,0 +1,79 @@
+﻿{
+  "Number": 553,
+  "Title": "On Jordan’s Stormy Banks",
+  "Author": "Samuel Stennett",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "On Jordan's stormy banks I stand,",
+        "And cast a wishful eye",
+        "To Canaan's fair and happy land,",
+        "Where my possessions lie."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We will rest in the fair and happy land,",
+        "Just across on the evergreen shore;",
+        "Sing the song of Moses and the Lamb by and by,",
+        "And dwell with Jesus evermore."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O'er all those wide extended plain",
+        "Shines one eternal day;",
+        "There Christ, the Sun, for ever reigns,",
+        "And scatters night away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When shall I reach that happy place,",
+        "And be forever blest?",
+        "When shall I see my Father's face,",
+        "And in His kingdom rest?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Filled with delight, my raptured soul",
+        "Would here no longer stay;",
+        "Though Jordan's waves around me roll,",
+        "Fearless I'd launch away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

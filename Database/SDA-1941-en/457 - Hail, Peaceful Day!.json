@@ -1,0 +1,56 @@
+﻿{
+  "Number": 457,
+  "Title": "Hail, Peaceful Day!",
+  "Author": "Annie R. Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hail, peaceful day! divinely blest!",
+        "Sweetly thy glories would we sing,",
+        "Memorial of that sacred rest,",
+        "Of vast creation's mighty King;",
+        "This hallowed time to man was given,",
+        "A foretaste of the bliss of heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Hark! through the shining courts above",
+        "What rapturous praises echo now",
+        "Around that holy law of love",
+        "Seraphs in adoration bow;",
+        "Let earth, responsive to the strain,",
+        "Exalt alone Jehovah's name"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O come, thou bright, immortal day!",
+        "When at His temple all adore,",
+        "And own His universal sway",
+        "From age to age, forevermore;",
+        "Then Zion shall in triumph reign,",
+        "And Eden bloom on earth again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

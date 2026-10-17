@@ -1,0 +1,56 @@
+﻿{
+  "Number": 22,
+  "Title": "For the Beauty of the Earth",
+  "Author": "Folliott S. Pierpoint",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "For the beauty of the earth,",
+        "For the glory of the skies,",
+        "For the love which from our birth",
+        "Over and around us lies,",
+        "Lord of all, to Thee we raise",
+        "This our grateful song of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For the joy of human love,",
+        "Brother, sister, parent, child,",
+        "Friends on earth and Friend above,",
+        "Pleasures pure and undefiled,",
+        "Lord of all, to Thee we raise",
+        "This our grateful song of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "For the gift of Thy dear Son,",
+        "For the hope of heaven at last,",
+        "For the Spirit's victory won,",
+        "For the crown when life is past,",
+        "Lord of all, to Thee we raise",
+        "Songs of gratitude and praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

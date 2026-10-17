@@ -1,0 +1,76 @@
+﻿{
+  "Number": 209,
+  "Title": "Come, Holy Spirit",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, Holy Spirit, heavenly Dove,",
+        "With all thy quickening powers;",
+        "Kindle a flame of sacred love",
+        "In these cold hearts of ours."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O raise our thoughts from things below,",
+        "From vanities and toys!",
+        "Then shall we with fresh courage go",
+        "To reach eternal joys."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Awake our souls to joyful songs;",
+        "Let pure devotion rise;",
+        "Till praise employs our thankful tongues,",
+        "And doubt forever dies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Father, we would no longer live",
+        "At this poor, dying rate;",
+        "To thee our tankful love we give,",
+        "For thine to us is great."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Come, Holy Spirit, heavenly Dove,",
+        "With all thy quickening powers;",
+        "Come, shed abroad the Saviour’s love",
+        "And that shall kindle ours."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

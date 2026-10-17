@@ -1,0 +1,79 @@
+﻿{
+  "Number": 537,
+  "Title": "Called to the Feast",
+  "Author": "J. E. Landor",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Called to the feast by the King are we,",
+        "Sitting, perhaps, where His people be;",
+        "How will it fare, then, with thee and me",
+        "When the King comes in?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "When the King comes in, brother,",
+        "When the King comes in!",
+        "How will it fare with thee and me",
+        "When the King comes in?"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Crowns on the Head where the thorns have been,",
+        "Glorified He who once died for men;",
+        "Splendid the vision before us then,",
+        "When the King comes in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Like lightning’s flash will that instant show",
+        "Things hidden long from both friend and foe;",
+        "Just what we are will each neighbor know,",
+        "When the King comes in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Joyful His eye shall on each one rest",
+        "Who is in white wedding garments dressed;",
+        "Ah! well for us if we stand the test,",
+        "When the King comes in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

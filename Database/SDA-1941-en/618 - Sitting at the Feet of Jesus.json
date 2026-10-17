@@ -1,0 +1,62 @@
+﻿{
+  "Number": 618,
+  "Title": "Sitting at the Feet of Jesus",
+  "Author": "John Ernest Bode",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sitting at the feet of Jesus,",
+        "O what words I hear Him say!",
+        "Happy place! so near, so precious!",
+        "May it find me there each day;",
+        "Sitting at the feet of Jesus,",
+        "I would look upon the past,",
+        "For His love has been so gracious,",
+        "It has won my heart at last."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Sitting at the feel of Jesus,",
+        "Where can mortal be more blest?",
+        "There I lay my sins and sorrows,",
+        "And, when weary, find sweet rest;",
+        "Silting at the feet of Jesus,",
+        "There I love to weep and pray,",
+        "While I from His fullness gather",
+        "Grace and comfort every day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Bless me, O my Saviour, bless me,",
+        "As I'm waiting at Thy feet,",
+        "O look down in love upon me,",
+        "Let me see Thy face so sweet;",
+        "Give me, Lord, the mind of Jesus,",
+        "Make me holy as He is,",
+        "May I prove I've been with Jesus,",
+        "Who is all my righteousness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

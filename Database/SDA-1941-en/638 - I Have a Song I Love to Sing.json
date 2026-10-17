@@ -1,0 +1,80 @@
+﻿{
+  "Number": 638,
+  "Title": "I Have a Song I Love to Sing",
+  "Author": "Edwin Othello Excell",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I have a song I love to sing,",
+        "Since I have been redeemed;",
+        "Of my Redeemer, Saviour, King,",
+        "Since I have been redeemed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Since I have been redeemed,",
+        "Since I have been redeemed,",
+        "I will glory in His name,",
+        "Since I have been redeemed,",
+        "I will glory in my Saviour's name"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I have a Christ that satisfies,",
+        "Since I have been redeemed;",
+        "To do His will my highest prize,",
+        "Since I have been redeemed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I have a witness bright and clear,",
+        "Since I have been redeemed;",
+        "Dispelling every doubt and fear,",
+        "Since I have been redeemed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I have a home prepared for me,",
+        "Since I have been redeemed;",
+        "Where I shall dwell eternally,",
+        "Since I have been redeemed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

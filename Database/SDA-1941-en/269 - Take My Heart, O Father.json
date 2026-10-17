@@ -1,0 +1,63 @@
+﻿{
+  "Number": 269,
+  "Title": "Take My Heart, O Father",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Take my heart, O Father, take it!",
+        "Make and keep it all thine own;",
+        "Let thy Spirit melt and break it,",
+        "This proud heart of sin and stone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Father, make it pure and lowly,",
+        "Fond of peace and far from strife;",
+        "Turning from the paths unholy,",
+        "Of this vain and sinful life."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Ever let thy grace surround me,",
+        "Strengthen me with power divine;",
+        "By thy cords of love that bound me,",
+        "Make me to be wholly thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "May the blood of Jesus heal me,",
+        "And my sins be all forgiven;",
+        "Holy Spirit, take and seal me,",
+        "Guide me in the path to heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

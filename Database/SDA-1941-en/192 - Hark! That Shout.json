@@ -1,0 +1,67 @@
+﻿{
+  "Number": 192,
+  "Title": "Hark! That Shout",
+  "Author": "Thomas Kelly",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hark! that shout of rapture high,",
+        "Bursting forth from yonder cloud;",
+        "Jesus comes, and, through the sky,",
+        "Angels tell their joy aloud,",
+        "Angels tell their joy aloud."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Hark! the trumpet's awful voice",
+        "Sounds abroad o'er sea and land;",
+        "Let His people now rejoice;",
+        "Their redemption is at hand,",
+        "Their redemption is at hand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "See, the Lord appears in view;",
+        "Heaven and earth before Him fly;",
+        "Rise, ye saints, He comes for you;",
+        "Rise, to meet Him in the sky,",
+        "Rise, to meet Him in the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Go and dwell with Him above,",
+        "Where no foe can e'er molest;",
+        "Happy in the Saviour's love,",
+        "Ever blessing, ever blest,",
+        "Ever blessing, ever blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

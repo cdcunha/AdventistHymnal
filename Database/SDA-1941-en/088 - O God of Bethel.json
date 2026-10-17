@@ -1,0 +1,63 @@
+﻿{
+  "Number": 88,
+  "Title": "O God of Bethel",
+  "Author": "Philip Doddridge",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God of Bethel, by whose hand",
+        "Thy people still are fed,",
+        "Who through this weary pilgrimage",
+        "Hast all our fathers led."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Our vows, our prayers, we now present",
+        "Before Thy throne of grace;",
+        "God of our fathers, be the God",
+        "Of their succeeding race."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Through each perplexing path of life",
+        "Our wandering footsteps guide;",
+        "Give us each day our daily bread,",
+        "And raiment fit provide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O spread Thy covering wings around,",
+        "Till all our wanderings cease,",
+        "And at our Father’s loved abode",
+        "We find at last Thy peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

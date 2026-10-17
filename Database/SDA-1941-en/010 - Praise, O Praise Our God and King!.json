@@ -1,0 +1,50 @@
+﻿{
+  "Number": 10,
+  "Title": "Praise, O Praise Our God and King!",
+  "Author": "Henry Williams Baker",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise, O praise our God and King!",
+        "Hymns of adoration sing;",
+        "For His mercies still endure,",
+        "Ever faithful, ever sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Praise Him that He made the sun",
+        "Day by day his course to run,",
+        "And the silver moon by night,",
+        "Shining with her gentle light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Praise Him for our harvest store;",
+        "He hath filled the garner floor;",
+        "And for richer food than this,",
+        "Pledge of everlasting bliss."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

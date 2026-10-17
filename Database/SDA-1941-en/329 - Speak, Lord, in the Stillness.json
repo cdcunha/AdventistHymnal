@@ -1,0 +1,102 @@
+﻿{
+  "Number": 329,
+  "Title": "Speak, Lord, in the Stillness",
+  "Author": "E. May Grimes",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Speak, Lord, in the stillness,",
+        "While I wait on Thee;",
+        "Hushed my heart to listen,",
+        "In expectancy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Speak, O blessed Master,",
+        "In this quiet hour;",
+        "Let me see Thy face, Lord,",
+        "Feel Thy touch of power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "For the words Thou speakest,",
+        "\"They are life\" indeed;",
+        "Living bread from heaven,",
+        "Now my spirit feed!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All to Thee is yielded,",
+        "I am not my own;",
+        "Blissful, glad surrender,",
+        "I am Thine alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Speak, Thy servant heareth,",
+        "Be not silent, Lord;",
+        "Waits my soul upon Thee",
+        "For the quickening word!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Fill me with the knowledge",
+        "Of Thy glorious will;",
+        "All Thine own good pleasure",
+        "In Thy child fulfill."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    },
+    {
+      "Lines": [
+        "Like \"a watered garden,\"",
+        "Full of fragrance rare,",
+        "Lingering in Thy presence,",
+        "Let my life appear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 7
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6",
+    "Verse 7"
+  ]
+}

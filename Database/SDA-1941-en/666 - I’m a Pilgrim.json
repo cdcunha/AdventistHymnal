@@ -1,0 +1,105 @@
+﻿{
+  "Number": 666,
+  "Title": "I’m a Pilgrim",
+  "Author": "Mary Dana Shindler",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I'm a pilgrim, and I'm a stranger;",
+        "I can tarry, I can tarry but a night;",
+        "Do not detain me, for I am going",
+        "To where the fountains are ever flowing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I'm a pilgrim, and I'm a stranger;",
+        "I can tarry, I can tarry but a night."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There the glory is ever shining!",
+        "O, my longing heart, my longing heart is there;",
+        "Here in this country so dark and dreary,",
+        "I long have wandered forlorn and weary."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There's the city to which I journey;",
+        "My Redeemer, my Redeemer is its light!",
+        "There is no sorrow, nor any sighing,",
+        "Nor any tears there, or any dying."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Farewell, neighbors, with tears I’ve warned you,",
+        "I must leave you, I must leave you and be gone!",
+        "With this your portion, your heart’s desire,",
+        "Why will you perish in raging fire?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Father, mother, and sister, brother!",
+        "If you will not journey with me, I must go!",
+        "Now since your vain hopes you will thus cherish,",
+        "Should I, too, linger, and with you perish?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Farewell, drear earth, by sin so blighted,",
+        "In immortal beauty soon you’ll be arrayed;",
+        "He who has formed thee will soon restore thee,",
+        "And then the dread curse shall nevermore be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus",
+    "Verse 6",
+    "Chorus"
+  ]
+}

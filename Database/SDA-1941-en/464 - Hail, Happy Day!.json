@@ -1,0 +1,63 @@
+﻿{
+  "Number": 464,
+  "Title": "Hail, Happy Day!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hail, happy day! thou day of holy rest;",
+        "What heavenly peace and transport fill our breast",
+        "When Christ, the Lord of grace, in love descends,",
+        "And kindly holds communion with His friends!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Let earth and all its vanities be gone,",
+        "Move from my sight, and leave my soul alone;",
+        "Its flattering, fading glories I despise,",
+        "And to immortal beauties turn my eyes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Fain would I mount, and penetrate the skies,",
+        "And on my Saviour's glories fix my eyes;",
+        "O meet my rising soul, Thou God of love,",
+        "And waft it to the blissful realms above!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Son of God, exalted on Thy throne,",
+        "Impart that grace which comes from Thee alone;",
+        "Thou, by whose love our light and peace are given,",
+        "Bring us, dear Saviour, to Thyself and heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

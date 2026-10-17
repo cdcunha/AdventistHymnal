@@ -1,0 +1,71 @@
+﻿{
+  "Number": 474,
+  "Title": "Rock of Ages",
+  "Author": "Augustus Montague Toplady",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee;",
+        "Let the water and the blood,",
+        "From Thy riven side which flowed,",
+        "Be of sin the double cure,",
+        "Cleanse me from its guilt and power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Not the labor of my hands",
+        "Can fulfill Thy law’s demands;",
+        "Could my zeal no respite know,",
+        "Could my tears forever flow,",
+        "All for sin could not atone;",
+        "Thou must save, and Thou alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Nothing in my hand I bring,",
+        "Simply to Thy cross I cling;",
+        "Naked, come to thee for dress;",
+        "Helpless, look to thee for grace;",
+        "Foul, I to the fountain fly;",
+        "Wash me, Savior, or I die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When my pilgrimage I close;",
+        "Victor o’er the last of foes,",
+        "When I soar to worlds unknown,",
+        "See Thee on Thy judgment throne,",
+        "Rock of Ages, cleft for me,",
+        "Let me hide myself in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 97,
+  "Title": "Lord of the Ocean",
+  "Author": "A. Harker",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord of the ocean vast and deep,",
+        "With sovereign power Thy children keep;",
+        "Thy glorious sun that reigns on high",
+        "Is rivaled by Thy watchful eye."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord of the storm, supreme in power,",
+        "Send forth Thy light in earth's dark hour;",
+        "As flashing lightning speeds through space,",
+        "Advance Thy truth o'er all our race."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord of the bounds of east and west,",
+        "Speed on Thy great millennial rest",
+        "Till saints of every age and clime",
+        "Behold Thy glorious form divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Sovereign Lord, omniscient, reign",
+        "Supreme o'er all Thy vast domain;",
+        "Let universal voices sing",
+        "Earth's loveliest anthem to her King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

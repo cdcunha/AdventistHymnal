@@ -1,0 +1,79 @@
+﻿{
+  "Number": 5,
+  "Title": "God's Free Mercy Streameth",
+  "Author": "William Walsham How",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God's free mercy streameth",
+        "Over all the world,",
+        "And His banner gleameth,",
+        "By His church unfurled;",
+        "Broad and deep and glorious,",
+        "As the heaven above,",
+        "Shines in might victorious",
+        "His eternal love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Summer suns are glowing",
+        "Over land and sea;",
+        "Happy light is flowing,",
+        "Bountiful and free;",
+        "Everything rejoices",
+        "In the mellow rays;",
+        "Earth's ten thousand voices",
+        "Swell the psalm of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, upon our blindness",
+        "Thy pure radiance pour;",
+        "For Thy lovingkindness",
+        "We would love Thee more;",
+        "And when clouds are drifting",
+        "Dark across the sky,",
+        "Then, the veil uplifting,",
+        "Father, be Thou nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "We will never doubt Thee,",
+        "Tho' Thou veil Thy light;",
+        "Life is dark without Thee,",
+        "Death with Thee is bright.",
+        "Light of light, shine o'er us",
+        "On our pilgrim way,",
+        "Go Thou still before us",
+        "To the endless day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

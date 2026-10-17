@@ -1,0 +1,24 @@
+﻿{
+  "Number": 683,
+  "Title": "Praise God, From Whom All Blessings Flow",
+  "Author": "Thomas Ken",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise God, from whom all blessings flow;",
+        "Praise Him, all creatures here below;",
+        "Praise Him above, ye heav’nly host;",
+        "Praise Father, Son, and Holy Ghost."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

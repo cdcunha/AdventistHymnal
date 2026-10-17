@@ -1,0 +1,71 @@
+﻿{
+  "Number": 19,
+  "Title": "Angel Voices Ever Singing",
+  "Author": "Francis Pott",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Angel voices ever singing",
+        "Round Thy throne of light;",
+        "Angel harps, forever ringing,",
+        "Rest not day nor night.",
+        "Thousands only live to bless Thee,",
+        "And confess Thee Lord of might."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou who art beyond the farthest",
+        "Mortal eye can scan,",
+        "Can it be that Thou regardest",
+        "Songs of sinful man?",
+        "Can we feel that Thou art near us,",
+        "And wilt hear us? Yea, we can."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Yea, we know Thy love rejoices",
+        "O'er each work of Thine;",
+        "Thou didst ears and hands and voices",
+        "For Thy praise combine;",
+        "Craftsman's art and music's measure",
+        "For Thy pleasure Didst design."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Here, great God, today we offer",
+        "Of Thine own to Thee;",
+        "And for Thine acceptance proffer,",
+        "All unworthily,",
+        "Hearts and minds and hands and voices,",
+        "In our choicest Melody."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

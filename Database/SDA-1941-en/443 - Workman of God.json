@@ -1,0 +1,76 @@
+﻿{
+  "Number": 443,
+  "Title": "Workman of God",
+  "Author": "Timothy Dudley-Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Workman of God, O lose not heart,",
+        "But learn what God is like;",
+        "And on the darkest battlefield",
+        "Thou shalt know where to strike."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thrice blest is he to whom is given",
+        "The instinct that can tell",
+        "That God is on the field, when He",
+        "Is most invisible."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Blest, too, is he who can divine",
+        "Where truth and justice lie,",
+        "And dares to take the side that seems",
+        "Wrong to man's blinded eye."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then learn to scorn the praise of men,",
+        "And learn to lose with God;",
+        "For Jesus won the world through shame,",
+        "And beckons thee His road."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "For right is right, since God is God,",
+        "And right the day must win;",
+        "To doubt would be disloyalty,",
+        "To falter would be sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

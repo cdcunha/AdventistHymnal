@@ -1,0 +1,50 @@
+﻿{
+  "Number": 250,
+  "Title": "When, My Saviour, Shall I Be",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When, my Saviour, shall I be",
+        "Perfectly resigned to Thee?",
+        "Poor and vile in my own eyes,",
+        "Only in thy wisdom wise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Only thee content to know,",
+        "Ignorant of all below;",
+        "Only guided by thy light,",
+        "Only mighty in thy might?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Fully in my life express",
+        "All the heights of holiness;",
+        "Sweetly let my spirit prove",
+        "All the depths of humble love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

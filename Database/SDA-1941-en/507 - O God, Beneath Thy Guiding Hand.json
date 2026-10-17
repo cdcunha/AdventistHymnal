@@ -1,0 +1,63 @@
+﻿{
+  "Number": 507,
+  "Title": "O God, Beneath Thy Guiding Hand",
+  "Author": "Leonard Bacon",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God, beneath Thy guiding hand",
+        "Our exiled fathers crossed the sea;",
+        "And when they trod the wintry strand,",
+        "With prayer and psalm they worshiped Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou heardest, well pleased, the song, the prayer;",
+        "Thy blessing came; and still its power",
+        "Shall onward, through all ages, bear",
+        "The memory of that holy hour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Laws, freedom, truth, and faith in God",
+        "Came with those exiles o'er the waves;",
+        "And, where their pilgrim feet have trod,",
+        "The God they trusted guards their graves."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And here Thy Name, o God of love,",
+        "Their children's children shall adore,",
+        "Till these eternal hills remove,",
+        "And spring adorns the earth no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

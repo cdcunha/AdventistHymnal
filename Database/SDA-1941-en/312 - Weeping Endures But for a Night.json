@@ -1,0 +1,89 @@
+﻿{
+  "Number": 312,
+  "Title": "Weeping Endures But for a Night",
+  "Author": "Annie R. Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Weeping endures but for a night,",
+        "Joy cometh with the morning light;",
+        "Joy cometh of celestial birth,",
+        "Unsullied by the blight of earth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Joy comes each faithful heart to thrill,",
+        "That fears of change no more will chill;",
+        "Transporting joy, that fills the soul",
+        "While everlasting ages roll."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Then, mourning pilgrim, upward gaze;",
+        "Beyond this dark and thorny maze",
+        "A joy for every tear is found,",
+        "A healing balm for every wound."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "No sorrow there shall dim the eye,",
+        "No wintry winds or storms are nigh,",
+        "No sighs borne on the fragrant air;",
+        "But all shall in the glory share."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Awake, for, lo, not distant far,",
+        "The rising of the Morning Star;",
+        "O watch to catch the newborn ray",
+        "That ushers in a cloudless day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Hail! glorious morn, whose radiant light",
+        "Shall bid the darkness take its flight;",
+        "Shall chase the shades of gloom away,",
+        "And night be turned to endless day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

@@ -32,6 +32,11 @@ namespace AdventistHymnal.Components
             foreach (string filePath in filePaths)
             {
                 Hymn hymn = JsonConvert.DeserializeObject<Hymn>(File.ReadAllText(filePath));
+                if (hymn == null)
+                {
+                    throw new JsonSerializationException($"Could not deserialize hymn file: {filePath}");
+                }
+
                 Hymns.Add(hymn);
 
                 if (MinNumber > hymn.Number)
@@ -45,11 +50,17 @@ namespace AdventistHymnal.Components
                 }
             }
 
+            if (filePaths.Length == 0)
+            {
+                MinNumber = 0;
+                MaxNumber = -1;
+            }
+
             Logger.LogMessage("Hymn database initialized");
             return true;
         }
 
-        public Hymn GetHymn(int number)
+		public Hymn GetHymn(int number)
 		{
 			foreach (Hymn hymn in Hymns)
 			{

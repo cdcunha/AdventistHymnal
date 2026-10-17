@@ -1,0 +1,63 @@
+﻿{
+  "Number": 63,
+  "Title": "Thy Mighty Love, O God",
+  "Author": "E. May Grimes",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thy mighty love, O God, constraineth me,",
+        "As some strong tide it presseth on its way,",
+        "Seeking a channel in my self-bound soul,",
+        "Yearning to sweep all barriers away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Shall I not yield to that constraining power?",
+        "Shall I not say, O tide of love, flow in?",
+        "My God, Thy gentleness hath conquered me,",
+        "Life cannot be as it hath hither been."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Break through my nature, mighty, heavenly Love,",
+        "Clear every avenue of thought and brain,",
+        "Flood my affections, purify my will,",
+        "Let nothing but Thine own pure life remain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thus wholly mastered and possessed by God,",
+        "Forth from my life, spontaneous and free,",
+        "Shall flow a stream of tenderness and grace,",
+        "Loving, because God loved, eternally."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

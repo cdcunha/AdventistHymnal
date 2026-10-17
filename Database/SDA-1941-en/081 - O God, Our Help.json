@@ -1,0 +1,76 @@
+﻿{
+  "Number": 81,
+  "Title": "O God, Our Help",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God, our help in ages past,",
+        "Our hope for years to come,",
+        "Our shelter from the stormy blast,",
+        "And our eternal home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Under the shadow of thy throne,",
+        "Still may we dwell secure;",
+        "Sufficient is Thine arm alone,",
+        "And our defense is sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Before the hills in order stood,",
+        "Or earth received her frame,",
+        "From everlasting, Thou art God,",
+        "To endless years the same."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "A thousand ages, in Thy sight,",
+        "Are like an evening gone;",
+        "Short as the watch that ends the night,",
+        "Before the rising sun."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O God, our help in ages past,",
+        "Our hope for years to come;",
+        "Be thou our guide while life shall last,",
+        "And our eternal home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

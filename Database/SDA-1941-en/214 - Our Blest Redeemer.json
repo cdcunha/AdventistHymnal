@@ -1,0 +1,76 @@
+﻿{
+  "Number": 214,
+  "Title": "Our Blest Redeemer",
+  "Author": "Harriitt Ausltr",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Our blest Redeemer, ere he breathed",
+        "His tender last farewell,",
+        "A Guide, a Comforter, bequeathed",
+        "With us to dwell."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He came sweet influence to impart,",
+        "A gracious, willing Guest,",
+        "While he can find one humble heart",
+        "Wherein to rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And his that gentle voice we hear,",
+        "Soft as the breath of even,",
+        "That checks the wrong, that calms the fear,",
+        "And speaks of Heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And every virtue we possess,",
+        "And every victory won,",
+        "And every thought of holiness",
+        "Are his alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Spirit of purity and grace,",
+        "Our weakness, pitying, see;",
+        "O make our hearts thy dwelling place,",
+        "Till all like thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

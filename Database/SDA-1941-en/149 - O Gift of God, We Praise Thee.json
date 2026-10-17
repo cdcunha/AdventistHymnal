@@ -1,0 +1,50 @@
+﻿{
+  "Number": 149,
+  "Title": "O Gift of God, We Praise Thee",
+  "Author": "Grace Elma Uhlbr",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Gift of God, we praise Thee,",
+        "That ever Thou didst come",
+        "To guide our wayward footsteps",
+        "Back to the Father’s home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Gift of God, we take Thee",
+        "To be our All in All;",
+        "We know Thou art sufficient",
+        "Whatever may befall."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Gift of God, we give Thee",
+        "Ourselves, Thine own to be;",
+        "Accept us, save and keep us",
+        "Throughout eternity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

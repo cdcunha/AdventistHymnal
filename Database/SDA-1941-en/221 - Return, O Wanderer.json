@@ -1,0 +1,76 @@
+﻿{
+  "Number": 221,
+  "Title": "Return, O Wanderer",
+  "Author": "William B. Collyer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Return, O wanderer, return,",
+        "And seek thy Father's face;",
+        "Those new desires which in thee burn,",
+        "Were kindled by His grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Return, O wanderer, return;",
+        "He hears thy humble sigh;",
+        "He sees thy softened spirit mourn,",
+        "When no one else is nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Return, O wanderer, return;",
+        "Thy Saviour bids thee live;",
+        "Come to his cross, and, grateful, learn",
+        "How freely He'll forgive."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Return, O wanderer, return;",
+        "And wipe the falling tear;",
+        "Thy Father calls-no longer mourn;",
+        "'Tis love invites thee near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Return, O wanderer, return;",
+        "Regain thy long, sought rest;",
+        "The Saviour's melting mercies yearn",
+        "To clasp thee to his breast."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

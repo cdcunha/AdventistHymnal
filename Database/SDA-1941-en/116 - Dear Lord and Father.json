@@ -1,0 +1,81 @@
+﻿{
+  "Number": 116,
+  "Title": "Dear Lord and Father",
+  "Author": "John Greenleaf Whittier",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Dear Lord and Father of mankind,",
+        "Forgive our feverish ways;",
+        "Reclothe us in our rightful mind,",
+        "In purer lives Thy service find,",
+        "In deeper reverence, praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In simple trust like theirs who heard,",
+        "Beside the Syrian sea,",
+        "The gracious calling of the Lord,",
+        "Let us, like them, without a word,",
+        "Rise up and follow Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Sabbath rest by Galilee,",
+        "O calm of hills above!",
+        "Where Jesus knelt to share with thee",
+        "The silence of eternity,",
+        "Interpreted by love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Drop thy still dews of quietness,",
+        "Till all our strivings cease,",
+        "Take from our souls the strain and stress,",
+        "And let our ordered lives confess",
+        "The beauty of thy peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Breathe through the heats of our desire,",
+        "Thy coolness and thy balm;",
+        "Let sense be dumb, let flesh retire;",
+        "Speak through the earthquake, wind, and fire,",
+        "O still small voice of calm!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

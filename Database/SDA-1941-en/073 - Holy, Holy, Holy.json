@@ -1,0 +1,50 @@
+﻿{
+  "Number": 73,
+  "Title": "Holy, Holy, Holy",
+  "Author": "Reginald Heber",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy, holy, holy! Lord God Almighty!",
+        "Early in the morning our song shall rise to Thee;",
+        "Holy, holy, holy, merciful and mighty!",
+        "God over all who rules eternity!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Holy, holy, holy! Angels adore Thee,",
+        "Casting down their golden crowns around the glassy sea;",
+        "Thousands and ten thousands worship low before Thee,",
+        "Which wert, and art, and evermore shalt be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Holy, holy, holy! though the darkness hide Thee,",
+        "Though the eye of man Thy great glory may not see;",
+        "Only Thou art holy; there is none beside Thee,",
+        "Perfect in power, in love, and purity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

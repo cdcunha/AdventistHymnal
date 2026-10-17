@@ -1,0 +1,63 @@
+﻿{
+  "Number": 486,
+  "Title": "God of the Universe",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God of the universe, to Thee",
+        "These sacred walls we rear;",
+        "And now, with songs and bended knee,",
+        "Invoke Thy presence here."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here let Thy love, Thy presence, dwell;",
+        "Thy glory here make known;",
+        "Thy people's home, o come and fill,",
+        "And seal it as Thine own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When sad with care, by sin oppressed,",
+        "Here may the burdened soul",
+        "Beneath Thy sheltering wing find rest;",
+        "Here make the wounded whole."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when the last long Sabbath morn",
+        "Upon the just shall rise,",
+        "May all who own Thee here, be borne",
+        "To mansions in the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

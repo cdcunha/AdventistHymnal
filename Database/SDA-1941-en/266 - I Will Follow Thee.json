@@ -1,0 +1,93 @@
+﻿{
+  "Number": 266,
+  "Title": "I Will Follow Thee",
+  "Author": "James Lawson Elginburg",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I will follow thee, my Saviour,",
+        "Wheresoe'er my lot may be.",
+        "Where thou goest I will follow;",
+        "Yes, my Lord, I'll follow thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I will follow thee, my Saviour,",
+        "Thou didst shed thy blood for me;",
+        "And though all men should forsake thee;",
+        "By thy grace I'll follow thee."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Though the road be rough and thorny,",
+        "Trackless as the foaming sea,",
+        "Thou hast trod this way before me,",
+        "And I'll gladly follow thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Though I meet with tribulations,",
+        "Sorely tempted though I be;",
+        "I remember thou wast tempted,",
+        "And rejoice to follow thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Though thou leadest me through affliction,",
+        "Poor, forsaken though I be;",
+        "Thou wast destitute, afflicted,",
+        "And I only follow thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Though to Jordan's rolling billows,",
+        "Cold and deep, thou leadest me,",
+        "Thou hast crossed the waves before me,",
+        "And I still will follow thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

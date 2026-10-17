@@ -1,0 +1,81 @@
+﻿{
+  "Number": 30,
+  "Title": "Lord, We Come Before Thee Now",
+  "Author": "William Hammond",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, we come before Thee now,",
+        "At Thy feet we humbly bow;",
+        "O do not our suit disdain!",
+        "Shall we seek Thee, Lord, in vain?",
+        "Shall we seek Thee, Lord, in vain?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, on Thee our souls depend;",
+        "In compassion now descend,",
+        "Fill our hearts with Thy rich grace,",
+        "Tune our lips to sing Thy praise,",
+        "Tune our lips to sing Thy praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Send some message from Thy word",
+        "That may joy and peace afford;",
+        "Let Thy Spirit now impart",
+        "Full salvation to each heart,",
+        "Full salvation to each heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Comfort those who weep and mourn,",
+        "Let the time of joy return;",
+        "Those that are cast down lift up,",
+        "Make them strong in faith and hope,",
+        "Make them strong in faith and hope."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Grant that all may seek, and find",
+        "Thee a God supremely kind;",
+        "Heal the sick, the captive free;",
+        "Let us all rejoice in Thee,",
+        "Let us all rejoice in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,0 +1,65 @@
+﻿{
+  "Number": 550,
+  "Title": "Beautiful Valley of Eden",
+  "Author": "William Orcutt Cushing",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Beautiful valley of Eden,",
+        "Sweet is thy noontide calm;",
+        "Over the hearts of the weary,",
+        "Breathing thy waves of balm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Beautiful valley of Eden,",
+        "Home of the pure and blest,",
+        "How often amid the wild billows",
+        "I dream of thy rest, sweet rest!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Over the heart of the mourner",
+        "Shineth the golden day,",
+        "Wafting the songs of the angels",
+        "Down from the far away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is the home of my Saviour;",
+        "There, with the blood-washed throng,",
+        "Over the highlands of glory",
+        "Rolleth the great new song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

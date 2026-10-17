@@ -1,0 +1,76 @@
+﻿{
+  "Number": 203,
+  "Title": "The Word Can Make Me Whole",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Word, whose word can make me whole,",
+        "Has heard my spirit's cry,",
+        "And in the palace of the soul,",
+        "He dwells! my Lord and I!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How holy must the temple be,",
+        "Where Jesus reigns within!",
+        "His precious blood, outpoured for me,",
+        "I trust to make me clean."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And he is come! To whom the praise,",
+        "The joy of heaven, belong;",
+        "My face I veil, my hands I raise,",
+        "And \"silence is my song.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And now to me the gladdest thing",
+        "Be his sweet will alone;",
+        "Content, since I am with the King,",
+        "To make his choice my own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "He makes his palace in my soul,",
+        "He brings my spirit nigh;",
+        "Within my heart, 'neath his control",
+        "I dwell — my Lord and I!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

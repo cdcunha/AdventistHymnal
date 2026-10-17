@@ -1,0 +1,79 @@
+﻿{
+  "Number": 388,
+  "Title": "Purer Yet and Purer",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Purer yet and purer",
+        "I would be in mind,",
+        "Dearer every and dearer",
+        "Every duty find;",
+        "Hoping still and trusting",
+        "God without a fear,",
+        "Patiently believing",
+        "He will make all clear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Calmer yet and calmer",
+        "In the hours of pain,",
+        "Surer yet and surer",
+        "Peace at last to gain;",
+        "Suffer still and doing,",
+        "To His will resigned,",
+        "And to God subduing",
+        "Heart and will and mind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Higher yet and higher",
+        "Out of clouds and night,",
+        "Nearer yet and nearer",
+        "Rising to the light -",
+        "Light serene and holy,",
+        "Where my soul may rest,",
+        "Purified and lowly,",
+        "Sanctified and blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Swifter yet and swifter",
+        "Ever onward run,",
+        "Firmer yet and firmer",
+        "Step as I go on;",
+        "Oft these earnest longings",
+        "Swell within my breast,",
+        "Yet their inner meaning",
+        "Ne'er can be expressed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

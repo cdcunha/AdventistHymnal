@@ -1,0 +1,45 @@
+﻿{
+  "Number": 299,
+  "Title": "There Is a Land Of Pure Delight",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a land of pure delight,",
+        "Where saints immortal reign,",
+        "Infinite day excludes the night,",
+        "And pleasures banish pain.",
+        "There everlasting spring abides,",
+        "And never withering flowers,",
+        "And but a little space divides",
+        "This heav’nly land from ours."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O could we make our doubts remove,",
+        "Those gloomy thoughts that rise,",
+        "And see the Canaan that we love,",
+        "With unbeclouded eyes;",
+        "Could we but climb where Moses stood,",
+        "And view the landscape o’er,",
+        "Not all this world's pretended good",
+        "Could ever charm us more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

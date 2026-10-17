@@ -1,0 +1,79 @@
+﻿{
+  "Number": 561,
+  "Title": "There Is a Gate That Stands Ajar",
+  "Author": "Lillian Baxter",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a gate that stands ajar,",
+        "And through its portals gleaming,",
+        "A radiance from the cross afar,",
+        "The Saviour's love revealing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O depth of mercy! can it be",
+        "That gate was left ajar for me?",
+        "For me, for me?",
+        "Was left ajar for me?"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "That gate ajar stands free for all",
+        "Who seek through it salvation;",
+        "The rich and poor, the great and small",
+        "Of every tribe and nation."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Press onward, then, though foes may frown;",
+        "While mercy's gate is open",
+        "Accept the cross, and win the crown,",
+        "Love's everlasting token."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Beyond the river's brink we'll lay",
+        "The cross that here is given,",
+        "And bear the crown of life away,",
+        "And love Him more in heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "Number": 408,
+  "Title": "Lord, Thy Children Guide",
+  "Author": "Unknown",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, Thy children guide and keep,",
+        "As with feeble steps they press,",
+        "On the pathway rough and steep,",
+        "Through this weary wilderness:",
+        "Holy Jesus, day by day",
+        "Lead us in the narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There are sandy wastes that lie",
+        "Cold and sunless, vast and drear,",
+        "Where the feeble faint and die;",
+        "Grant us grace to persevere.",
+        "Holy Jesus, day by day",
+        "Lead us in the narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There are soft and flowery glades",
+        "Decked with golden fruited trees,",
+        "Sunny slopes and scented shades;",
+        "Keep us, Lord, from slothful ease;",
+        "Holy Jesus, day by day",
+        "Lead us in the narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Upward still to purer heights,",
+        "Onward yet to scenes more blest,",
+        "Calmer regions, clearer lights,",
+        "Till we reach the promised rest;",
+        "Holy Jesus, day by day",
+        "Lead us in the narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

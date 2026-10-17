@@ -1,0 +1,63 @@
+﻿{
+  "Number": 432,
+  "Title": "Blest Be the Tie",
+  "Author": "John Fawcett",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Blest be the tie that binds",
+        "Our hearts in Christian love!",
+        "The fellowship of kindred minds",
+        "Is like to that above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Before our Father's throne",
+        "We pour our ardent prayers;",
+        "Our fears, our hopes, our aims are one,",
+        "Our comforts and our cares."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We share our mutual woes,",
+        "Our mutual burdens bear,",
+        "And often for each other flows",
+        "The sympathizing tear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When we asunder part,",
+        "It gives us inward pain;",
+        "But we shall still be joined in heart,",
+        "And hope to meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

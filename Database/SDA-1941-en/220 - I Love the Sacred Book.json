@@ -1,0 +1,76 @@
+﻿{
+  "Number": 220,
+  "Title": "I Love the Sacred Book",
+  "Author": "Thomas Kelly",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I love the sacred book of God,",
+        "No other can its place supply;",
+        "It points me to the saints' abode,",
+        "And bids me from destruction fly."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Sweet book! in thee my eyes discern",
+        "The image of my absent Lord;",
+        "From thy instructive page I learn",
+        "The joys His presence will afford."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But while I'm here, thou shalt supply",
+        "His place, and tell me of His love;",
+        "I'll read with faith's discerning eye,",
+        "And thus partake of joys above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Within thy sacred lids is found",
+        "A transcript of my Maker's will;",
+        "Treasures of knowledge here abound,",
+        "The deepest, loftiest mind to fill."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Light of the world, thy beams impart,",
+        "To lead my feet through life's dark way;",
+        "O, shine on this benighted heart,",
+        "Nor let me from thy guidance stray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

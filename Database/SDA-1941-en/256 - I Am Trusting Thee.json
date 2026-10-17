@@ -1,0 +1,63 @@
+﻿{
+  "Number": 256,
+  "Title": "I Am Trusting Thee",
+  "Author": "Frances Ridley Havergal",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I am trusting thee, Lord Jesus,",
+        "Trusting only thee;",
+        "Trusting thee for full salvation,",
+        "Great and free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I am trusting thee for pardon;",
+        "At thy feet I bow;",
+        "For thy grace and tender mercy,",
+        "Trusting now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I am trusting thee to guide me;",
+        "Thou alone shalt lead;",
+        "Every day and hour supplying",
+        "All my need."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I am trusting thee, Lord Jesus;",
+        "Never let me fall;",
+        "I am trusting thee forever,",
+        "And for all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

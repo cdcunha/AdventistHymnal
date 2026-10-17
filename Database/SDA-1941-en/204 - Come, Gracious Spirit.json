@@ -1,0 +1,63 @@
+﻿{
+  "Number": 204,
+  "Title": "Come, Gracious Spirit",
+  "Author": "Simon Browne",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, gracious Spirit, heav'nly Dove,",
+        "With light and comfort from above;",
+        "Be Thou our Guardian, Thou our Guide;",
+        "O'er all thoughts and step preside."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "To us the light of truth display,",
+        "And make us know and choose thy way;",
+        "Plant holy fear in every heart,",
+        "That we from God may ne'er depart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lead us to holiness — the road",
+        "That we must take to dwell with God;",
+        "Lead us to Christ, the living way,",
+        "Nor let us from his precepts stray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lead us to God, our final rest,",
+        "To be with him forever blest;",
+        "Lead us to heaven, its bliss to share",
+        "Fullness of joy forever there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

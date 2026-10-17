@@ -1,0 +1,50 @@
+﻿{
+  "Number": 147,
+  "Title": "Dear Saviour, We Would Know",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Dear Saviour, we would know Thy love",
+        "Which yet no measure knows;",
+        "For us it led Thee once to die;",
+        "From thence salvation flows."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Fain would we strike the golden harp,",
+        "And wear the promised crown,",
+        "And at Thy feet, while bending low,",
+        "Would sing what grace hath done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Then leave us not in this dark world,",
+        "As strangers long to roam;",
+        "Come, Lord, and take us to Thyself,",
+        "Come, jesus, quickly come!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

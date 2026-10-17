@@ -1,0 +1,79 @@
+﻿{
+  "Number": 164,
+  "Title": "O Saviour, Precious Saviour",
+  "Author": "Frances Ridley Havergal",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Saviour, precious Saviour,",
+        "Whom, yet unseen, we love,",
+        "O Name of might and favor,",
+        "All other names above!",
+        "We worship Thee, we bless Thee,",
+        "To Thee, O Christ we sing;",
+        "We praise Thee, and confess Thee",
+        "Our holy Lord and King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O bringer of salvation,",
+        "Who wondrously hast wrought,",
+        "Thyself the revelation",
+        "Of love beyond out thought,",
+        "We worship Thee, we bless Thee,",
+        "To Thee, O Christ we sing;",
+        "We praise Thee, and confess Thee",
+        "Our gracious Lord and King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In Thee all fulness dwelleth,",
+        "All grace and power divine;",
+        "The glory that excelleth,",
+        "O Son of God, is Thine;",
+        "We worship Thee, we bless Thee,",
+        "To Thee, O Christ we sing;",
+        "We praise Thee, and confess Thee",
+        "Our glorious Lord and King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O grant the consummation",
+        "Of this our song above,",
+        "In endless adoration,",
+        "And everlasting love;",
+        "Then shall we praise and bless Thee",
+        "Where perfect praises ring,",
+        "And evermore confess Thee",
+        "Our Saviour and our King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

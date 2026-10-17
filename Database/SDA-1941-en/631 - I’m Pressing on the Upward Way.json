@@ -1,0 +1,79 @@
+﻿{
+  "Number": 631,
+  "Title": "I’m Pressing on the Upward Way",
+  "Author": "Johnson Oatman Jr",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I’m pressing on the upward way,",
+        "New heights I’m gaining every day;",
+        "Still praying as I onward bound,",
+        "“Lord, plant my feet on higher ground.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, lift me up, and I shall stand",
+        "By faith on heaven's tableland;",
+        "A higher plane than I have found;",
+        "Lord, plant my feet on higher ground."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "My heart has no desire to stay",
+        "Where doubts arise and fears dismay;",
+        "Though some may dwell where these abound,",
+        "My prayer, my aim, is higher ground."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I want to live above the world,",
+        "Though Satan’s darts at me are hurled;",
+        "For faith has caught the joyful sound,",
+        "The song of saints on higher ground."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I want to scale the utmost height,",
+        "And catch a gleam of glory bright;",
+        "But still I’ll pray till heaven I’ve found,",
+        "“Lord, lead me on to higher ground.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

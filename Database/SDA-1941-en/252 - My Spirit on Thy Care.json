@@ -1,0 +1,63 @@
+﻿{
+  "Number": 252,
+  "Title": "My Spirit on Thy Care",
+  "Author": "Henry Francis Lyte",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My spirit on thy care,",
+        "Blest Saviour, I recline;",
+        "Thou wilt not leave me to despair,",
+        "For Thou art love divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In thee I place my trust,",
+        "On thee I calmly rest;",
+        "I know thee good, I know thee just,",
+        "And count thy choice the best."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Whate'er events betide,",
+        "Thy will they all perform;",
+        "Safe in Thy breast my head I hide,",
+        "Nor fear the coming storm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let good or ill befall,",
+        "It must be good for me,",
+        "Secure of having Thee in all,",
+        "Of having all in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

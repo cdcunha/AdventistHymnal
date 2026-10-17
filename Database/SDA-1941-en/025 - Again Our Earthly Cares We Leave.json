@@ -1,0 +1,63 @@
+﻿{
+  "Number": 25,
+  "Title": "Again Our Earthly Cares We Leave",
+  "Author": "John Newton",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Again our earthly cares we leave,",
+        "And to Thy courts repair;",
+        "Again with joyful feet we taste",
+        "To meet our Saviour there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Great Shepherd of Thy people, here",
+        "Thy presence now display.",
+        "We bow within Thy house of prayer;",
+        "O give us hearts to pray!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The clouds which veil Thee from our sight,",
+        "In pity, Lord, remove;",
+        "Dispose our minds to hear aright",
+        "The message of Thy love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The feeling heart, the melting eyes,",
+        "The humble mind, bestow;",
+        "And shine upon us from above,",
+        "To make our graces grow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

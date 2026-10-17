@@ -1,0 +1,77 @@
+﻿{
+  "Number": 569,
+  "Title": "Jesus Is Tenderly Calling",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus is tenderly calling thee home —",
+        "Calling today, calling today;",
+        "Why from the sunshine of love wilt thou roam",
+        "Farther and farther away?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Calling today, calling today;",
+        "Jesus is calling, is tenderly calling today."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Jesus is calling the weary to rest —",
+        "Calling today, calling today;",
+        "Bring Him thy burden, and thou shalt be blest;",
+        "He will not turn thee away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Jesus is waiting — oh, come to Him now —",
+        "Waiting today, waiting today;",
+        "Come with thy sins, at His feet lowly bow;",
+        "Come, and no longer delay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Jesus is pleading — oh, list to His voice —",
+        "Hear Him today, hear Him today;",
+        "They who believe on His name shall rejoice;",
+        "Quickly arise and away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

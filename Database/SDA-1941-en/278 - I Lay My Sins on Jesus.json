@@ -1,0 +1,62 @@
+﻿{
+  "Number": 278,
+  "Title": "I Lay My Sins on Jesus",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I lay my sins on Jesus,",
+        "The spotless Lamb of God;",
+        "He bears them all, and frees us",
+        "From the accursed load;",
+        "I bring my guilt to Jesus,",
+        "To wash my crimson stains",
+        "White in His blood most precious,",
+        "Till not a stain remains."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I lay my wants on Jesus;",
+        "All fullness dwells in Him;",
+        "He healeth my diseases,",
+        "He doth my soul redeem;",
+        "I lay my griefs on Jesus,",
+        "My burdens and my cares;",
+        "He from them all releases,",
+        "He all my sorrow shares."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I long to be like Jesus,",
+        "Meek loving, lowly, mild;",
+        "I long to be like Jesus,",
+        "The Father's holy child;",
+        "I long to be with Jesus",
+        "Amid the heavenly throng,",
+        "To sing with saints His praises,",
+        "And learn the angels' song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

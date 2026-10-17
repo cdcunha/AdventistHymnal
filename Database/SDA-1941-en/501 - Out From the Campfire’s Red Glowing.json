@@ -1,0 +1,77 @@
+﻿{
+  "Number": 501,
+  "Title": "Out From the Campfire’s Red Glowing",
+  "Author": "Arthur W. French",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Out from the campfire's red glowing,",
+        "Cheerfully shedding its light,",
+        "On to the pickets we're going,",
+        "For the long watches of night;",
+        "Let us be careful that slumber",
+        "Press not our eyelids too hard —",
+        "Surely not one of our number",
+        "Must be found sleeping on guard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Yes, sleeping on guard,",
+        "Sleeping on guard,",
+        "No! surely not one of our number",
+        "Must be found sleeping on guard."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Yonder Rum's camp lights are burning;",
+        "Hark to the revelry there!",
+        "Waiting the conflict returning,",
+        "Scouts are abroad everywhere;",
+        "We must be watchful and ready,",
+        "See every entrance is barred,",
+        "Keeping our heads cool and steady —",
+        "All is lost, sleeping on guard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Our aim is vigilance ever,",
+        "We can allow no defeat;",
+        "Truehearted soldiers will never",
+        "Join in the coward's retreat;",
+        "Wary and watchful be keeping,",
+        "Though the task be e'er so hard,",
+        "Knowing what dangers come creeping",
+        "When we are sleeping on guard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

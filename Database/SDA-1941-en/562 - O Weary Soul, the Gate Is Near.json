@@ -1,0 +1,79 @@
+﻿{
+  "Number": 562,
+  "Title": "O Weary Soul, the Gate Is Near",
+  "Author": "James Rowe",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O weary soul, the gate is near,",
+        "In sin why still abide?",
+        "Both peace and rest are waiting here,",
+        "And you are just outside."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Just outside the door, just outside the door,",
+        "Behold, it stands ajar!",
+        "Just outside the door, just outside the door,",
+        "So near and yet so far!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Forgiveness Jesus will impart,",
+        "To save your soul He died;",
+        "How can you still offend His heart",
+        "By staying just outside?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The day of life is passing by;",
+        "Soon night your soul will hide;",
+        "And then \"Too late\" will be your cry,",
+        "If you are just outside!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Come in, be free from stains of sin,",
+        "Be glad, be satisfied;",
+        "Before the tempest breaks, come in,",
+        "And leave your past outside."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

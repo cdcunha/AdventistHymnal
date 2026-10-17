@@ -1,0 +1,50 @@
+﻿{
+  "Number": 439,
+  "Title": "With Willing Hearts We Tread",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "With willing hearts we tread",
+        "The path the Saviour trod;",
+        "We love th'example of our head,",
+        "The glorious Lamb of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "On Thee, on Thee alone,",
+        "Our hope and faith rely,",
+        "O Thou who wilt for sin atone,",
+        "Who didst for sinners die!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We trust Thy sacrifice,",
+        "To Thy dear cross we flee;",
+        "O may we die to sin, and rise",
+        "To life and bliss in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

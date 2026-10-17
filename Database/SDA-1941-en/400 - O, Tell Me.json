@@ -1,0 +1,76 @@
+﻿{
+  "Number": 400,
+  "Title": "O, Tell Me",
+  "Author": "Thomas Hastings",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O, tell me, Thou life and delight of my soul,",
+        "Where the flock of Thy pasture are feeding.",
+        "I seek Thy protection, I need Thy control;",
+        "I would go where my Shepherd is leading."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, tell me the place where the flock are at rest,",
+        "Where the noontide will find them reposing;",
+        "The tempest now rages, my soul is distressed,",
+        "And the pathway of peace I am losing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And why should I stray with the flocks of Thy foes,",
+        "In the desert where now they are roving;",
+        "Where hunger and thirst, where contentions and woes,",
+        "Where fierce conflicts their ruin are proving?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Ah, when shall my woes and my wandering cease,",
+        "And the follies that fill me with weeping?",
+        "O Shepherd of Israel, restore me that peace",
+        "Thou dost give to the flock Thou art keeping!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "A voice from the Shepherd now bids me return",
+        "By the way where the footprints are lying;",
+        "No longer to wander, no longer to mourn;",
+        "And homeward my spirit is flying."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

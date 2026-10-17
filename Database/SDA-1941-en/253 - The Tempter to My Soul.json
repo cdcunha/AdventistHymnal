@@ -1,0 +1,63 @@
+﻿{
+  "Number": 253,
+  "Title": "The Tempter to My Soul",
+  "Author": "James Montgomery",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The tempter to my soul hath said,",
+        "\"There is no help in God for thee;\"",
+        "Lord! lift thou up thy servant's head;",
+        "My glory, shield, and solace be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thus to the Lord I raised my cry;",
+        "He heard me from his holy hill;",
+        "At his command the waves rolled by;",
+        "He beckoned, and the winds were still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I laid me down and slept, I woke —",
+        "Thou, Lord, my spirit didst sustain;",
+        "Bright, from the east, the morning broke;",
+        "Thy comforts rose on me again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I will not fear, though armed throngs",
+        "Compass my steps in all their wrath;",
+        "Salvation to the Lord belongs;",
+        "His presence guards His people's path."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

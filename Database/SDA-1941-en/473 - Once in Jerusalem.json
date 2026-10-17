@@ -1,0 +1,62 @@
+﻿{
+  "Number": 473,
+  "Title": "Once in Jerusalem",
+  "Author": "T. R. Williamson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Once in Jerusalem of old",
+        "Our Saviour washed their feet",
+        "Who climbed with Him Judea's hills,",
+        "And roved its valleys sweet.",
+        "With lowly attitude and mien",
+        "To them He bowed the knee,",
+        "Thus showing how love's service blends",
+        "With meek humility."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "But far from that low path of grace",
+        "His people since have trod,",
+        "And erring feet have trampled down",
+        "The ordinance of God.",
+        "Come brothers, sisters, let us raise",
+        "This long-forgotten rite;",
+        "Bow each to each with humble minds,",
+        "And walk in duty's light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With holy kiss, with words of love,",
+        "With hearts all kind and true,",
+        "We'll banish thoughts of envious pride,",
+        "As Jesus' friends should do.",
+        "Dear Saviour, help us keep more near",
+        "The good old Bible ways;",
+        "Head, hands, and feet we pray Thee wash,",
+        "That we may speak Thy praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

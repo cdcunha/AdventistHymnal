@@ -1,0 +1,67 @@
+﻿{
+  "Number": 4,
+  "Title": "With Reverence Let the Saints Appear",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "With reverence let the saints appear,",
+        "And bow before the Lord;",
+        "His high commands with reverence hear,",
+        "And tremble at His word;",
+        "And tremble at His word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How terrible Thy glories be!",
+        "How bright Thine armies shine!",
+        "Where is the power that vies with Thee,",
+        "Or truth compared with Thine?",
+        "Or truth compared with Thine?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sing, all ye ransomed of the Lord,",
+        "Your great Deliverer sing;",
+        "Ye pilgrims now for Zion bound,",
+        "Be joyful in your King;",
+        "Be joyful in your King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Jesus, Lord of earth and heaven,",
+        "Our life and joy, to Thee",
+        "Be honor, thanks, and blessing given",
+        "Through all eternity;",
+        "Through all eternity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

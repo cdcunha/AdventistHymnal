@@ -1,0 +1,62 @@
+﻿{
+  "Number": 7,
+  "Title": "The Lord in Zion Reigneth",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord in Zion reigneth,",
+        "Let all the world rejoice,",
+        "And come before His throne of grace",
+        "With tuneful heart and voice;",
+        "The Lord in Zion reigneth,",
+        "And there His praise shall ring,",
+        "To Him shall princes bend the knee",
+        "And kings their glory bring."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The Lord in Zion reigneth,",
+        "And who so great as He?",
+        "The depths of earth are in His hands;",
+        "He rules the mighty sea.",
+        "O crown His Name with honor,",
+        "And let His standard wave,",
+        "Till distant isles beyond the deep",
+        "Shall own His power to save."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The Lord in Zion reigneth,",
+        "These hours to Him belong;",
+        "O enter now His temple gates,",
+        "And fill His courts with song;",
+        "Beneath His royal banner",
+        "Let every creature fall,",
+        "Exalt the King of heaven and earth,",
+        "And crown Him Lord of all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 352,
+  "Title": "One Sweetly Solemn Thought",
+  "Author": "Phoebe Carey",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "One sweetly solemn thought",
+        "Comes to me o’er and o’er;",
+        "Nearer to my home today am I",
+        "Than e’er I’ve been before."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Nearer my Father’s house,",
+        "Where many mansions be;",
+        "Nearer today, the great white throne,",
+        "Nearer the crystal sea."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Nearer the bound of life",
+        "Where burdens are laid down;",
+        "Nearer to leave the heavy cross,",
+        "Nearer to gain the crown."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "But lying darkly between,",
+        "Winding down through the night,",
+        "There rolls the deep and unknown stream",
+        "That leads at last to light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Father, perfect my trust;",
+        "Strengthen my power of faith!",
+        "Nor let me stand, at last, alone",
+        "Upon the shore of death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

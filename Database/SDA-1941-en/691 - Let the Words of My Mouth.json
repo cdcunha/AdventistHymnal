@@ -1,0 +1,25 @@
+﻿{
+  "Number": 691,
+  "Title": "Let the Words of My Mouth",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let the words of my mouth",
+        "And the meditations of my heart",
+        "Be acceptable in Thy sight,",
+        "O Lord, my strength and my Redeemer.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

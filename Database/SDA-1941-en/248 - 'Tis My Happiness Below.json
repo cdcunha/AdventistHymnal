@@ -1,0 +1,63 @@
+﻿{
+  "Number": 248,
+  "Title": "'Tis My Happiness Below",
+  "Author": "William Cowper",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "’Tis my happiness below",
+        "Not to live without the cross;",
+        "But the Saviour’s power to know,",
+        "Sanctifying every loss."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Trials must and will befall;",
+        "But with humble faith to see",
+        "Love inscribed upon them all —",
+        "This is happiness to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Did I meet no trials here,",
+        "No chastisement by the way,",
+        "Might I not with reason fear",
+        "I should prove a castaway?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Trials make the promise sweet;",
+        "Trials give new life to prayer;",
+        "Trials bring me to his feet,",
+        "Lay me low, and keep me there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

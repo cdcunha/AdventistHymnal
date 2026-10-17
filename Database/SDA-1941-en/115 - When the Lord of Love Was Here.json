@@ -1,0 +1,86 @@
+﻿{
+  "Number": 115,
+  "Title": "When the Lord of Love Was Here",
+  "Author": "Stopford Brooke",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When the Lord of love was here,",
+        "Happy hearts to Him were dear,",
+        "Though His heart was sad;",
+        "Worn and lonely for our sake,",
+        "Yet he turned aside to make",
+        "All the weary glad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Meek and lowly were His ways,",
+        "From His loving grew His praise,",
+        "From His giving, prayer;",
+        "All the outcast thronged to hear,",
+        "All the sorrowful drew near",
+        "To enjoy His care."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When he walked the fields, He drew",
+        "From the flowers and birds and dew,",
+        "Parables of God;",
+        "For within His heart of love",
+        "All the soul of man did move,",
+        "God had His abode."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, be ours Thy power to keep",
+        "In the very heart of grief,",
+        "And in trial, love.",
+        "In our meekness to be wise,",
+        "And through sorrows to arise",
+        "To' our God above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Fill us with Thy deep desire",
+        "All the sinful to inspire,",
+        "With the Father’s life;",
+        "Free us from the cares that press",
+        "On the heart of worldliness",
+        "From the fret and strife."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

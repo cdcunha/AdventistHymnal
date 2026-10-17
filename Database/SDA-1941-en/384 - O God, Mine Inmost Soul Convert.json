@@ -1,0 +1,71 @@
+﻿{
+  "Number": 384,
+  "Title": "O God, Mine Inmost Soul Convert",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God, mine inmost soul convert,",
+        "And deeply on my thoughtful heart",
+        "Eternal things impress;",
+        "Give me to feel their solemn weigh,",
+        "And save me ere it be too late;",
+        "Wake me to righteousness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Before me place in dread array",
+        "The pomp of that tremendous day",
+        "When Thou with clouds shalt come",
+        "To judge the nations at Thy bar;",
+        "And tell me, Lord, shall I be there,",
+        "To hear Thy welcome home?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Be this my one great business here,",
+        "With serious industry and fear",
+        "Eternal bliss t' ensure",
+        "Thy utmost counsel to fulfill,",
+        "And suffer all Thy righteousness will,",
+        "And to the end endure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then, Father, then my soul receive,",
+        "Transported from this vale, to live",
+        "And reign with Thee above,",
+        "Where faith is sweetly lost in sight,",
+        "And hope in full, supreme delight,",
+        "And everlasting love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

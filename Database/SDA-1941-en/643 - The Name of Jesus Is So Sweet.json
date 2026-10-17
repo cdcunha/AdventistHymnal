@@ -1,0 +1,79 @@
+﻿{
+  "Number": 643,
+  "Title": "The Name of Jesus Is So Sweet",
+  "Author": "W. C. Martin",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The name of Jesus is so sweet,",
+        "I love its music to repeat;",
+        "It makes my joys full and complete,",
+        "The precious name of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "\"Jesus,\" oh, how sweet the name!",
+        "\"Jesus,\" every day the same;",
+        "\"Jesus,\" let all saints proclaim",
+        "Its worthy praise forever."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I love the name of Him Whose heart",
+        "Knows all my grief's and bears a part;",
+        "Who bids all anxious fears depart —",
+        "I love the name of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "That name I fondly love to hear,",
+        "It never fails my heart to cheer,",
+        "Its music dries the falling tear;",
+        "Exalt the name of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "No word of man can ever tell",
+        "How sweet the name I love so well;",
+        "Oh, let its praises ever swell;",
+        "Oh, praise the name of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

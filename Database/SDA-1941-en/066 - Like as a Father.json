@@ -1,0 +1,67 @@
+﻿{
+  "Number": 66,
+  "Title": "Like as a Father",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Like as a father pities his child,",
+        "So the Lord pities the sinner defiled;",
+        "Waiteth in kindness,",
+        "Pities our blindness,",
+        "Longeth to welcome, though often reviled."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Like as a father when we believe,",
+        "Merciful still, He will gladly receive;",
+        "Listens to hear us,",
+        "Blesses to cheer us,",
+        "Pities whenever His Spirit we grieve."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Like as a father, ever the same,",
+        "He hath created, and knoweth our frame;",
+        "Watcheth the straying,",
+        "Guardeth the praying,",
+        "Bids us to trust in His almighty name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Like as a father, constant is He,",
+        "God in compassion regardeth our plea;",
+        "In need He cometh,",
+        "Precious His promise:",
+        "Father in heaven forever to be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

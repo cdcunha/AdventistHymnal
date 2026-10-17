@@ -1,0 +1,50 @@
+﻿{
+  "Number": 460,
+  "Title": "How Sweet the Light",
+  "Author": "James Edmeston",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How sweet the light of Sabbath eve!",
+        "How soft the sunbeams lingering there!",
+        "For these blest hours the world I leave,",
+        "Wafted on wings of faith and prayer."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Season of rest! the tranquil soul",
+        "Feels the sweet calm, and melts in love;",
+        "And while these sacred moments roll,",
+        "Faith sees a smiling heaven above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Nor will our days of toil be long;",
+        "Our pilgrimage will soon be trod;",
+        "And we shall join the ceaseless song,",
+        "The endless Sabbath of our God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

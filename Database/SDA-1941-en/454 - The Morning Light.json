@@ -1,0 +1,62 @@
+﻿{
+  "Number": 454,
+  "Title": "The Morning Light",
+  "Author": "Samuel Francis Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The morning light is breaking,",
+        "The darkness disappears;",
+        "The sons of earth are waking",
+        "To penitential tears;",
+        "Each breeze that sweeps the ocean",
+        "Brings tidings from afar",
+        "Of nations in commotion,",
+        "Prepared for Zion's war."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "See heathen nations bending",
+        "Before the God we love,",
+        "And thousand hearts ascending",
+        "In gratitude above;",
+        "While sinners, now confessing,",
+        "The gospel call obey,",
+        "And seek the Saviour's blessing,",
+        "A nation in a day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Blest river of salvation,",
+        "Pursue thy onward way;",
+        "Flow thou to every nation,",
+        "Nor in thy richness stay",
+        "Stay not till all the lowly,",
+        "Triumphant reach their home;",
+        "Stay not till all the holy",
+        "Proclaim, \"The Lord is come!\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

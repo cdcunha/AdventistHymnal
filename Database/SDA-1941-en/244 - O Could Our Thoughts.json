@@ -1,0 +1,63 @@
+﻿{
+  "Number": 244,
+  "Title": "O Could Our Thoughts",
+  "Author": "Anne Steele",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O could our thoughts and wishes fly,",
+        "Above these gloomy shades,",
+        "To those bright worlds beyond the sky,",
+        "Where sorrow ne'er invades!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There, joys unseen by mortal eyes,",
+        "Or reason's feeble ray,",
+        "In ever-blooming prospect rise,",
+        "Exposed to no decay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, send a beam of light divine,",
+        "To guide our upward aim;",
+        "With one reviving look of Thine,",
+        "Our languid hearts inflame."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O then, on faith's sublimest wing,",
+        "Our ardent souls shall rise",
+        "To those bright scenes where pleasures spring",
+        "Immortal in the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

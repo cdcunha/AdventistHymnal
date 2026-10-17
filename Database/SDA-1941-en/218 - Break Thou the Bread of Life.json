@@ -1,0 +1,62 @@
+﻿{
+  "Number": 218,
+  "Title": "Break Thou the Bread of Life",
+  "Author": "Mary Artemisia Lathbury",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Break thou the bread of life,",
+        "Dear Lord, to me,",
+        "As thou didst break the loaves",
+        "Beside the sea;",
+        "Beyond the sacred page",
+        "I seek thee, Lord;",
+        "My spirit pants for thee,",
+        "O living Word!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Bless thou the truth revealed",
+        "This day to me,",
+        "As thou didst bless the bread",
+        "By Galilee;",
+        "Then shall all bondage cease,",
+        "All fetters fall;",
+        "And I shall find in thee,",
+        "My all in all!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Spirit and life are they,",
+        "Words thou dost speak;",
+        "I hasten to obey,",
+        "But I am weak;",
+        "Thou art my only help,",
+        "Thou art my life;",
+        "Heeding thy holy word",
+        "I win the strife."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

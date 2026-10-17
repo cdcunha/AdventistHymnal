@@ -1,0 +1,79 @@
+﻿{
+  "Number": 594,
+  "Title": "I Am Thine, O Lord",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I am Thine, O Lord, I have heard Thy voice,",
+        "And it told Thy love to me;",
+        "But I long to rise in the arms of faith,",
+        "And be closer drawn to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Draw me nearer, nearer, blessed Lord,",
+        "To the cross where thou hast died.",
+        "Draw me nearer, nearer, nearer, blessed Lord,",
+        "To Thy precious, bleeding side."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Consecrate me now to Thy service, Lord,",
+        "By the power of grace divine;",
+        "May my soul look up with a steadfast hope,",
+        "And my will be lost in Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O the pure delight of a single hour",
+        "That before Thy throne I spend,",
+        "When I kneel in prayer, and with Thee, my God,",
+        "I commune as friend with friend!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "There are depths of love that I cannot know",
+        "Till I cross the narrow sea;",
+        "There are heights of joy that I may not reach",
+        "Till I rest in peace with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

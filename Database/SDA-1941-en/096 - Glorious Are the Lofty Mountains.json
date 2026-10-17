@@ -1,0 +1,76 @@
+﻿{
+  "Number": 96,
+  "Title": "Glorious Are the Lofty Mountains",
+  "Author": "Arthur Warren",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Glorious are the lofty mountains",
+        "In the early morning's gleam,",
+        "When the soft glow of the sunshine",
+        "Lights them with its golden beam."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How those vapors, gently floating,",
+        "Kiss the great snowcrested peaks!",
+        "In the splendor of the mountains",
+        "Our Creator surely speaks."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Oft of old the psalmist David,",
+        "Playing harp of solemn sound,",
+        "Sung his songs of God's protection",
+        "When he viewed the hills around."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Sunset rays o'er Judah's mountains",
+        "Touched the clouds with heavenly light",
+        "Till they seemed like hosts of angels",
+        "Sent to guard him through the night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Wondrous everlasting mountains!",
+        "Symbols of Jehovah's might!",
+        "There earth reaches up to heaven,",
+        "There heaven first gives earth its light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

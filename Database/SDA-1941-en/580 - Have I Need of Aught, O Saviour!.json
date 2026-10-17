@@ -1,0 +1,79 @@
+﻿{
+  "Number": 580,
+  "Title": "Have I Need of Aught, O Saviour!",
+  "Author": "Carie F. Davis",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Have I need of aught, O Saviour!",
+        "Aught on earth but Thee?",
+        "Have I any in the heavens,",
+        "Anyone but Thee?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Only Thee, only Thee.",
+        "O the wondrous love shown me!",
+        "Only Thee, only Thee,",
+        "None on earth but Thee."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Though I have of friends so many.",
+        "Love, and gold. and health,",
+        "If I have not Thee, my Saviour,",
+        "Hold I any wealth?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Is there heart so kind and patient",
+        "With my failings all?",
+        "Or a voice so true and ready,",
+        "Answering my call?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Not for worlds would I exchange it —",
+        "This sweet faith in Thee!",
+        "Earthly treasures cannot equal",
+        "All Thou art to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

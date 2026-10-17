@@ -1,0 +1,79 @@
+﻿{
+  "Number": 609,
+  "Title": "There Comes to My Heart One Sweet Strain",
+  "Author": "Peter Philip Bilhorn",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There comes to my heart one sweet strain,",
+        "A glad and a joyous refrain;",
+        "I sing it again and again,",
+        "Sweet peace, the gift of God's love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Peace, peace, sweet peace,",
+        "Wonderful gift from above,",
+        "Oh, wonderful, wonderful peace,",
+        "Sweet peace, the gift of God's love."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Through Christ on the cross peace was made,",
+        "My debt by His death was all paid;",
+        "No other foundation is laid",
+        "For peace, the gift of God's love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When Jesus as Lord I had crowned,",
+        "My heart with this peace did abound,",
+        "In Him the rich blessing I found,",
+        "Sweet peace, the gift of God's love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In Jesus for peace I abide,",
+        "And as I keep close to His side,",
+        "There's nothing but peace doth betide,",
+        "Sweet peace, the gift of God's love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

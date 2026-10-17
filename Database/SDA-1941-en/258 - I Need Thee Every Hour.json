@@ -1,0 +1,94 @@
+﻿{
+  "Number": 258,
+  "Title": "I Need Thee Every Hour",
+  "Author": "Annie S. Hawks",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I need thee every hour,",
+        "Most gracious Lord;",
+        "No tender voice like thine",
+        "Can peace afford."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I need thee,",
+        "O I need thee!",
+        "Every hour I need thee;",
+        "O bless me now, my Savior!",
+        "I come to thee."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I need thee every hour;",
+        "Stay thou nearby;",
+        "Temptations lose their power",
+        "When thou art nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I need thee every hour,",
+        "In joy or pain;",
+        "Come quickly and abide,",
+        "Or life is vain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I need thee every hour;",
+        "Teach me thy will;",
+        "And thy rich promises",
+        "In me fulfill."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "I need thee every hour;",
+        "Most Holy One;",
+        "O make me thine indeed,",
+        "Thou blessed Son."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

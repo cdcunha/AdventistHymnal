@@ -1,0 +1,50 @@
+﻿{
+  "Number": 34,
+  "Title": "Saviour, Again to Thy Dear Name",
+  "Author": "John Ellerton",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Saviour, again to Thy dear name we raise",
+        "With one accord our parting hymn of praise.",
+        "We stand to bless Thee ere our worship cease,",
+        "Then, lowly kneeling, wait Thy word of peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Grant us Thy peace upon our homeward way;",
+        "With Thee began, with Thee shall end, the day.",
+        "Guard Thou the lips from sin, the heart from shame,",
+        "That in this house have called upon Thy name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Grant us Thy peace throughout our earthly life,",
+        "Our balm in sorrow, and our stay in strife.",
+        "Then when Thy voice shall bid our conflict cease,",
+        "Call us, O Lord, to Thine eternal peace!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

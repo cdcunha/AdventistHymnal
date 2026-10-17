@@ -1,0 +1,63 @@
+﻿{
+  "Number": 207,
+  "Title": "Let Thy Spirit, Blessed Saviour",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let thy Spirit, blessed Saviour,",
+        "Come and bid our doubtings cease;",
+        "Come, O, come with love and favor,",
+        "Fill us all with joy and peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Fearful dangers are around us,",
+        "Satan watches to destroy;",
+        "Lord, our foes would fain confound us;",
+        "O, for us thy might employ!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "On thy word our souls are resting;",
+        "Taught by thee, thy name we love;",
+        "Sweetest of all names is Jesus;",
+        "How it doth our spirits move!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let us not, O Lord, be weary",
+        "Of the roughness of the way;",
+        "Though the road be often dreary,",
+        "Thou shalt drive our gloom away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "Number": 257,
+  "Title": "Call Jehovah Thy Salvation",
+  "Author": "J. Ntgo Y.",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Call Jehovah thy salvation,",
+        "Rest beneath th' Almighty's shade;",
+        "In his secret habitation",
+        "Dwell, and never be dismayed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Since, with pure and firm affection",
+        "Thou on God hast set thy love,",
+        "With the wings of his protection",
+        "He will shield thee from above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thou shalt call on him in trouble,",
+        "He will hearken, He will save;",
+        "For thy grief reward thee double,",
+        "Crown with life beyond the grave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

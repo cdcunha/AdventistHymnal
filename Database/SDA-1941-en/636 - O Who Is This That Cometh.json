@@ -1,0 +1,78 @@
+﻿{
+  "Number": 636,
+  "Title": "O Who Is This That Cometh?",
+  "Author": "R. W. Todd",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O who is this that cometh",
+        "From Edom's crimson plain.",
+        "With wounded side, with garments dyed?",
+        "O tell me now Thy name.",
+        "\"I that saw thy soul's distress,",
+        "A ransom gave;",
+        "I that speak in rightiousness,",
+        "Mighty to save.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Mighty to save,",
+        "Mighty to save,",
+        "Mighty to save;",
+        "Lord, I trust Thy wondrous love,",
+        "Mighty to save."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O why is Thine apparel,",
+        "With reeking gore all dyed,",
+        "Like them that tread the wine press red?",
+        "O why this bloody tide?",
+        "\"I the wine press trod alone,",
+        "'Neath darkening skies;",
+        "Of the people there was none",
+        "Mighty to save.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O bleeding Lamb, my Saviour!",
+        "How could'st Thou bear this shame?",
+        "With mercy fraught, mine own arm brought",
+        "Salvation in My name;",
+        "I the bloody fight have won,",
+        "Conquered the grave,",
+        "Now the year of joy has come —",
+        "Mighty to save.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

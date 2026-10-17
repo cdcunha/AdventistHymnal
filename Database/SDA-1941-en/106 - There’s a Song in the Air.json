@@ -1,0 +1,71 @@
+﻿{
+  "Number": 106,
+  "Title": "There’s a Song in the Air",
+  "Author": "Josiah Gilbert Holland",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There's a song in the air!",
+        "There's a star in the sky!",
+        "There's a mother's deep prayer",
+        "And a baby's low cry!",
+        "And the star rains its fire While the beautiful sing,",
+        "For the manger of Bethlehem Cradles a King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There's a tumult of joy",
+        "O'er the wonderful birth,",
+        "For the virgin's sweet boy",
+        "Is the Lord of the earth.",
+        "Aye! the star rains its fire While the beautiful sing,",
+        "For the manger of Bethlehem Cradles a King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In the light of that star",
+        "Lie the ages impearled;",
+        "And that song from afar",
+        "Has swept over the world.",
+        "Every hearth is aflame, And the beautiful sing",
+        "In the homes of the nations That Jesus is King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "We rejoice in the light,",
+        "And we echo the song",
+        "That comes down through the night",
+        "From the heavenly throng.",
+        "Aye! we shout to the lovely Evangel they bring,",
+        "And we greet in his cradle Our Savior and King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

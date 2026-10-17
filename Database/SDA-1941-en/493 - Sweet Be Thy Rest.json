@@ -1,0 +1,65 @@
+﻿{
+  "Number": 493,
+  "Title": "Sweet Be Thy Rest",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sweet be thy rest,",
+        "And peaceful thy sleeping;",
+        "God's way is best,",
+        "Thou art in His keeping.",
+        "O blessed sleep",
+        "Where ills ne'er molest thee!",
+        "Why should we weep?",
+        "For Heaven hath blessed thee,",
+        "Sweet be thy rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thy work is done,",
+        "Thy sowing and reaping;",
+        "Thy crown is won,",
+        "And hushed is thy weeping.",
+        "From tears and woes,",
+        "From earth's midnight dreary,",
+        "Thine is repose",
+        "Where none ever weary.",
+        "Sweet be thy rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sweet be thy rest;",
+        "No more we may greet thee",
+        "'Till with the blest",
+        "In heaven we meet thee.",
+        "O union sweet",
+        "That death cannot sever!",
+        "There we shall meet,",
+        "Where sad tears fall never.",
+        "Sweet be thy rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

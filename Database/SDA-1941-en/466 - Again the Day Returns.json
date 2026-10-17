@@ -1,0 +1,63 @@
+﻿{
+  "Number": 466,
+  "Title": "Again the Day Returns",
+  "Author": "William Tidd Matson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Again the day returns of holy rest,",
+        "Which, when He made the world, Jehovah blest;",
+        "When, like His own, He bade our labors cease,",
+        "And all be piety, and all be peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Let us devote this consecrated day",
+        "To learn His will, and all we learn obey;",
+        "So shall He hear, when fervently we raise",
+        "Our supplications, and our songs of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord of all worlds, incline Thy gracious ear;",
+        "Thy children's voice in tender mercy hear;",
+        "Bear Thy blest promise, fixed as hills, in mind,",
+        "And shed renewing grace on lost mankind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Father in heaven, in whom our hopes confide,",
+        "Whose power defends us, and whose precepts guide,",
+        "Through life our surest guardian, and friend,",
+        "Glory supreme be Thine till time shall end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 124,
+  "Title": "Alas! and Did My Saviour Bleed?",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Alas! and did my Savior bleed?",
+        "And did my Sovereign die?",
+        "Would He devote that sacred head",
+        "For sinners such as I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Was it for crimes that I have done,",
+        "He groaned upon the tree?",
+        "Amazing pity! grace unknown!",
+        "And love beyond degree!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Well might the sun in darkness hide,",
+        "And shut its glories in,",
+        "When Christ, the mighty Maker, died",
+        "For man, the creature's sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thus might I hide my blushing face,",
+        "While His dear cross appears,",
+        "Dissolve my heart in thankfulness,",
+        "And melt mine eyes to tears."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "But drops of grief can ne'er repay",
+        "The debt of love I owe;",
+        "Here, Lord, I give myself away;",
+        "'Tis all that I can do."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using AdventistHymnal.Components;
 using AdventistHymnal.Exporter;
 using AdventistHymnal.Importer;
@@ -11,36 +13,21 @@ namespace AdventistHymnal
 		public const string DatabaseDirectory = @".\Database\";
 		public const string OutputDirectory = @".\Outputs\";
 		public const string InputDirectory = @".\Inputs\";
-
-		public static HymnDatabase DB
-		{
-			get
-			{
-				if (_db == null)
-				{
-					_db = new HymnDatabase();
-                    _db.LoadData(DatabaseDirectory);
-                }
-
-                return _db;
-			}
-		}
-		private static HymnDatabase _db;
 		private static int maxLinesPerSlide = 2;
 
 
-        static void Main(string[] args)
+		static void Main(string[] args)
 		{
 			MainMenu();
 		}
 
 		public static void MainMenu()
 		{
-            Console.Clear();
-			Console.WriteLine("Input the number to execute the command."); 
+			Console.Clear();
+			Console.WriteLine("Input the number to execute the command.");
 			Console.WriteLine($"1) Setup Max Lines Per Slide (Set to: {maxLinesPerSlide} lines per slide)");
-            Console.WriteLine("2) Export Hymns");
-            Console.WriteLine("3) Import Hymns");
+			Console.WriteLine("2) Export Hymns");
+			Console.WriteLine("3) Import Hymns");
 			Console.WriteLine("4) Quit");
 			Console.WriteLine();
 			Console.Write("> ");
@@ -51,14 +38,12 @@ namespace AdventistHymnal
 				return;
 			}
 
-			
-
-            if (commandId == 1)
-            {
-                maxLinesPerSlide = SetupLinesPerSlide();
-                MainMenu();
-            }
-            else if (commandId == 2)
+			if (commandId == 1)
+			{
+				maxLinesPerSlide = SetupLinesPerSlide();
+				MainMenu();
+			}
+			else if (commandId == 2)
 			{
 				ExportHymns(maxLinesPerSlide);
 			}
@@ -78,33 +63,33 @@ namespace AdventistHymnal
 
 		private static int SetupLinesPerSlide()
 		{
-            Console.WriteLine("How many lines per slide? ");
-            Console.WriteLine("1) One line per slide");
-            Console.WriteLine("2) Two lines per slide");
-            Console.WriteLine("3) Three lines per slide");
-            Console.WriteLine("4) Four lines per slide");
-            Console.WriteLine();
-            Console.Write("> ");
+			Console.WriteLine("How many lines per slide? ");
+			Console.WriteLine("1) One line per slide");
+			Console.WriteLine("2) Two lines per slide");
+			Console.WriteLine("3) Three lines per slide");
+			Console.WriteLine("4) Four lines per slide");
+			Console.WriteLine();
+			Console.Write("> ");
 
-            if (!int.TryParse(Console.ReadLine(), out int commandId))
-            {
-                return 2;
-            }
+			if (!int.TryParse(Console.ReadLine(), out int commandId))
+			{
+				return 2;
+			}
 
 			switch (commandId)
 			{
-                case 1:
-                    return 1;
-                case 2:
-                    return 2;
-                case 3:
-                    return 3;
-                case 4:
-                    return 4;
-                default:
-                    return 2;
-            }
-        }
+				case 1:
+					return 1;
+				case 2:
+					return 2;
+				case 3:
+					return 3;
+				case 4:
+					return 4;
+				default:
+					return 2;
+			}
+		}
 
 		private static void ExportHymns(int maxLinesPerSlide)
 		{
@@ -113,25 +98,26 @@ namespace AdventistHymnal
 			Console.WriteLine();
 			Console.Write("> ");
 
-			if (!int.TryParse(Console.ReadLine(), out int commandId))
+			if (!int.TryParse(Console.ReadLine(), out int commandId) || commandId != 1)
 			{
 				MainMenu();
 				return;
 			}
 
-			if (commandId == 1)
-			{
-				new ProPresenterExporter(maxLinesPerSlide).ExportAll();
-			}
-			else
+			string collectionPath = SelectCollection(DatabaseDirectory);
+			if (collectionPath == null)
 			{
 				MainMenu();
 				return;
 			}
-			
+
+			HymnDatabase database = new();
+			database.LoadData(collectionPath);
+			new ProPresenterExporter(maxLinesPerSlide, database, Path.GetFileName(collectionPath)).ExportAll();
+
 			Logger.LogMessage("Press any key to return to the main menu");
 			Console.ReadKey();
-			
+
 			MainMenu();
 		}
 
@@ -142,16 +128,55 @@ namespace AdventistHymnal
 				Directory.CreateDirectory(InputDirectory);
 			}
 
-			TextImporter importer = new();
-			importer.ImportTextFiles(InputDirectory);
+			string collectionPath = SelectCollection(InputDirectory);
+			if (collectionPath == null)
+			{
+				MainMenu();
+				return;
+			}
 
-			// Clear the old database from memory so it can be refreshed
-			_db = null;
-			
+			string databasePath = Path.Combine(DatabaseDirectory, Path.GetFileName(collectionPath));
+			TextImporter importer = new();
+			importer.ImportTextFiles(collectionPath, databasePath);
+
 			Logger.LogMessage("Press any key to return to the main menu");
 			Console.ReadKey();
-			
+
 			MainMenu();
+		}
+
+		// Returns the chosen collection folder, or null if there is nothing to choose or the choice is invalid.
+		private static string SelectCollection(string rootPath)
+		{
+			if (!Directory.Exists(rootPath))
+			{
+				Logger.LogMessage($"The {rootPath} folder does not exist");
+				Console.ReadKey();
+				return null;
+			}
+
+			string[] subFolders = Directory.GetDirectories(rootPath);
+			if (subFolders.Length == 0)
+			{
+				Logger.LogMessage($"No collection subfolders found in the {rootPath} folder");
+				Console.ReadKey();
+				return null;
+			}
+
+			Console.WriteLine("Choose a collection:");
+			for (int i = 0; i < subFolders.Length; i++)
+			{
+				Console.WriteLine($"{i + 1}) {Path.GetFileName(subFolders[i])}");
+			}
+			Console.WriteLine();
+			Console.Write("> ");
+
+			if (!int.TryParse(Console.ReadLine(), out int commandId) || commandId < 1 || commandId > subFolders.Length)
+			{
+				return null;
+			}
+
+			return subFolders[commandId - 1];
 		}
 	}
 }

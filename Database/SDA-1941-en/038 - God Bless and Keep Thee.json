@@ -1,0 +1,50 @@
+﻿{
+  "Number": 38,
+  "Title": "God Bless and Keep Thee",
+  "Author": "Henry de Fluiter",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God bless and keep thee through all thy days,",
+        "God bless and keep thee in all thy ways;",
+        "“Mizpah” our parting sweet, “Mizpah” our hearts repeat,",
+        "Till we again shall meet with songs of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How good to be where God’s children meet,",
+        "How good to worship at Jesus’ feet;",
+        "There love and peace abide, There sweetest rest beside,",
+        "There every care we hide in joy complete."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Here in His word sweet manna is found,",
+        "Here living waters for all abound;",
+        "Jesus our need supplies, And who on Him relies",
+        "He ever satisfies; His praise resound."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

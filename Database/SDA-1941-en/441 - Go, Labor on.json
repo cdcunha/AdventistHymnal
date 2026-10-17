@@ -1,0 +1,63 @@
+﻿{
+  "Number": 441,
+  "Title": "Go, Labor on",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Go, labor on, while yet 'tis day;",
+        "The world's dark night is hastening on;",
+        "Speed, speed thy work, cast sloth away!",
+        "It is not thus that souls are won."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Men die in darkness at your side",
+        "Without a hope to cheer the tomb;",
+        "Take up the torch and wave it wide —",
+        "The torch that lights time's thickest gloom."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Toil on, faint not, keep watch, and pray!",
+        "Be wise the erring soul to win,",
+        "Go forth into the world's highway,",
+        "Compel the wanderer to come in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Go, labor on; your hands are weak,",
+        "Your knees are faint, your soul cast down;",
+        "Yet falter not; the prize you seek",
+        "Is near — a kingdom and a crown!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

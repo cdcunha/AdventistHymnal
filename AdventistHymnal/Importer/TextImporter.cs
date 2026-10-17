@@ -8,9 +8,11 @@ namespace AdventistHymnal.Importer
 {
 	public class TextImporter
 	{
-		public void ImportTextFiles(string path)
+		public void ImportTextFiles(string path, string databasePath)
 		{
-			string[] files = Directory.GetFiles(path);
+			string[] files = Directory.GetFiles(path, "*.txt");
+
+			OverwritePrompt overwritePrompt = new();
 
 			if (files.Length == 0)
 			{
@@ -40,14 +42,32 @@ namespace AdventistHymnal.Importer
 
 				string json = JsonConvert.SerializeObject(hymn, Formatting.Indented);
 				
-				if (!Directory.Exists(Program.DatabaseDirectory))
-					Directory.CreateDirectory(Program.DatabaseDirectory);
-				
-				File.WriteAllText($"{Program.DatabaseDirectory}{hymn.Number:000} - {hymn.Title.MakeValidFileName()}.json", json);
-				
-				Console.WriteLine($"Imported #{hymn.Number} - {hymn.Title}");
+				if (!Directory.Exists(databasePath))
+					Directory.CreateDirectory(databasePath);
+
+				string filename = Path.Combine(databasePath, $"{hymn.Number:000} - {hymn.Title.MakeValidFileName()}.json");
+
+				if (overwritePrompt.ShouldWrite(filename))
+				{
+					File.WriteAllText(filename, json);
+					Console.WriteLine($"Imported #{hymn.Number} - {hymn.Title}");
+				}
+				else if (overwritePrompt.Cancelled)
+				{
+					break;
+				}
+				else
+				{
+					Console.WriteLine($"Skipped #{hymn.Number} - {hymn.Title}");
+				}
 			}
-			
+
+			if (overwritePrompt.Cancelled)
+			{
+				Logger.LogMessage("Import cancelled.");
+				return;
+			}
+
 			Logger.LogMessage("Hymn database generation complete!");
 		}
 

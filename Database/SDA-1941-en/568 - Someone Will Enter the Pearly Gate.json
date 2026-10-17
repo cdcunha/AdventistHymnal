@@ -1,0 +1,79 @@
+﻿{
+  "Number": 568,
+  "Title": "Someone Will Enter the Pearly Gate",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Someone will enter the pearly gate",
+        "By and by, by and by,",
+        "Taste of the glories that there await,",
+        "Shall you? shall I? Shall you? shall I?",
+        "Someone will travel the streets of gold,",
+        "Beautiful visions will there behold,",
+        "Feast on the pleasures so long foretold;",
+        "Shall you? shall I? Shall you? shall I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Someone will gladly his cross lay down",
+        "By and by, by and by,",
+        "Faithful, approved, shall receive a crown,",
+        "Shall you? shall I? Shall you? shall I?",
+        "Someone the glorious King will see,",
+        "Ever from sorrow of earth be free,",
+        "Happy with Him through eternity;",
+        "Shall you? shall I? Shall you? shall I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Someone will knock when the door is shut",
+        "By and by, by and by,",
+        "Hear a voice saying, \"I know you not;\"",
+        "Shall you? shall I? Shall you? shall I?",
+        "Someone will call and shall not be heard,",
+        "Vainly will strive when the door is barred,",
+        "Someone will fail of the saints' reward;",
+        "Shall you? shall I? Shall you? shall I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Someone will sing the triumphant song",
+        "By and by, by and by,",
+        "Join in the praise with the blood bought throng;",
+        "Shall you? shall I? Shall you? shall I?",
+        "Someone will greet on the golden shore,",
+        "Loved ones of earth, pain and parting o'er,",
+        "Safe in the glory forevermore;",
+        "Shall you? shall I? Shall you? shall I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

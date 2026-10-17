@@ -1,0 +1,65 @@
+﻿{
+  "Number": 630,
+  "Title": "Some Day the Silver Cord Will Break",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Someday the silver cord will break,",
+        "And I no more as now shall sing;",
+        "But, O, the joy when I shall wake",
+        "Within the palace of the King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "And I shall see Him face to face,",
+        "And tell the story — Saved by grace;",
+        "And I shall see Him face to face,",
+        "And tell the story — Saved by grace."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Someday my earthly house will fall,",
+        "I cannot tell how soon 'twill be,",
+        "But this I know — my all in all",
+        "Has now a place in heaven for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Someday, when fades the golden sun",
+        "Beneath the rosy-tinted west,",
+        "My blessed Lord will say, \"Well done!\"",
+        "And I shall enter into rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

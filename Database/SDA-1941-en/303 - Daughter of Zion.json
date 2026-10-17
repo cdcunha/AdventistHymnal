@@ -1,0 +1,56 @@
+﻿{
+  "Number": 303,
+  "Title": "Daughter of Zion",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Daughter of Zion, awake from thy sadness;",
+        "Awake, for thy foes shall oppress thee no more,",
+        "Bright, o'er thy hills, dawns the daystar of gladness,",
+        "Arise for the night of thy sorrow is o'er.",
+        "Daughter of Zion, awake from thy sadness;",
+        "Awake, for thy foes shall oppress thee no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Strong were thy foes; but the arm that subdued them,",
+        "And scattered their legions, was mightier far;",
+        "They fled like the chaff from the scourge that pursued them;",
+        "In vain were their steeds and their chariots of war.",
+        "Strong were thy foes; but the arm that subdued them,",
+        "And scattered their legions, was mightier far."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Daughter of Zion, the power that hath saved thee,",
+        "Extolled with the harp and the timbrel shall be.",
+        "Shout; for the foe is destroyed that enslaved thee,",
+        "The oppressor is vanquished, and Zion is free",
+        "Daughter of Zion, the power that hath saved thee,",
+        "Extolled with the harp and the timbrel shall be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

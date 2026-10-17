@@ -1,0 +1,100 @@
+﻿{
+  "Number": 582,
+  "Title": "When We Walk With the Lord",
+  "Author": "John Henry Sammis",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When we walk with the Lord",
+        "In the light of His word,",
+        "What a glory He sheds on our way!",
+        "While we do his good will,",
+        "He abides with us still,",
+        "And with all who will trust and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Trust and obey, for there's no other way",
+        "To be happy in Jesus, but to trust and obey."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Not a shadow can rise,",
+        "Not a cloud in the skies,",
+        "But His smile quickly drives it away;",
+        "Not a doubt or a fear, not a sigh nor a tear,",
+        "Can abide while we trust and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Not a burden we bear,",
+        "Not a sorrow we share,",
+        "But our toil He doth richly repay;",
+        "Not a grief nor a loss,",
+        "Not a frown or a cross,",
+        "But is blest if we trust and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "But we never can prove",
+        "The delights of His love,",
+        "Until all on the altar we lay,",
+        "For the favor He shows,",
+        "And the joy He bestows,",
+        "Are for them who will trust and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Then in fellowship sweet",
+        "We will sit at His feet,",
+        "Or we will walk by His side in the way;",
+        "What He says we will do,",
+        "Where He sends we will go,",
+        "Never fear, only trust and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

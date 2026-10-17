@@ -1,0 +1,102 @@
+﻿{
+  "Number": 341,
+  "Title": "Art Thou Weary?",
+  "Author": "John Mason Neale",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Art thou weary, art thou languid,",
+        "Art thou sore distressed?",
+        "\"Come to Me,\" saith One, \"and coming,",
+        "Be at rest.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Hath He marks to lead me to Him,",
+        "If He be my guide?",
+        "\"In His feet and hands are wound prints,",
+        "And His side.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Is there diadem, as monarch,",
+        "That His brow adorns?",
+        "\"Yea, a crown, in very surety,",
+        "But of thorns.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "If I find Him, if I follow,",
+        "What my portion here?",
+        "\"Many a sorrow, many a labor,",
+        "Many a tear.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "If I still hold closely to Him,",
+        "What hath He at last?",
+        "\"Sorrow vanquished, labor ended,",
+        "Jordan passed. \""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "If I ask Him to receive me,",
+        "Will He say me nay?",
+        "\"Not till earth and not till heaven",
+        "Pass away.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    },
+    {
+      "Lines": [
+        "Finding, following, keeping, struggling,",
+        "Is He sure to bless?",
+        "\"Saints, apostles, prophets, martyrs,",
+        "Answer, Yes.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 7
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6",
+    "Verse 7"
+  ]
+}

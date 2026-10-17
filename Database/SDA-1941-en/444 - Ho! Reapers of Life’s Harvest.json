@@ -1,0 +1,79 @@
+﻿{
+  "Number": 444,
+  "Title": "Ho! Reapers of Life’s Harvest",
+  "Author": "Isaac Baker Woodbury",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ho! reapers of life's harvest,",
+        "Why stand with rusty blade",
+        "Until the night draws round thee,",
+        "And day begins to fade?",
+        "Why stand ye idle, waiting",
+        "For reapers more to come?",
+        "The golden morn is passing;",
+        "Why sit ye idle, dumb?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thrust in your sharpened sickle,",
+        "And gather in the grain;",
+        "The night is fast approaching,",
+        "And soon will come again.",
+        "The Master calls for reapers,",
+        "And shall He call in vain?",
+        "Shall sheaves lie there ungathered,",
+        "And waste upon the plain?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come down from hill and mountain,",
+        "In morning's ruddy glow,",
+        "Nor wait until the dial",
+        "Points to the noon below;",
+        "And come with the strong sinew,",
+        "Nor faint in heat or cold;",
+        "And pause not till the evening",
+        "Draws round its wealth of gold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Mount up the heights of wisdom,",
+        "And crush each error low;",
+        "Keep back no words of knowledge",
+        "That human hearts should know.",
+        "Be faithful to thy mission,",
+        "In service of thy Lord,",
+        "And soon a golden chaplet",
+        "Will be thy rich reward."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

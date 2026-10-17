@@ -1,0 +1,50 @@
+﻿{
+  "Number": 515,
+  "Title": "Jesus, Where’er Thy People Meet",
+  "Author": "William Cowper",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, where'er Thy people meet,",
+        "There they behold Thy mercy seat;",
+        "Where'er they seek Thee, Thou art found,",
+        "And every place is hallowed ground;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For Thou, within no walls confined,",
+        "Dost dwell with those of humble mind;",
+        "Such ever bring Thee where they come,",
+        "And, going, take Thee to their home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Great Shepherd of Thy chosen few,",
+        "Thy former mercies now renew;",
+        "And to our waiting hearts proclaim",
+        "The sweetness of Thy saving name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

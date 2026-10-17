@@ -1,0 +1,43 @@
+﻿{
+  "Number": 506,
+  "Title": "God Save Our Gracious King",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God save our gracious king,",
+        "Long live our noble king,",
+        "God save the king.",
+        "Send him victorious,",
+        "Happy and glorious,",
+        "Long to reign over us,",
+        "God save the king."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thy choicest gifts in store,",
+        "On him be pleased to pour;",
+        "Long may he reign.",
+        "May he defend our laws,",
+        "And ever give us cause",
+        "To sing with heart and voice,",
+        "God save the king."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

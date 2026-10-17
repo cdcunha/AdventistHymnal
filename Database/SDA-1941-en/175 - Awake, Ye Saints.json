@@ -1,0 +1,71 @@
+﻿{
+  "Number": 175,
+  "Title": "Awake, Ye Saints",
+  "Author": "Philip Doddridge",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Awake, ye saints, and raise your eyes,",
+        "And raise your voices high;",
+        "Awake, and praise that sovereign love,",
+        "That shows salvation nigh;",
+        "Awake, and praise that sovereign love,",
+        "That shows salvation nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Swift on the wings of time it flies;",
+        "Each moment brings it near;",
+        "Then welcome each declining day,",
+        "Welcome each closing year;",
+        "Then welcome each declining day,",
+        "Welcome each closing year."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Not many years their round shall run,",
+        "Not many mornings rise,",
+        "Ere all its glories stand revealed",
+        "To our admiring eyes;",
+        "Ere all its glories stand revealed",
+        "To our admiring eyes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Ye wheels of nature, speed your course!",
+        "Ye mortal powers, decay!",
+        "Haste! till the last glad morning rise",
+        "That brings eternal day;",
+        "Haste! till the last glad morning rise",
+        "That brings eternal day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

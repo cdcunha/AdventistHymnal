@@ -1,0 +1,65 @@
+﻿{
+  "Number": 681,
+  "Title": "There Is a Place of Quiet Rest",
+  "Author": "Cleland B. McAfee",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a place of quiet rest,",
+        "Near to the heart of God,",
+        "A place where sin cannot molest,",
+        "Near to the heart of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Jesus, blest Redeemer,",
+        "Sent from the heart of God,",
+        "Hold us, who wait before Thee,",
+        "Near to the heart of God."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There is a place of comfort sweet,",
+        "Near to the heart of God,",
+        "A place where we our Savior meet,",
+        "Near to the heart of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is a place of full release,",
+        "Near to the heart of God,",
+        "A place where all is joy and peace,",
+        "Near to the heart of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

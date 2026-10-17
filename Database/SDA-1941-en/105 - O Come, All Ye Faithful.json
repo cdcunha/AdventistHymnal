@@ -1,0 +1,62 @@
+﻿{
+  "Number": 105,
+  "Title": "O Come, All Ye Faithful",
+  "Author": "Frederick Oakeley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O come, all ye faithful, joyful and triumphant,",
+        "O come ye, O come ye to Bethlehem!",
+        "Come and behold Him, born the King of angels!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O come, let us adore Him,",
+        "O come, let us adore Him,",
+        "O come, let us adore Him,",
+        "Christ, the Lord!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sing, choirs of angels sing in exultation,",
+        "O sing all ye citizens of heaven above!",
+        "Glory to God, all glory in the highest!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Yea, Lord, we greet Thee, born this happy morning,",
+        "Jesus, to Thee be all glory given;",
+        "Word of the Father, now in flesh appearing!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

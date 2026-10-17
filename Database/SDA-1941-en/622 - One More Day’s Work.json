@@ -1,0 +1,108 @@
+﻿{
+  "Number": 622,
+  "Title": "One More Day’s Work",
+  "Author": "Anna B. Warner",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "One more day's work for Jesus,",
+        "One less of life for me;",
+        "But heaven is nearer,",
+        "And Christ is dearer,",
+        "Than yesterday to me;",
+        "His love and light",
+        "Fill all my soul tonight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "One more day's work for Jesus,",
+        "One more day's work for Jesus,",
+        "One more day's work for Jesus,",
+        "One less of life for me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "One more day's work for Jesus;",
+        "How glorious is my King!",
+        "Tis joy, not duty,",
+        "To speak His beauty;",
+        "My soul mounts on the wing",
+        "At the mere thought",
+        "How Christ my life has bought."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "One more day's work for Jesus;",
+        "How sweet the work has been,",
+        "To tell the story,",
+        "To show the glory,",
+        "When Christ's flock enter in!",
+        "How it did shine",
+        "In this poor heart of mine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "One more day's work for Jesus —",
+        "O yes, a weary day;",
+        "But heaven shines clearer,",
+        "And rest comes nearer,",
+        "At each step of the way,",
+        "And Christ in all —",
+        "Before His face I fall."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O blessed work for Jesus!",
+        "O rest at Jesus' feet!",
+        "There toil seems pleasure,",
+        "My wants are treasure,",
+        "And pain for Him is sweet.",
+        "Lord, if I may,",
+        "I'll serve another day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

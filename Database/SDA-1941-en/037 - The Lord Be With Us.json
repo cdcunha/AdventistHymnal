@@ -1,0 +1,50 @@
+﻿{
+  "Number": 37,
+  "Title": "The Lord Be With Us",
+  "Author": "John Ellerton",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord be with us as we bend",
+        "His blessing to receive;",
+        "His gift of peace upon us send",
+        "Before His courts we leave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The Lord be with us as we walk",
+        "Along our homeward road;",
+        "In silent thought or friendly talk",
+        "Our hearts be still with God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The Lord be with us till the night",
+        "Infold us all to rest;",
+        "Be He of every heart the light,",
+        "Of every home the guest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

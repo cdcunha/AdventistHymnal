@@ -1,0 +1,95 @@
+﻿{
+  "Number": 251,
+  "Title": "I Ask Not, Lord, for Less",
+  "Author": "Annie R. Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I ask not, Lord, for less to bear",
+        "Here in the narrow way,",
+        "But that I may thy blessing share",
+        "In all I do or say,",
+        "In all I do or say."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Through whatsoe'er my path shall lie,",
+        "With patience may I run;",
+        "With filial trust my heart reply,",
+        "\"Thy will, O God, be done.",
+        "Thy will, O God, be done.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With Thee to lead, I will not fear",
+        "In scenes with dangers rife,",
+        "While still thy cheering voice I hear,",
+        "\"I am the way, the life,",
+        "I am the way, the life\"."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thou art the refuge of my soul,",
+        "My hope when comforts flee,",
+        "My strength while life's rough billows roll,",
+        "My joy eternally,",
+        "My joy eternally."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Then help me to improve with care,",
+        "These precious moments given;",
+        "For they a faithful record bear,",
+        "Of good or ill, to heaven,",
+        "Of good or ill, to heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "And in Thine arms of love enfold",
+        "Me from the tempter's snare;",
+        "And in the book of life enrolled,",
+        "Be my name written there,",
+        "Be my name written there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

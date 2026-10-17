@@ -1,0 +1,76 @@
+﻿{
+  "Number": 396,
+  "Title": "Thy Way, Not Mine",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thy way, not mine, O Lord,",
+        "However dark it be;",
+        "Lead me by Thine own hand,",
+        "Choose out the path for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Smooth let it be or rough,",
+        "It will be still the best;",
+        "Winding or straight, it leads",
+        "Right onward to Thy rest"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I dare not choose my lot;",
+        "I would not, if I might;",
+        "Choose Thou for me, my God.",
+        "So shall I walk arigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The kingdom that I seek",
+        "Is Thine; so let the way",
+        "That leads to it be Thine,",
+        "Else I must surely stray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Not mine, not mine the choice",
+        "In things or great or small;",
+        "Be Thou my guide, my strength,",
+        "My wisdom, and my all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

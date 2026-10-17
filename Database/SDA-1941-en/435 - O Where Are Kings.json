@@ -1,0 +1,63 @@
+﻿{
+  "Number": 435,
+  "Title": "O Where Are Kings",
+  "Author": "Arthur Cleveland Coxe",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O where are kings and empires now",
+        "Of old that went and came?",
+        "But, Lord, Thy church is praying yet,",
+        "A thousand years the same."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We mark her goodly battlements,",
+        "And her foundations strong;",
+        "We hear within the solemn voice",
+        "Of her unending song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "For not like kingdoms of the world",
+        "Thy holy church, o God;",
+        "Though earthquake shocks are threatening her,",
+        "And tempests are abroad;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Unshaken as eternal hills,",
+        "Immovable she stands,",
+        "A mountain that shall fill the earth,",
+        "A house not made by hands."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

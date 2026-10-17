@@ -1,0 +1,65 @@
+﻿{
+  "Number": 650,
+  "Title": "In Joyful High and Holy Lays",
+  "Author": "E. D. Mund",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "In joyful high and holy lays",
+        "My soul her grateful voice would raise;",
+        "But who can sing the worthy praise",
+        "Of the wonderful love of Jesus?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Wonderful love! wonderful love!",
+        "Wonderful love of Jesus!",
+        "Wonderful love! wonderful love!",
+        "Wonderful love of Jesus!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "A joy by day, a peace by night,",
+        "In storms a calm, in darkness light,",
+        "In pain a balm, in weakness might,",
+        "Is the wonderful love of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "My hope for pardon when I call,",
+        "My trust for lifting when I fall,",
+        "In life, in death, my all in all,",
+        "Is the wonderful love of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

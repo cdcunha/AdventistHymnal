@@ -1,0 +1,63 @@
+﻿{
+  "Number": 240,
+  "Title": "Show Pity, Lord",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Show pity, Lord; O Lord, forgive!",
+        "Let a repenting sinner live;",
+        "Are not thy mercies large and free?",
+        "May not the guilty trust in thee?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "My crimes, though great, do not surpass",
+        "The power and glory of thy grace;",
+        "O, wash my soul from every sin,",
+        "And make my guilty conscience clean!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "My lips with shame my sins confess,",
+        "Against thy law, against thy grace;",
+        "Lord, should thy judgment be severe,",
+        "I am condemned, but thou art clear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Yet save a trembling sinner, Lord,",
+        "Whose hope, still hovering'round thy Word,",
+        "Would light on some sweet promise there,",
+        "Some sure support against despair."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,65 @@
+﻿{
+  "Number": 632,
+  "Title": "Closer to Thee, My Father, Draw Me",
+  "Author": "Mrs. E. W. Chapman",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Closer to Thee, my Father, draw me,",
+        "I long for Thine embrace;",
+        "Closer within Thine arms enfold me,",
+        "I seek a resting place."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Closer with the cords of love,",
+        "Draw me to Thyself above;",
+        "Closer draw me,",
+        "To Thyself above."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Closer to Thee, my Saviour, draw me",
+        "Nor let me leave Thee more;",
+        "Fain would I feel Thine arms around me,",
+        "And count my wanderings o'er."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Closer by Thy sweet Spirit draw me",
+        "Till I am all like Thee;",
+        "Quicken, refine, and wash, and cleanse me,",
+        "Till I am pure and free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}
