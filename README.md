@@ -15,8 +15,8 @@ If you build the project, you must copy the Inputs/Database folders into the roo
 - `Outputs/<format>/<collection-id>`: Exported files ready to be imported into presentation software, such as `Outputs/ProPresenter/SDA-1941-en`.
 
 Choose the collection when importing or exporting. The collection folder name is used as its ID and as the export subfolder name. Importing a collection writes its JSON files to the matching `Database/<collection-id>` folder.
-
-For compatibility, files placed directly in the root `Inputs` or `Database` folder are treated as the legacy `SDA-1985-en` collection. Moving them into `Inputs/SDA-1985-en` and `Database/SDA-1985-en` makes the collection explicit.
+
+Every collection must be in its own subfolder; files placed directly in the root `Inputs` or `Database` folder are ignored.
 
 ## To do
 - Improve abstraction to allow other exporters that may not have a similar syntax.
