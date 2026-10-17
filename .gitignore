@@ -14,6 +14,14 @@ x64/
 [Bb]in/
 [Oo]bj/
 
+# Visual Studio cache, user data, and temporary files
+.vs/
+*.suor
+*.userosscache
+*.sln.docstates
+*.cache
+*.use
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
