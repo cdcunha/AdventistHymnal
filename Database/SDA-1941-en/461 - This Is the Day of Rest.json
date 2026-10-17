@@ -1,0 +1,63 @@
+﻿{
+  "Number": 461,
+  "Title": "This Is the Day of Rest",
+  "Author": "John Ellerton",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "This is the day of rest;",
+        "Our failing strength renew;",
+        "On weary brain and troubled breast",
+        "Shed Thou Thy freshening dew."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "This is the day of peace;",
+        "Thy peace our spirits fill;",
+        "Bid Thou the blasts of discord cease,",
+        "The waves of strife be still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "This is the day of prayer;",
+        "Let earth to heaven draw near;",
+        "Lift up our hearts to seek Thee there;",
+        "Come down to meet us here."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "This is the best of days;",
+        "Send forth Thy quickening breath,",
+        "And wake dead souls to love and praise,",
+        "O Vanquisher of death!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

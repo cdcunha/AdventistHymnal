@@ -1,0 +1,63 @@
+﻿{
+  "Number": 121,
+  "Title": "‘Tis Midnight; and on Olives’ Brow",
+  "Author": "William B. Tappan",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "’Tis midnight; and on Olive’s brow",
+        "The star is dimmed that lately shone:",
+        "’Tis midnight; in the garden, now,",
+        "The suffering Savior prays alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "’Tis midnight; and from all removed,",
+        "The Saviour wrestles lone with fears;",
+        "E’en that disciple whom He loved",
+        "Heeds not His Master’s grief and tears."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "’Tis midnight; and for others’ guilt",
+        "The Man of Sorrows weeps in blood;",
+        "Yet He who hath in anguish knelt,",
+        "Is not forsaken by His God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "’Tis midnight; and from ether plains",
+        "Is borne the song that angels know;",
+        "Unheard by mortals are the strains",
+        "That sweetly soothe the Savior’s woe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

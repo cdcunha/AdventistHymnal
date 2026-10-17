@@ -1,0 +1,89 @@
+﻿{
+  "Number": 227,
+  "Title": "Behold the Saviour at the Door",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Behold the Saviour at the door!",
+        "He gently knocks, has knocked before,",
+        "Has waited long, is waiting still;",
+        "You treat no other friend so ill."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He counsels thee to buy of him",
+        "Gold tried by fire, and raiment clean;",
+        "Anoint thine eyes, that thou mayest see,",
+        "And put away thy stains from thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O, hear the faithful Witness' voice,",
+        "He offers now a final choice;",
+        "Thou art offensive, O lukewarm!",
+        "Therefore be zealous and reform."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "His mission now is almost o'er,",
+        "Before the throne He'll plead no more;",
+        "The filthy must his filth retain,",
+        "He that is holy, so remain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "His locks with dews of night are wet,",
+        "But at thy heart he lingereth yet.",
+        "O wake, and open wide the door;",
+        "Bid thy Beloved wait no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Yea, bring him in, a welcome guest;",
+        "So shalt thou in his presence rest,",
+        "And in communion sweet and free,",
+        "Shalt sup with him and he with thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

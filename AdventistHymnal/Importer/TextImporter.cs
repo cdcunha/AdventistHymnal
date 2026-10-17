@@ -8,9 +8,9 @@ namespace AdventistHymnal.Importer
 {
 	public class TextImporter
 	{
-		public void ImportTextFiles(string path)
+		public void ImportTextFiles(string path, string databasePath)
 		{
-			string[] files = Directory.GetFiles(path);
+			string[] files = Directory.GetFiles(path, "*.txt");
 
 			if (files.Length == 0)
 			{
@@ -40,10 +40,10 @@ namespace AdventistHymnal.Importer
 
 				string json = JsonConvert.SerializeObject(hymn, Formatting.Indented);
 				
-				if (!Directory.Exists(Program.DatabaseDirectory))
-					Directory.CreateDirectory(Program.DatabaseDirectory);
+				if (!Directory.Exists(databasePath))
+					Directory.CreateDirectory(databasePath);
 				
-				File.WriteAllText($"{Program.DatabaseDirectory}{hymn.Number:000} - {hymn.Title.MakeValidFileName()}.json", json);
+				File.WriteAllText(Path.Combine(databasePath, $"{hymn.Number:000} - {hymn.Title.MakeValidFileName()}.json"), json);
 				
 				Console.WriteLine($"Imported #{hymn.Number} - {hymn.Title}");
 			}

@@ -1,0 +1,64 @@
+﻿{
+  "Number": 678,
+  "Title": "Sunset and Evening Star",
+  "Author": "Alfred Tennyson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sunset and evening star,",
+        "And one clear call for me!",
+        "And may there be no moaning of the bar",
+        "When I put out to sea,"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "But such a tide as moving seems asleep,",
+        "Too full for sound and foam,",
+        "When that which drew from out the boundless deep",
+        "Turns again home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Twilight and evening bell,",
+        "And after that the dark!",
+        "And may there be no sadness of fare-well",
+        "When I embark;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "For, though from out our bourne of time and place",
+        "The flood may bear me far,",
+        "I hope to see my Pilot face to face",
+        "When I have crossed the bar.",
+        "Amen"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

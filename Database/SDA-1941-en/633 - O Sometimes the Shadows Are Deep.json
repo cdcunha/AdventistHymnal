@@ -1,0 +1,65 @@
+﻿{
+  "Number": 633,
+  "Title": "O Sometimes the Shadows Are Deep",
+  "Author": "E. Johnson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O sometimes the shadows are deep,",
+        "And rough seems the path to the goal;",
+        "And sorrows, how often they sweep",
+        "Like tempests down over the soul!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, then to the Rock let me fly,",
+        "To the Rock that is higher than I.",
+        "O, then to the Rock let me fly,",
+        "To the Rock that is higher than I."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O sometimes how long seems the day,",
+        "And sometimes how heavy my feet;",
+        "But toiling in life's dusty way,",
+        "The Rock's blessed shadow, how sweet!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O near to the Rock let me keep,",
+        "Or blessings or sorrows prevail;",
+        "Or climbing the mountain way steep,",
+        "Or walking the shadowy vale."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

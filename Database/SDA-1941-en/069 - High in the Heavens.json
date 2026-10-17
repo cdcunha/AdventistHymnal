@@ -1,0 +1,63 @@
+﻿{
+  "Number": 69,
+  "Title": "High in the Heavens",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "High in the heavens, eternal God,",
+        "Thy goodness in full glory shines;",
+        "Thy truth shall break through every cloud",
+        "That veils and darkens Thy designs."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Forever firm Thy justice stands,",
+        "As mountains their foundations keep;",
+        "Wise are the wonders of Thy hands;",
+        "Thy judgments are a mighty deep."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O God! how excellent Thy grace,",
+        "Whence all our hope and comfort spring!",
+        "The sons of Adam in distress",
+        "Fly to the shadow of Thy wings."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In the provisions of Thy house",
+        "We still shall find a sweet repast;",
+        "There mercy like a river flows,",
+        "And brings salvation to our taste."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

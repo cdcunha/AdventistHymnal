@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using AdventistHymnal.Components;
 using AdventistHymnal.Exporter;
 using AdventistHymnal.Importer;
@@ -11,21 +13,7 @@ namespace AdventistHymnal
 		public const string DatabaseDirectory = @".\Database\";
 		public const string OutputDirectory = @".\Outputs\";
 		public const string InputDirectory = @".\Inputs\";
-
-		public static HymnDatabase DB
-		{
-			get
-			{
-				if (_db == null)
-				{
-					_db = new HymnDatabase();
-                    _db.LoadData(DatabaseDirectory);
-                }
-
-                return _db;
-			}
-		}
-		private static HymnDatabase _db;
+		private const string LegacyCollectionId = "SDA-1985-en";
 		private static int maxLinesPerSlide = 2;
 
 
@@ -51,9 +39,7 @@ namespace AdventistHymnal
 				return;
 			}
 
-			
-
-            if (commandId == 1)
+			if (commandId == 1)
             {
                 maxLinesPerSlide = SetupLinesPerSlide();
                 MainMenu();
@@ -119,15 +105,23 @@ namespace AdventistHymnal
 				return;
 			}
 
-			if (commandId == 1)
-			{
-				new ProPresenterExporter(maxLinesPerSlide).ExportAll();
-			}
-			else
+			if (commandId != 1)
 			{
 				MainMenu();
 				return;
 			}
+
+			List<HymnalFolder> collections = GetCollections(DatabaseDirectory, "*.json");
+			HymnalFolder collection = SelectCollection(collections, "database");
+			if (collection == null)
+			{
+				MainMenu();
+				return;
+			}
+
+			HymnDatabase database = new();
+			database.LoadData(collection.Path);
+			new ProPresenterExporter(maxLinesPerSlide, database, collection.Id).ExportAll();
 			
 			Logger.LogMessage("Press any key to return to the main menu");
 			Console.ReadKey();
@@ -142,16 +136,91 @@ namespace AdventistHymnal
 				Directory.CreateDirectory(InputDirectory);
 			}
 
-			TextImporter importer = new();
-			importer.ImportTextFiles(InputDirectory);
+			List<HymnalFolder> collections = GetCollections(InputDirectory, "*.txt");
+			HymnalFolder collection = SelectCollection(collections, "input");
+			if (collection == null)
+			{
+				MainMenu();
+				return;
+			}
 
-			// Clear the old database from memory so it can be refreshed
-			_db = null;
+			string databasePath = collection.IsRoot
+				? DatabaseDirectory
+				: Path.Combine(DatabaseDirectory, collection.Id);
+			TextImporter importer = new();
+			importer.ImportTextFiles(collection.Path, databasePath);
 			
 			Logger.LogMessage("Press any key to return to the main menu");
 			Console.ReadKey();
 			
 			MainMenu();
+		}
+
+		private static List<HymnalFolder> GetCollections(string rootPath, string filePattern)
+		{
+			if (!Directory.Exists(rootPath))
+			{
+				return new List<HymnalFolder>();
+			}
+
+			List<HymnalFolder> collections = Directory.GetDirectories(rootPath)
+				.Where(path => Directory.GetFiles(path, filePattern).Length > 0)
+				.Select(path => new HymnalFolder(Path.GetFileName(path), path, false))
+				.OrderBy(collection => collection.Id, StringComparer.OrdinalIgnoreCase)
+				.ToList();
+
+			bool hasLegacyFolder = collections.Exists(collection =>
+				string.Equals(collection.Id, LegacyCollectionId, StringComparison.OrdinalIgnoreCase));
+			if (!hasLegacyFolder && Directory.GetFiles(rootPath, filePattern).Length > 0)
+			{
+				collections.Insert(0, new HymnalFolder(LegacyCollectionId, rootPath, true));
+			}
+
+			return collections;
+		}
+
+		private static HymnalFolder SelectCollection(List<HymnalFolder> collections, string sourceName)
+		{
+			if (collections.Count == 0)
+			{
+				Logger.LogMessage($"No hymn collections found in the {sourceName} folder");
+				return null;
+			}
+
+			Console.WriteLine("Select a hymnal collection:");
+			for (int i = 0; i < collections.Count; i++)
+			{
+				string label = collections[i].IsRoot
+					? $"{collections[i].Id} (root files)"
+					: collections[i].Id;
+				Console.WriteLine($"{i + 1}) {label}");
+			}
+			Console.WriteLine();
+			Console.Write("> ");
+
+			if (!int.TryParse(Console.ReadLine(), out int selection) ||
+				selection < 1 ||
+				selection > collections.Count)
+			{
+				Logger.LogMessage("Invalid collection selection");
+				return null;
+			}
+
+			return collections[selection - 1];
+		}
+
+		private sealed class HymnalFolder
+		{
+			public string Id { get; }
+			public string Path { get; }
+			public bool IsRoot { get; }
+
+			public HymnalFolder(string id, string path, bool isRoot)
+			{
+				Id = id;
+				Path = path;
+				IsRoot = isRoot;
+			}
 		}
 	}
 }

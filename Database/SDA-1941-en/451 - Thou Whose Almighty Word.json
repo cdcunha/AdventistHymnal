@@ -1,0 +1,59 @@
+﻿{
+  "Number": 451,
+  "Title": "Thou Whose Almighty Word",
+  "Author": "John Marriott",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thou whose almighty word",
+        "Chaos and darkness heard,",
+        "And took their flight,",
+        "Hear us, we humbly pray,",
+        "And where the gospel's day",
+        "Sheds not its glorious ray,",
+        "Let there be light!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou who didst come to bring",
+        "On Thy redeeming wing",
+        "Healing and sight,",
+        "Health to the sick in mind,",
+        "Sight to the inly blind,",
+        "O now to all mankind,",
+        "Let there be light!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Spirit of truth and love,",
+        "Lifegiving, holy Dove,",
+        "Speed forth Thy flight;",
+        "Move o'er the water's face,",
+        "Bearing the lamp of grace,",
+        "And, in earth's darkest place,",
+        "Let there be light!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

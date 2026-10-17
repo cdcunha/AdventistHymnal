@@ -1,0 +1,92 @@
+﻿{
+  "Number": 654,
+  "Title": "Holy Day, Jehovah’s Rest",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy day, Jehovah's rest,",
+        "Of creation's week the best;",
+        "Last of all the chosen seven,",
+        "Blessed of God, to man 'twas given."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Welcome, welcome, welcome, welcome;",
+        "Glad we hail its presence blest,",
+        "'Tis the great Jehovah's rest."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "First His six days' work was done,",
+        "Then the Sabbath was begun;",
+        "Thus He blessed the seventh day,",
+        "Thus in resting we obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thousands have His plan reversed,",
+        "Resting now upon the first;",
+        "Search the Book and you shall know",
+        "There's no scripture tells them so."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All who speak the truth must say",
+        "It was man who changed the day;",
+        "In God's word no change appears",
+        "Through the whole six thousand years!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Thus I searched; and when I saw",
+        "Only one great Sabbath law,",
+        "Then I hastened to obey —",
+        "Plainly, 'twas the only way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

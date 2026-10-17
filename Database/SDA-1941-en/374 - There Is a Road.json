@@ -1,0 +1,63 @@
+﻿{
+  "Number": 374,
+  "Title": "There Is a Road",
+  "Author": "D. A. R. Aufranc",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a road, though narrow and obscure,",
+        "Which we must traverse till earth's days be past,",
+        "Which though unheeded by the passing throng,",
+        "Leads us to our eternal home at last."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here trod the faithful when the work began;",
+        "Some still are with us, but, alas, not all;",
+        "Many have laid their heavy burdens down",
+        "And will rejoin us when the Lord shall call."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And there is One who, though to eye unseen,",
+        "Journeys besideus wheresoe'er we go;",
+        "Guards all our footsteps with the tenderest care,",
+        "And sorrows with us in our earthly woe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Almost the city towers we can discern",
+        "And hear the music from those courts above.",
+        "Jesus is waiting with the table spread;",
+        "O what a welcome in those arms of love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "Number": 286,
+  "Title": "I Come to Thee, O Father",
+  "Author": "Essdt F. Moszr",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I come to Thee, O Father,",
+        "Confessing all my sin;",
+        "I come and claim Thy promise;",
+        "Come in, dear Lord, come in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Drive out my sinful nature,",
+        "Implant Thine own, I pray;",
+        "And wash and cleanse and save me",
+        "Each moment, hour and day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O send Thy Holy Spirit",
+        "To guide me, I implore;",
+        "For Jesus' sake, O make me",
+        "Thy child forevermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

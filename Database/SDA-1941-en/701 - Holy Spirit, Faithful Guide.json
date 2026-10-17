@@ -1,0 +1,24 @@
+﻿{
+  "Number": 701,
+  "Title": "Holy Spirit, Faithful Guide",
+  "Author": "Marcus Morris Wells",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy Spirit, Faithful Guide,",
+        "Lead us heavenward And abide;",
+        "How we need Thy guiding ray!",
+        "Lead us home, We pray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

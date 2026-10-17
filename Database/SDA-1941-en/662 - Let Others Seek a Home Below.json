@@ -1,0 +1,79 @@
+﻿{
+  "Number": 662,
+  "Title": "Let Others Seek a Home Below",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let others seek a home below,",
+        "We'll be gathered home;",
+        "Which flames devour or waves o'er throw,",
+        "We'll be gathered home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We'll work till Jesus comes,",
+        "We'll work till Jesus comes,",
+        "We'll work till Jesus comes,",
+        "And we'll be gathered home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Be mine the happier lot to own,",
+        "We'll be gathered home;",
+        "A heavenly mansion near the throne,",
+        "We'll be gathered home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Then, fail this earth, let stars decline,",
+        "We'll be gathered home;",
+        "And sun and moon refuse to shine,",
+        "We'll be gathered home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Though desolation here may be,",
+        "We'll be gathered home;",
+        "That heavenly mansion stands for me,",
+        "We'll be gathered home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

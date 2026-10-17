@@ -1,0 +1,79 @@
+﻿{
+  "Number": 595,
+  "Title": "Jesus, Keep Me Near the Cross",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, keep me near the cross,",
+        "There a precious fountain",
+        "Free to all, a healing stream,",
+        "Flows from Calvary’s mountain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In the cross, in the cross,",
+        "Be my glory ever,",
+        "Till my raptured soul shall find",
+        "Rest beyond the river."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross, a trembling soul,",
+        "Love and mercy found me;",
+        "There the bright and Morning Star",
+        "Sheds its beams around me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross! O Lamb of God,",
+        "Bring its scenes before me;",
+        "Help me walk from day to day,",
+        "With its shadow o’er me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross I’ll watch and wait,",
+        "Hoping, trusting ever,",
+        "Till I reach the golden strand,",
+        "Just beyond the river."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

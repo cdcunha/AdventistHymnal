@@ -1,0 +1,62 @@
+﻿{
+  "Number": 301,
+  "Title": "There Is a Happy Land",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a happy land,",
+        "Far, far away,",
+        "Where saints in glory stand,",
+        "Bright, bright as day.",
+        "O! how they sweetly sing,",
+        "\"Worthy is our Saviour King;\"",
+        "Loud let His praises ring,",
+        "Praise, praise for aye."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come to that happy land",
+        "Come, come away;",
+        "Why will ye doubting stand?",
+        "Why still delay?",
+        "O! we shall happy be,",
+        "From all sin and sorrow free;",
+        "Lord, we shall live with Thee,",
+        "Blest, blest for aye."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Bright in that happy land",
+        "Beams every eye;",
+        "Kept by a Father's hand,",
+        "Love cannot die;",
+        "Then shall Thy kingdom come,",
+        "Saints have a glorious home;",
+        "And, brighter than the sun,",
+        "Reign, reign for aye."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 378,
+  "Title": "Whence Came the Armies?",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Whence came the armies of the sky,",
+        "John saw in vision bright?",
+        "Whence came their crowns, their robes, their palms,",
+        "Too pure for mortal sight?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Were these tried soldiers of the cross",
+        "Victorious in the fight?",
+        "Were these the trophies they had won,",
+        "Reserved in worlds of light?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Once they were mourners here below,",
+        "And poured out cries and tears;",
+        "They wrestled hard, as we do now,",
+        "With sins, and doubts, and fears."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "They saw the star of Bethlehem",
+        "Arise in splendor bright;",
+        "They followed long its guiding ray,",
+        "Till beamed a clearer light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "From desert waste, and cities full,",
+        "From dungeons dark, they've come,",
+        "And now they claim their mansion fair,",
+        "They've found their long-sought home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 21,
+  "Title": "My Gracious Lord, I Own Thy Right",
+  "Author": "Philip Doddridge",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My gracious Lord, I own Thy right",
+        "To every service I can pay,",
+        "And call it my supreme delight",
+        "To hear Thy dictates, and obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "What is my being but for Thee",
+        "Its sure support, its noblest end?",
+        "'Tis my delight Thy face to see,",
+        "And serve the cause of such a Friend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I would not sigh for worldly joy,",
+        "Or to increase my worldly good;",
+        "Nor future days nor powers employ",
+        "To spread a sounding name abroad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "'Tis to my Saviour I would live",
+        "To Him who for my ransom died;",
+        "Nor could all worldly honor give",
+        "Such bliss as crowns me at His side."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "His work my hoary age shall bless",
+        "When youthful vigeor is no more;",
+        "And my last hour of life confess",
+        "His saving love, His glorious power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

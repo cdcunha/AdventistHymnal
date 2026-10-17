@@ -1,0 +1,91 @@
+﻿{
+  "Number": 541,
+  "Title": "Lift Up the Trumpet",
+  "Author": "Jessie E. Strout",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lift up the trumpet, and loud let it ring:",
+        "Jesus is coming again!",
+        "Cheer up, ye pilgrims, be joyful and sing:",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Coming again, coming again,",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Echo it, hilltops; proclaim it, ye plains:",
+        "Jesus is coming again!",
+        "Coming in glory, the Lamb that was slain;",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sound it, old ocean, in each mighty wave:",
+        "Jesus is coming again!",
+        "Break on the sands of the shores that ye lave;",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Heavings of earth, tell the vast, wondering throng:",
+        "Jesus is coming again!",
+        "Tempests and whirlwinds, the anthem prolong;",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Nations are angry — by this we do know",
+        "Jesus is coming again!",
+        "Knowledge increases; men run to and fro;",
+        "Jesus is coming again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

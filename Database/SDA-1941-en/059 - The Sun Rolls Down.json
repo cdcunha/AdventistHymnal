@@ -1,0 +1,63 @@
+﻿{
+  "Number": 59,
+  "Title": "The Sun Rolls Down",
+  "Author": "Unknown",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The sun rolls down the distant west.",
+        "Soft twilight steals abroad",
+        "To welcome in the day of rest,",
+        "The Sabbath of our Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "This holy day let us begin",
+        "With songs of praise to God,",
+        "Who pardons all our guilt and sin.",
+        "Through Jesus' precious blood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Now in this tranquil hour we lay",
+        "All worldly cares aside,",
+        "And hallow God's most holy day,",
+        "Though friends or foes may chide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "'Tis not to seek the world's applause",
+        "That we from labor rest;",
+        "We strive to keep God's holy laws,",
+        "And He these moments blessed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 325,
+  "Title": "My God, Is Any Hour So Sweet?",
+  "Author": "Charlotte Elliott",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My God, is any hour so sweet,",
+        "From blush of morn to evening star,",
+        "As that which calls me to Thy feet,",
+        "The hour of prayer?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "No words can tell, what sweet relief",
+        "Here for my every want, I find;",
+        "What strength for warfare, balm for grief,",
+        "What peace of mind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Hushed is each doubt, gone every fear;",
+        "My spirit seems in heaven to stay;",
+        "And e'en the penitential tear",
+        "Is wiped away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, till I reach that blissful shore,",
+        "No privilege so dear shall be",
+        "A thus my inmost soul to pour",
+        "In prayer to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

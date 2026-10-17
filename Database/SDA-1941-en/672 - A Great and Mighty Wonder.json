@@ -1,0 +1,59 @@
+﻿{
+  "Number": 672,
+  "Title": "A Great and Mighty Wonder",
+  "Author": "John Mason Neale",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "A great and mighty wonder,",
+        "A full and blessed cure!",
+        "The Rose has come to blossom",
+        "Which shall for aye endure.",
+        "Repeat the hymn again!",
+        "\"To God on high be glory,",
+        "And peace on earth to men.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The Word has dwelt among us,",
+        "The true light from on high;",
+        "And cherubim sing anthems",
+        "To shepherds from the sky.",
+        "Repeat the hymn again!",
+        "\"To God on high be glory,",
+        "And peace on earth to men.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Since all He comes to succor,",
+        "By all be He adored,",
+        "The infant born in Bethlehem,",
+        "The Saviour and the Lord;",
+        "Repeat the hymn again!",
+        "\"To God on high be glory,",
+        "And peace on earth to men.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

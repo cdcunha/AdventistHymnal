@@ -1,0 +1,23 @@
+﻿{
+  "Number": 370,
+  "Title": "Day Is Done, Gone the Sun",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Day is done, gone the sun,",
+        "From the lake, from the hills, from the sky,",
+        "Safely rest, all is well, God is nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

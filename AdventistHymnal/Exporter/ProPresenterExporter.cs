@@ -1,4 +1,6 @@
-﻿namespace AdventistHymnal.Exporter
+﻿using AdventistHymnal.Components;
+
+namespace AdventistHymnal.Exporter
 {
 	public class ProPresenterExporter : HymnExporter
 	{
@@ -9,7 +11,8 @@
 		protected override string CCLITag => "CCLI:";
 		protected override string[] InvalidCharacters => new[] { ":" };
 
-        public ProPresenterExporter(int maxLinesPerSlide)
+        public ProPresenterExporter(int maxLinesPerSlide, HymnDatabase database, string collectionId)
+            : base(database, collectionId)
 		{
             MaxLinesPerSlide = maxLinesPerSlide;
         }

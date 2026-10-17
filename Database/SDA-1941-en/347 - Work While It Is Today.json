@@ -1,0 +1,63 @@
+﻿{
+  "Number": 347,
+  "Title": "Work While It Is Today",
+  "Author": "James Montgomery",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Work while it is today!",
+        "This was our Saviour's rule;",
+        "With docile minds let us obey,",
+        "As learners in His school."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord Christ, we humbly ask",
+        "Of Thee the power and will,",
+        "With fear and meekness, every task",
+        "Of duty to fulfil."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "At home, by word and deed,",
+        "Adorn redeeming grace;",
+        "And sow abroad the precious seed",
+        "Of truth in every place —"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "That thus the wilderness",
+        "May blossom like the rose,",
+        "And trees spring up of righteousness,",
+        "Where'er life's river flows."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

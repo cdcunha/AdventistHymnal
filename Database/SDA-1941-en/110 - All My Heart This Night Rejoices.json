@@ -1,0 +1,59 @@
+﻿{
+  "Number": 110,
+  "Title": "All My Heart This Night Rejoices",
+  "Author": "Paul Gerhardt",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All my heart this night rejoices,",
+        "As I hear,",
+        "Far and near,",
+        "Sweetest angel voices;",
+        "\"Christ is born,\" their choirs are singing,",
+        "Till the air, Everywhere,",
+        "Now with joy is ringing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Hark! a voice from yonder manger,",
+        "Soft and sweet,",
+        "Doth entreat:",
+        "\"Flee from woe and danger;",
+        "Brethren, come; from all that grieves you,",
+        "You are freed; All you need",
+        "I will surely give you.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come, then, let us hasten yonder;",
+        "Here let all,",
+        "Great and small,",
+        "Kneel in awe and wonder;",
+        "Love Him who with love is yearning;",
+        "Hail the star, That from far",
+        "Bright with hope is burning!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

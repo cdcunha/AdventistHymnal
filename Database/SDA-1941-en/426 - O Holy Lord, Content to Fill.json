@@ -1,0 +1,50 @@
+﻿{
+  "Number": 426,
+  "Title": "O Holy Lord, Content to Fill",
+  "Author": "William W. How",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O holy Lord, content to fill",
+        "In lowly home the lowliest place;",
+        "Thy childhood's law, a mother's will;",
+        "Obedience meek, Thy brightest grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lead every child that bears Thy name",
+        "To walk in Thine own guileless way,",
+        "To dread the touch of sin and shame,",
+        "And humbly, like Thyself, obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "So shall we, waiting here below,",
+        "Like Thee, our Lord, a little span,",
+        "In wisdom and in stature grow,",
+        "And favor with both God and man."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

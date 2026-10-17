@@ -1,0 +1,77 @@
+﻿{
+  "Number": 599,
+  "Title": "Father, We Come to Thee",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Father, we come to Thee,",
+        "No other help have we;",
+        "Thou wilt our refuge be,",
+        "On Thee we call,",
+        "Earth is but dark and drear",
+        "Without Thy presence near;",
+        "Be Thou our comfort here,",
+        "Father of all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Father, we come to Thee,",
+        "Turn not away;",
+        "Helpless we come to Thee,",
+        "Hear while we pray."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Save from our many foes,",
+        "Savefrom our earthly woes;",
+        "Be Thou our soul's repose",
+        "In time of need.",
+        "Doubting are we, and weak;",
+        "To us sweet courage speak;",
+        "Thy mighty arm we seek",
+        "For strength indeed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Give us Thy grace divine,",
+        "Seal us forever Thine;",
+        "Our wayward feet incline",
+        "From sin to flee.",
+        "Oh, guide us, we implore,",
+        "Till weary life is o'er,",
+        "And on a brighter shore",
+        "We dwell with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

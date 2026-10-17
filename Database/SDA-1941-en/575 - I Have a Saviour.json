@@ -1,0 +1,79 @@
+﻿{
+  "Number": 575,
+  "Title": "I Have a Saviour",
+  "Author": "Samuel O'Malley Cluff",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I have a Savior, He’s pleading in glory,",
+        "A dear loving Savior, though earth friends be few;",
+        "And now He is watching in tenderness o’er me,",
+        "But oh, that my Savior were your Saviour, too."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For you I am praying,",
+        "For you I am praying,",
+        "For you I am praying,",
+        "I’m praying for you."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I have a Father; to me He has given",
+        "A hope for eternity, blessed and true;",
+        "And soon He will call me to meet Him in heaven,",
+        "But oh that He’d let me bring you with me too!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I have a robe; 'tis resplendent in whiteness,",
+        "Awaiting in glory my wondering view;",
+        "Oh, when I receive it, all shining in brightness,",
+        "Dear friend, could I see you receiving one, too!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When Jesus has found you, tell others the story,",
+        "That my loving Saviour is your Saviour, too;",
+        "Then pray that your Saviour will bring them to glory,",
+        "And prayer will be answered — 'twas answered for you!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

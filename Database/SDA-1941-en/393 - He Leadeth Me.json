@@ -1,0 +1,79 @@
+﻿{
+  "Number": 393,
+  "Title": "He Leadeth Me",
+  "Author": "Joseph Gilmore",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "He leadeth me! O blessed thought!",
+        "O words with heavenly comfort fraught!",
+        "Whate'er I do, where'er I be,",
+        "still 'tis God's hand that leadeth me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He leadeth me, he leadeth me,",
+        "By His own hand He leadeth me;",
+        "His faithful follower I would be,",
+        "For by His hand He leadeth me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sometimes 'mid scenes of deepest gloom,",
+        "Sometimes where Eden's bowers bloom,",
+        "By waters still, o'er troubled sea —",
+        "Still 'tis His hand that leadeth me!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I would place my hand in Thine,",
+        "Nor ever murmur nor repine;",
+        "Content, whatever lot I see,",
+        "Since 'tis my God that leadeth me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when my task on earth is done,",
+        "When by thy grace the victory's won,",
+        "E'en death's cold wave I will not flee,",
+        "Since God through Jordan leadeth me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

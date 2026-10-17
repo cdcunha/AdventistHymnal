@@ -1,0 +1,62 @@
+﻿{
+  "Number": 675,
+  "Title": "When Wilt Thou Save the People?",
+  "Author": "Ebenezer Elliott",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When wilt Thou save the people?",
+        "O God of mercy, when?",
+        "Not kings and lords, but nations!",
+        "Not thrones and crowns, but men!",
+        "Flowers of Thy heart, O God, are they;",
+        "Let them not pass, like weeds, away,",
+        "Their heritage a sunless day.",
+        "God save the people!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Shall crime bring crime forever,",
+        "Strength aiding still the strong?",
+        "Is it Thy will, O Father,",
+        "That man shall toil for wrong?",
+        "\"No,\" say Thy mountains; \"No,\" Thy skies;",
+        "Man's clouded sun shall brightly rise,",
+        "And songs be heard instead of sighs;",
+        "God save the people!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When wilt Thou save the people?",
+        "O God of mercy, when?",
+        "The people, Lord, the people,",
+        "Not thrones and crowns, but men!",
+        "God save the people; Thine they are,",
+        "Thy children, as Thy angels fair;",
+        "From vice, oppression, and despair,",
+        "God save the people!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

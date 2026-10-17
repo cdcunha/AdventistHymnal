@@ -1,0 +1,63 @@
+﻿{
+  "Number": 80,
+  "Title": "Holy as Thou, O Lord",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy as Thou, O Lord, is none;",
+        "Thy holiness is all Thine own;",
+        "A drop of that unbounded sea",
+        "Is ours — a drop derived from Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "And when Thy purity we share,",
+        "Thy brightest glory, we declare;",
+        "And, humbled into nothing, own,",
+        "Most holy, pure is God alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sole, self-existing God and Lord,",
+        "By all Thy heavenly hosts adored,",
+        "Let all on earth bow down to Thee,",
+        "And own Thy peerless majesty."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thy power unparalleled confess,",
+        "Established on the Rock of peace;",
+        "The rock that never shall remove,",
+        "The rock of pure, almighty love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

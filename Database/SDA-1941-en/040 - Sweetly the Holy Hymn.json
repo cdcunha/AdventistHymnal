@@ -1,0 +1,76 @@
+﻿{
+  "Number": 40,
+  "Title": "Sweetly the Holy Hymn",
+  "Author": "C. H. Spurgeon",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sweetly the holy hymn",
+        "Breaks on the morning air;",
+        "Before the world with smoke is dim",
+        "We meet to offer prayer."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "While flowers are wet with dews,",
+        "Dew of our souls, descend;",
+        "Ere yet the sun the day renews,",
+        "O Lord, Thy Spirit send."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Upon the battlefield,",
+        "Before the fight begins,",
+        "We seek, O Lord, Thy sheltering shield,",
+        "To guard us from our sins."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "On the lone mountainside,",
+        "Before the morning’s light,",
+        "The Man of Sorrows wept and cried,",
+        "And rose refreshed with might."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Oh, hear us, then, for we",
+        "Are very weak and frail;",
+        "We make the Saviour’s name our plea,",
+        "And surely, must prevail."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

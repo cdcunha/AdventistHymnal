@@ -1,0 +1,76 @@
+﻿{
+  "Number": 332,
+  "Title": "My Heart Is Resting",
+  "Author": "Anna Letitia Waring",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My heart is resting, O my God,",
+        "I will give thanks and sing;",
+        "My heart is at the secret source",
+        "Of every precious thing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I thirst for springs of heavenly life,",
+        "And here an day they rise;",
+        "I seek the treasure of Thy love,",
+        "And close at hand it lies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I have a heritage of joy,",
+        "That yet I must not see;",
+        "The hand that bled to make it mine",
+        "Is keeping it for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "There is a certainty of love",
+        "That sets my heart at rest;",
+        "A calm assurance for today,",
+        "That to be poor is best."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "A prayer, reposing on His truth,",
+        "Who hath made all things mine,",
+        "That draws my captive will to Him,",
+        "And makes it one with Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

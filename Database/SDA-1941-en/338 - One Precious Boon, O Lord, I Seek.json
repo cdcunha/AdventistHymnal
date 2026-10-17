@@ -1,0 +1,89 @@
+﻿{
+  "Number": 338,
+  "Title": "One Precious Boon, O Lord, I Seek",
+  "Author": "Charles Fitch",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "One precious boon, O Lord, I seek,",
+        "While tossed upon life's billowy sea;",
+        "To hear a voice within me speak,",
+        "\"Thy Saviour is well pleased with thee.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Earth's scoffs and scorn well pleased I'll bear,",
+        "Nor mourn though underfoot I'm trod,",
+        "If day by day I may but share",
+        "Thine approbation, O my God!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The friends I love may turn from me,",
+        "Their words unkind may pierce me through;",
+        "But this my daily prayer shall be,",
+        "\"Forgive; they know not what they do.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let me but know, wher-e'er I roam,",
+        "That I am doing Jesus' will;",
+        "And though I've neither friends nor home,",
+        "My heart shall glow with gladness still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "To that bright, blest, immortal morn,",
+        "By holy prophets long foretold,",
+        "My eager, longing eyes I turn,",
+        "And soon its glories shall behold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Then all the scoffs and scorn I've borne",
+        "For His dear sake who died for me,",
+        "To everlasting joys will turn,",
+        "In glorious immortality."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

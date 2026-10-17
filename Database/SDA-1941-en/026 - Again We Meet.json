@@ -1,0 +1,63 @@
+﻿{
+  "Number": 26,
+  "Title": "Again We Meet",
+  "Author": "Lucy Whitmore",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Father, again in Jesus' name we meet,",
+        "And bow in penitence beneath Thy feet;",
+        "Again to Thee our grateful voices raise,",
+        "To sue for mercy, and to sing Thy praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O we would bless Thee for Thy ceaseless care,",
+        "And all Thy love from day to day declare!",
+        "Is not our life with hourly mercies crowned?",
+        "Does not Thine arm encircle us around?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Alas! unworthy of Thy boundless love,",
+        "Too oft with careless feet from Thee we rove;",
+        "But now, encouraged by Thy voice, we come,",
+        "Returning sinners, to a Father's home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O by that name in which all fullness dwells,",
+        "O by that love which every love excels,",
+        "O by that blood so freely shed for sin,",
+        "Open blessed mercy's gate, and take us in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

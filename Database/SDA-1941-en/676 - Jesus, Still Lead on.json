@@ -1,0 +1,56 @@
+﻿{
+  "Number": 676,
+  "Title": "Jesus, Still Lead on",
+  "Author": "Nicolaus L. Zinzendorf",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, still lead on,",
+        "Till our rest be won,",
+        "And, although the way be cheerless,",
+        "We will follow, calm and fearless;",
+        "Guide us by Thy hand",
+        "To our fatherland."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "If the way be drear,",
+        "If the foe be near,",
+        "Let not faithless fears o'ertake us,",
+        "Let not faith and hope forsake us;",
+        "For, through many a foe,",
+        "To our home we go."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Jesus, still lead on,",
+        "Till our rest be won;",
+        "Heavenly Leader, still direct us,",
+        "Still support, console, protect us,",
+        "Till we safely stand",
+        "In our fatherland."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

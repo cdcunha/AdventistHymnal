@@ -1,0 +1,56 @@
+﻿{
+  "Number": 87,
+  "Title": "Lead Us, Heavenly Father",
+  "Author": "James Edmeston",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lead us, heavenly Father, lead us",
+        "O'er the world's tempestuos sea;",
+        "Guard us, guide us, keep us, feed us,",
+        "For we have no help but thee;",
+        "Yet possessing Every blessing",
+        "If our God our Father be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Saviour, breathe forgiveness o'er us,",
+        "All our weakness thou dost know;",
+        "Thou didst tread this earth before us,",
+        "Thou didst feel its keenest woe;",
+        "Lone and dreary, Faint and weary,",
+        "Through the desert Thoudidst go."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Spirit of our God, descending,",
+        "Fill our hearts with heavenly joy;",
+        "Love with every passion blending,",
+        "Pleasure that can never cloy;",
+        "Thus provided, Pardoned, guided,",
+        "Nothing can our peace destroy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

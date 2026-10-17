@@ -1,0 +1,81 @@
+﻿{
+  "Number": 260,
+  "Title": "The Lord's My Shepherd",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord’s my Shepherd, I’ll not want;",
+        "He makes me down to lie",
+        "In pastures green; He leadeth me",
+        "The quiet waters by,",
+        "The quiet waters by."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "My soul He doth restore again;",
+        "And me to walk doth make",
+        "Within the paths of righteousness,",
+        "Even for his own name’s sake,",
+        "Even for his own name’s sake."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Yea, though I walk in death’s dark vale,",
+        "Yet will I fear none ill;",
+        "For thou art with me, and thy rod",
+        "And staff my comfort still,",
+        "And staff my comfort still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My table thou hast furnished",
+        "In presence of my foes;",
+        "My head thou dost with oil anoint,",
+        "And my cup overflows,",
+        "And my cup overflows."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Goodness and mercy all my life",
+        "Shall surely follow me;",
+        "And in God’s house forevermore,",
+        "My dwelling place shall be,",
+        "My dwelling place shall be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

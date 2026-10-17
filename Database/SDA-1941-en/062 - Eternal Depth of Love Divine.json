@@ -1,0 +1,67 @@
+﻿{
+  "Number": 62,
+  "Title": "Eternal Depth of Love Divine",
+  "Author": "Nicolaus L. Zinzendorf",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Eternal depth of love divine,",
+        "In Jesus, God with us, displayed;",
+        "How bright Thy beaming glories shine!",
+        "How wide Thy healing streams are spread,",
+        "How wide Thy healing streams are spread!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With whom dost Thou delight to dwell?",
+        "Sinners, a vile and thankless race!",
+        "O God, what tongue aright can tell",
+        "How vast Thy love, how great Thy grace?",
+        "How vast Thy love, how great Thy grace?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The dictates of Thy sovereign will",
+        "With joy our grateful hearts receive:",
+        "All thy delight in us fulfil;",
+        "Lo, all we are to Thee we give.",
+        "Lo, all we are to Thee we give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To Thy sure love, Thy tender care,",
+        "Our flesh, soul, spirit, we resign:",
+        "O fix Thy sacred presence there,",
+        "And seal the abode for ever Thine!",
+        "And seal the abode for ever Thine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

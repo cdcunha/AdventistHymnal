@@ -1,0 +1,63 @@
+﻿{
+  "Number": 519,
+  "Title": "How Shall I Follow Him?",
+  "Author": "Josiah Conder",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How shall I follow Him I serve?",
+        "How shall I copy Him I love?",
+        "Nor from those blessed footsteps swerve",
+        "Which lead me to His seat above?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, should my path through suffering lie,",
+        "Forbid that I should e'er repine;",
+        "Still let me turn to Calvary,",
+        "Nor heed my grief, remembering Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O, let me think how Thou didst leave",
+        "The heavenly home of pure delights,",
+        "To fast, to faint, to watch, to grieve,",
+        "Through toilsome days, through lonely nights!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All this Thou didst, then died for me!",
+        "Thou camest not Thyself to please;",
+        "And, dear though earthly comforts be,",
+        "Shall I not love Thee more than these?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

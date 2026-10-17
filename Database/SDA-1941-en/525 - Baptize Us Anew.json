@@ -1,0 +1,79 @@
+﻿{
+  "Number": 525,
+  "Title": "Baptize Us Anew",
+  "Author": "W. A. Ogden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Baptize us anew",
+        "With power from on high,",
+        "With love, O refresh us!",
+        "Dear Savior, draw nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We humbly beseech Thee, Lord Jesus, we pray,",
+        "With love and the Spirit baptize us today.",
+        "We praise Thee, we bless Thee, dear Lamb that was slain",
+        "We laud and adore Thee, Amen and Amen."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Unworthy we cry,",
+        "Unholy, unclean,",
+        "O wash us and cleanse us",
+        "From sin's guilty stain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O heavenly Dove,",
+        "Descend from on high!",
+        "We plead Thy rich blessing;",
+        "In mercy draw nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O list the glad voice!",
+        "From heaven it came:",
+        "Thou art My beloved,",
+        "Well pleased I am."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

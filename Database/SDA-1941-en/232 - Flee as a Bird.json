@@ -1,0 +1,47 @@
+﻿{
+  "Number": 232,
+  "Title": "Flee as a Bird",
+  "Author": "Mary S. B. Dana",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Flee as a bird to your mountain,",
+        "Thou who art weary of sin;",
+        "Go to the clear flowing Fountain,",
+        "Where you may wash and be clean;",
+        "Fly, for th'avenger is near thee,",
+        "Call, and the Saviour will hear thee,",
+        "He on his bosom will bear thee;",
+        "O thou who art weary of sin,",
+        "O thou who art weary of sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He will protect thee forever,",
+        "Wipe every falling tear;",
+        "He will forsake thee, oh, never,",
+        "Sheltered so tenderly there!",
+        "Haste, then, the daylight is flying,",
+        "Spend not the moments in sighing,",
+        "Cease from your sorrow and crying,",
+        "The Saviour will wipe every tear,",
+        "Yes, Jesus will wipe every tear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

@@ -1,0 +1,86 @@
+﻿{
+  "Number": 292,
+  "Title": "O How Happy Are They",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O how happy are they",
+        "Who their Saviour obey,",
+        "And have laid up their treasure above!",
+        "Tongue can never express",
+        "The sweet comfort and peace",
+        "Of a soul in its earliest love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "That sweet comfort is mine,",
+        "Since the favor divine",
+        "I received through the blood of the Lamb;",
+        "Since my heart first believed.",
+        "What a joy I've received,",
+        "What a heaven in Jesus' dear name!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "'Tis a heaven below",
+        "My Redeemer to know;",
+        "And the angels can do nothing more",
+        "Than to fall at His feet,",
+        "And the story repeat,",
+        "And the Lover of sinners adore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Jesus all the day long",
+        "Is my joy and my song;",
+        "O that all to this refuge might fly!",
+        "He hath loved me, indeed,",
+        "He did suffer and bleed,",
+        "To redeem such a rebel as I."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "On the wings of His love,",
+        "I am carried above",
+        "All my sin, and temptation, and pain;",
+        "O, that all would believe,",
+        "And by sin never grieve,",
+        "And thus cause Him to suffer again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

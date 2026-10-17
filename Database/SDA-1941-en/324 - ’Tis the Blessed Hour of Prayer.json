@@ -1,0 +1,82 @@
+﻿{
+  "Number": 324,
+  "Title": "’Tis the Blessed Hour of Prayer",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "’Tis the blessed hour of prayer, when our hearts lowly bend,",
+        "And we gather to Jesus, our Savior and Friend;",
+        "If we come to Him in faith, His protection to share,",
+        "What a balm for the weary!",
+        "O how sweet to be there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Blessed hour of prayer, blessed hour of prayer,",
+        "What a balm for the weary!",
+        "O how sweet to be there!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "’Tis the blessed hour of prayer, when the Saviour draws near,",
+        "With a tender compassion His children to hear;",
+        "When He tells us we may cast at His feet every care,",
+        "What a balm for the weary!",
+        "O how sweet to be there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "’Tis the blessed hour of prayer, when the tempted and tried",
+        "To the Savior who loves them their sorrow confide;",
+        "With a sympathizing heart He removes every care;",
+        "What a balm for the weary!",
+        "O how sweet to be there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "At the blessed hour of prayer, trusting Him, we believe",
+        "That the blessing we’re needing we’ll surely receive;",
+        "In the fullness of this trust we shall lose every care;",
+        "What a balm for the weary!",
+        "O how sweet to be there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

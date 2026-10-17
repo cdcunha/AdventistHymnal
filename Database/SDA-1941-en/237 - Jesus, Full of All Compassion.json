@@ -1,0 +1,62 @@
+﻿{
+  "Number": 237,
+  "Title": "Jesus, Full of All Compassion",
+  "Author": "Daniel Turner",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, full of all compassion,",
+        "Hear thy humble suppliant’s cry;",
+        "Let me know thy great salvation;",
+        "See, I languish, faint and die.",
+        "Guilty, but with heart relenting,",
+        "Overwhelmed with helpless grief,",
+        "Prostrate at Thy feet repining,",
+        "Send, O send me quick relief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Whither should my soul be flying,",
+        "But to him who comfort gives?",
+        "Whither, from the dread of dying,",
+        "But to him who ever lives?",
+        "While I view thee, wounded, grieving,",
+        "Breathless, on the cursed tree,",
+        "Fain I’d feel my heart believing",
+        "Thou didst suffer thus for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With thy righteousness and Spirit,",
+        "I am more than angels blessed;",
+        "Heir with thee, all things inherit —",
+        "Peace, and joy, and endless rest.",
+        "Saved! the deed shall spread new glory",
+        "Through the shining realms above;",
+        "Angels sing the pleasing story,",
+        "All enraptured with thy love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Number": 246,
+  "Title": "My Faith Looks Up to Thee",
+  "Author": "Ray Palmer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My faith looks up to thee,",
+        "Thou Lamb of Calvary,",
+        "Saviour divine;",
+        "Now hear me while I pray,",
+        "Take all my guilt away,",
+        "O let me from this day",
+        "Be wholly thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May thy rich grace impart",
+        "Strength to my fainting heart,",
+        "My zeal inspire;",
+        "As thou hast died for me,",
+        "O may my love to thee",
+        "Pure, warm, and changeless be,",
+        "A living fire!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "While life's dark maze I tread,",
+        "And griefs around me spread,",
+        "Be thou my guide;",
+        "Bid darkness turn to day,",
+        "Wipe sorrow's tears away,",
+        "Nor let me ever stray",
+        "From thee aside."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

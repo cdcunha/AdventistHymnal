@@ -1,0 +1,76 @@
+﻿{
+  "Number": 285,
+  "Title": "I Give My Heart to Thee",
+  "Author": "Ray Palmer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I give my heart to Thee,",
+        "O Jesus most desired;",
+        "And heart for heart the gift shall be,",
+        "For Thou my soul hast fired."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou hearts alone wouldst move,",
+        "Thou only hearts dost love;",
+        "I would love Thee as Thou lovest me,",
+        "O Jesus most desired."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "What offering can I make,",
+        "Dear Lord, to love like Thine —",
+        "That Thou, the Word, didst stoop to take",
+        "A human form like mine?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thy heart is opened wide,",
+        "Its offered love most free,",
+        "That heart to heart I may abide,",
+        "And hide myself in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Ah, how Thy love doth burn,",
+        "Till I that love return!",
+        "I would love Thee as Thou lovest me,",
+        "O Jesus most desired."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

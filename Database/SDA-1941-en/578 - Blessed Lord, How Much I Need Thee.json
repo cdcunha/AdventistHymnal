@@ -1,0 +1,79 @@
+﻿{
+  "Number": 578,
+  "Title": "Blessed Lord, How Much I Need Thee",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Blessed Lord, how much I need Thee!",
+        "Weak and sinful, poor and blind;",
+        "Take my trembling hand and lead me;",
+        "Strength and sight in Thee I find."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Every hour, every hour,",
+        "Blessed Lord, how much I need Thee!",
+        "Every hour, every hour,",
+        "Saviour, keep me every hour."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Clothe me with Thy robe of meekness,",
+        "Stained with sin this robe of mine;",
+        "Teach me first to feel my weakness,",
+        "Then to plead for strength divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Safe am I if Thou dost guide me —",
+        "Trusting self, how soon I fall!",
+        "Walk life's rugged way beside me,",
+        "Thou, my light, my life, my all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then whate'er the future bringeth,",
+        "Smiles of joy, or tears of grief,",
+        "Still to Thee my spirit clingeth,",
+        "Thou art still my soul's relief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

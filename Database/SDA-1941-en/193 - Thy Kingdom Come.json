@@ -1,0 +1,76 @@
+﻿{
+  "Number": 193,
+  "Title": "Thy Kingdom Come",
+  "Author": "Frederick L. Hosmer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thy kingdom come! on bended knee",
+        "The passing ages pray;",
+        "And faithful souls have yearned to see",
+        "On earth that kingdom's day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "But the slow watches of the night",
+        "Not less to God belong;",
+        "And for the everlasting right",
+        "The silent stars are strong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And lo, already on the hills",
+        "The flags of dawn appear;",
+        "Gird up your loins, ye prophet souls,",
+        "Proclaim the day is near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The day in whose clear-shining light",
+        "All wrong shall stand revealed,",
+        "When justice shall be throned in might,",
+        "And every hurt be healed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "When knowledge, hand in hand with peace,",
+        "Shall walk the earth abroad;",
+        "The day of perfect righteousness,",
+        "The promised day of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

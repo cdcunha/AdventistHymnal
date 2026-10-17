@@ -1,0 +1,63 @@
+﻿{
+  "Number": 46,
+  "Title": "Sweet Is the Work, My God",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sweet is the work, my God, my King,",
+        "To praise Thy Name, give thanks and sing;",
+        "To show Thy love by morning light,",
+        "And talk of all Thy truth at night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Sweet is the day of sacred rest;",
+        "No mortal cares shall seize my breast;",
+        "O may my heart in tune be found,",
+        "Like David’s harp of solemn sound!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "My heart shall triumph in my Lord,",
+        "And bless His works, and bless His Word.",
+        "Thy works of grace, how bright they shine!",
+        "How deep Thy counsels, how divine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then shall I see, and hear, and know",
+        "All I desired and wished below;",
+        "And every power find sweet employ",
+        "In that eternal world of joy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

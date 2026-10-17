@@ -1,0 +1,53 @@
+﻿{
+  "Number": 425,
+  "Title": "I Would Be True",
+  "Author": "Howard Arnold Walter",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I would be true, for there are those who trust me;",
+        "I would be pure, for there are those who care;",
+        "I would be strong, for there is much to suffer;",
+        "I would be brave, for there is much to dare;",
+        "I would be brave, for there is much to dare."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I would be friend of all — the foe, the friendless;",
+        "I would be giving, and forget the gift;",
+        "I would be humble, for I know my weakness;",
+        "I would look up, and laugh, and love, and lift;",
+        "I would look up, and laugh, and love, and lift."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I would be learning, day by day, the lessons",
+        "My heavenly Father gives me in His word;",
+        "I would be quick to hear His lightest whisper,",
+        "And prompt and glad to do the things I've heard;",
+        "And prompt and glad to do the things I've heard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 494,
+  "Title": "He Sleeps in Jesus",
+  "Author": "Annie R. Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "He sleeps in Jesus — peaceful rest —",
+        "No mortal strife invades his breast;",
+        "No pain, nor sin, nor woe, nor care,",
+        "Can reach the silent slumberer there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He lived his Saviour to adore,",
+        "And meekly all his sufferings bore:",
+        "He loved, and all resigned to God,",
+        "Nor murmured at His chastening rod."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "\"Does earth attract thee here?\" they cried;",
+        "The dying Christian thus replied,",
+        "While pointing upward to the sky,",
+        "\"My treasure is laid up on high.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He sleeps in Jesus — soon to rise,",
+        "When the last trump shall rend the skies;",
+        "Then burst the fetters of the tomb,",
+        "To wake in full, immortal bloom."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "He sleeps in Jesus — cease thy grief;",
+        "Let this afford thee sweet relief,",
+        "That, freed from death's triumphant reign,",
+        "In heaven he will live again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

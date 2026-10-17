@@ -1,0 +1,50 @@
+﻿{
+  "Number": 32,
+  "Title": "Lord, at This Closing Hour",
+  "Author": "E. T. Fitch",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, at this closing hour",
+        "Establish every heart",
+        "Upon Thy word of truth and power,",
+        "To keep us when we part."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Peace to our brethren give;",
+        "Fill all our hearts with love;",
+        "In faith and patience may we live,",
+        "And seek our rest above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Through changes, bright or drear,",
+        "We would Thy will pursue,",
+        "And toil to spread Thy kingdom here",
+        "Till we its glory view."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

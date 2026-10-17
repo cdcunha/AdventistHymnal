@@ -1,0 +1,63 @@
+﻿{
+  "Number": 379,
+  "Title": "There Is a Blessed Hope",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a blessed hope,",
+        "More precious and more bright",
+        "Than all the joyless mockery",
+        "The world esteems delight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There is a lovely star",
+        "That lights the darkest gloom,",
+        "And sheds a peaceful radiance o'er",
+        "The prospects of the tomb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is a cheering voice",
+        "That lifts the soul above,",
+        "Dispels the painful, anxious doubt,",
+        "And whispers, \"God is love,\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "That voice from Calvary's height",
+        "Proclaims the forgiven;",
+        "That star is revelation's light,",
+        "That hope, the hope of heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

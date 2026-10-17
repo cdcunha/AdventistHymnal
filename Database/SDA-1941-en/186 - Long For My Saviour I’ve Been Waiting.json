@@ -1,0 +1,79 @@
+﻿{
+  "Number": 186,
+  "Title": "Long For My Saviour I’ve Been Waiting",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Long for my Saviour I’ve been waiting,",
+        "Long time have watched by night and day;",
+        "Feared, lest my faith and hope abating,",
+        "I should lose courage by the way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Jesus soon is coming;",
+        "This is my song —",
+        "Cheers the heart when joys depart,",
+        "And foes are pressing strong."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Here in this vale of sin and sorrow",
+        "I have been wandering many years,",
+        "Still looking for that happy morrow",
+        "When God would wipe away my tears."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Oftimes the tempter comes in power,",
+        "Fain then would lead my steps astray;",
+        "But when the clouds begin to lower,",
+        "Hope turns the darkness into day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O it will be but little longer",
+        "I must these many woes endure;",
+        "Then let my faith and hope grow stronger;",
+        "My Father's promise still is sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 187,
+  "Title": "The Lord Is Coming",
+  "Author": "Mary A. Steward",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord is coming! let this be",
+        "The herald note of jubilee;",
+        "And when we meet, and when we part",
+        "The salutation from the heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The Lord is coming! sound it forth,",
+        "From east to west, from south to north;",
+        "Speed on! speed on the tidings glad,",
+        "That none who love Him may be sad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The Lord is coming! saints, rejoice!",
+        "We soon shall hear His glorious voice,",
+        "Majestic, uttered from afar,",
+        "As on He hastes His conquering car."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The Lord is coming! vengeful, dire,",
+        "Are all His judgments and His ire,",
+        "And none can hope to escape His wrath,",
+        "Who walk not in the narrow path."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

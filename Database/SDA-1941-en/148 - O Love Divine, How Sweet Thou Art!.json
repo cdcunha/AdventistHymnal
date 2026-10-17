@@ -1,0 +1,71 @@
+﻿{
+  "Number": 148,
+  "Title": "O Love Divine, How Sweet Thou Art!",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O love divine, how sweet thou art!",
+        "When shall I find my willing heart",
+        "All taken up by thee?",
+        "I thirst, I faint, I die to prove",
+        "The greatness of redeeming love,",
+        "The love of Christ to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Stronger His love than death or hell;",
+        "Its riches are unsearchable;",
+        "The first born sons of light",
+        "Desire in vain its depths to see;",
+        "They cannot reach the mystery,",
+        "The length, and breadth, and height."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "God only knows the love of God;",
+        "O that it now were shed abroad",
+        "In this poor stony heart!",
+        "For love I sigh, for love I pine;",
+        "This only portion, Lord, be mine —",
+        "Be mine this better part!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O that I could forever sit",
+        "With Mary at the Master’s feet!",
+        "Be this my happy choice;",
+        "My only care, delight, and bliss,",
+        "My joy, my heaven on earth, be this",
+        "To hear the Bridegroom’s voice."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

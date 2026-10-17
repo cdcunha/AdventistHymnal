@@ -1,0 +1,75 @@
+﻿{
+  "Number": 385,
+  "Title": "More Love to Thee",
+  "Author": "Elizabeth Prentiss",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "More love to Thee, O Christ,",
+        "More love to Thee!",
+        "Hear Thou the prayer I make",
+        "On bended knee.",
+        "This is my earnest plea,",
+        "More love, O Christ, to Thee,",
+        "More love to thee! More love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Once earthly joy I craved,",
+        "Sought peace and rest;",
+        "Now Thee alone I seek,",
+        "Give what is best.",
+        "This all my prayer shall be,",
+        "More love, O Christ, to Thee,",
+        "More love to thee! More love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Let sorrow do its work,",
+        "Send grief and pain;",
+        "Sweet are Thy messengers,",
+        "Sweet their refrain,",
+        "When they can sing with me,",
+        "More love, O Christ, to Thee,",
+        "More love to thee! More love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then shall my latest breath",
+        "Whisper Thy praise;",
+        "This be the parting cry",
+        "My heart shall raise,",
+        "this still its prayer shall be:",
+        "More love, O Christ, to Thee,",
+        "More love to thee! More love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

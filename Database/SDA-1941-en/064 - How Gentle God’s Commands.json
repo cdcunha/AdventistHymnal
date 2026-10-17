@@ -1,0 +1,63 @@
+﻿{
+  "Number": 64,
+  "Title": "How Gentle God’s Commands",
+  "Author": "Philip Doddridge",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How gentle God’s commands!",
+        "How kind His precepts are!",
+        "Come, cast your burdens on the Lord,",
+        "And trust His constant care."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Beneath His watchful eye",
+        "His saints securely dwell;",
+        "That hand which bears all nature up",
+        "Shall guard His children well."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Why should this anxious load",
+        "Press down your weary mind?",
+        "Haste to your Heavenly Father’s throne,",
+        "And sweet refreshment find."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "His goodness stands approved",
+        "Through each succeeding day;",
+        "I’ll drop my burden at His feet,",
+        "And bear a song away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

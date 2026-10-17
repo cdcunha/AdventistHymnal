@@ -1,0 +1,96 @@
+﻿{
+  "Number": 287,
+  "Title": "Saviour Blessed Saviour",
+  "Author": "Godfrey Thring",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Saviour, blessed Saviour,",
+        "Listen whilst we sing,",
+        "Hearts and voices raising",
+        "Praises to our King.",
+        "All we have we offer;",
+        "All we hope to be,",
+        "Body, soul, and spirit,",
+        "All we yield to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Nearer, ever nearer,",
+        "Christ, we draw to Thee,",
+        "Deep in adoration",
+        "Bending low the knee.",
+        "Thou for our redemption",
+        "Camest on earth to die;",
+        "Thou, that we might follow,",
+        "Hast gone up on high."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Great, and ever greater,",
+        "Are Thy mercies here,",
+        "True and ever lasting",
+        "Are the glories there,",
+        "Where no pain, or sorrow,",
+        "Toil, or care is known,",
+        "Where the angel legions",
+        "Circle round Thy throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Clearer still and clearer",
+        "Dawns the light from heaven,",
+        "In our sadness bringing",
+        "News of sin forgiven;",
+        "Life has lost its shadows,",
+        "Pure the light within;",
+        "Thou hast shed Thy radiance",
+        "On a world of sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Onward, ever onward,",
+        "Journeying o'er the road",
+        "Worn by saints before us",
+        "Journeying on to God;",
+        "Leaving all behind us,",
+        "May we hasten on,",
+        "Backward never looking",
+        "Till the prize is won."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

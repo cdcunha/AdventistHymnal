@@ -1,0 +1,50 @@
+﻿{
+  "Number": 416,
+  "Title": "O Perfect Love",
+  "Author": "Dorothy Blomfield Gurney",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O perfect Love, all human thought transcending,",
+        "Lowly we kneel in prayer before Thy throne,",
+        "That theirs may be the love which knows no ending,",
+        "Whom Thou forevermore dost join in one."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O perfect Life, be Thou their full assurance",
+        "Of tender charity and steadfast faith,",
+        "Of patient hope and quiet, brave endurance,",
+        "With childlike trust that fears nor pain nor death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Grant them the joy which brightens earthly sorrow;",
+        "Grant them the peace which calms all earthly strife,",
+        "And to life's day the glorious unknown morrow",
+        "That dawns upon eternal love and life."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

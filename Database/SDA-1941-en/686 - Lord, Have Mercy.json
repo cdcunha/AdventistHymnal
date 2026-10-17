@@ -1,0 +1,23 @@
+﻿{
+  "Number": 686,
+  "Title": "Lord, Have Mercy",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, have mercy, have mercy upon us,",
+        "And incline our hearts to keep Thy law.",
+        "Amen"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 627,
+  "Title": "He That Goeth Forth",
+  "Author": "Thomas Hastings",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "He that goeth forth with weeping,",
+        "Bearing precious seed in love,",
+        "Never tiring, never sleeping,",
+        "Findeth mercy from above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Soft descend the dews of heaven,",
+        "Bright the rays celestial shine;",
+        "Precious fruits will thus be given,",
+        "Through an influence all divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sow the seed, be never weary;",
+        "Let no fears thy soul annoy;",
+        "Be the prospect ne'er so dreary,",
+        "Thou shalt reap the fruits of joy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lo, the scene of verdure brightening!",
+        "See the rising grain appear;",
+        "Look again! the fields are whitening,",
+        "For the harvest time is near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

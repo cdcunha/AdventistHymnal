@@ -1,0 +1,71 @@
+﻿{
+  "Number": 11,
+  "Title": "The Lord Jehovah Reigns",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord Jehovah reigns,",
+        "His throne is built on high;",
+        "The garments He assumes",
+        "Are light and majesty.",
+        "His glories shine with beams so bright",
+        "No mortal eye can bear the sight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The thunders of His hand",
+        "Keep the wide world in awe;",
+        "His wrath and justice stand",
+        "To guard His holy law.",
+        "And where His love resolves to bless,",
+        "His truth confirms and seals the grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Through all His mighty works",
+        "Amazing wisdom shines;",
+        "Confounds the powers of hell,",
+        "And all their designs.",
+        "Strong is His arm, and shall fulfill",
+        "His great decrees and sovereign will."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And will this sovereign King",
+        "Of glory condescend,",
+        "And will He write His name",
+        "My father and my Friend?",
+        "I love His name, I love His word;",
+        "Join all my powers to praise the Lord!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

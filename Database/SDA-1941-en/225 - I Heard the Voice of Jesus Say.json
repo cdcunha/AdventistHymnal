@@ -1,0 +1,62 @@
+﻿{
+  "Number": 225,
+  "Title": "I Heard the Voice of Jesus Say",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I heard the voice of Jesus say,",
+        "\"Come unto me and rest;",
+        "Lay down, thou weary one, lay down",
+        "Thy head upon my breast.\"",
+        "I came to Jesus as I was,",
+        "Weary and worn and sad;",
+        "I found in him a resting place,",
+        "And he has made me glad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I heard the voice of Jesus say,",
+        "\"Behold, I freely give",
+        "The living water; thirsty one,",
+        "Stoop down and drink and live.\"",
+        "I came to Jesus, and I drank",
+        "Of that life-giving stream;",
+        "My thirst was quenched, my soul revived,",
+        "And now I live in him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I heard the voice of Jesus say,",
+        "\"I am this dark world's Light.",
+        "Look unto me; thy morn shall rise",
+        "And all thy day be bright.\"",
+        "I looked to Jesus, and I found",
+        "In him my Star, my Sun;",
+        "And in that Light of Life I'll walk,",
+        "Till traveling days are done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

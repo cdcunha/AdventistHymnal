@@ -1,0 +1,63 @@
+﻿{
+  "Number": 137,
+  "Title": "Where High the Heavenly Temple Stands",
+  "Author": "Michael Bruce",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Where high the heavenly temple stands,",
+        "The house of God not made with hands,",
+        "A great High Priest our nature wears,",
+        "The Guardian of mankind appears."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He, who for men their surety stood,",
+        "And poured on earth his precious blood,",
+        "Pursues in heaven His mighty plan,",
+        "The Savior and the Friend of man."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In every pang that rends the heart",
+        "The Man of Sorrows had a part;",
+        "He sympathizes with our grief,",
+        "And to the sufferer sends relief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "With boldness therefore at the throne",
+        "Let us make all our sorrows known,",
+        "And ask the aid of heavenly power,",
+        "To help us in the evil hour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

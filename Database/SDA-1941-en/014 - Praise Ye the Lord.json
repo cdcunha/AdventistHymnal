@@ -1,0 +1,76 @@
+﻿{
+  "Number": 14,
+  "Title": "Praise Ye the Lord",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise ye the Lord! 'tis good to raise",
+        "Your hearts and voices in His praise;",
+        "His nature and His works invite",
+        "To make this duty our delight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He formed the stars, those heavenly flames,",
+        "He counts their numbers, calls their names;",
+        "His wisdom's vast, and knows no bound,",
+        "A deep where all our thoughts are drowned."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sing to the Lord, exalt Him high,",
+        "Who spreads His clouds along the sky;",
+        "There He prepare the fruitful rain,",
+        "Nor lets the drops descend in vain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He makes the grass the hills adorn,",
+        "And clothes the smiling fields with corn;",
+        "The beasts with food His hands supply,",
+        "And the young ravens when they cry."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "His saints are lovely in His sight,",
+        "He views His children with delight;",
+        "He sees their hope, He knows their fear,",
+        "And looks and loves His image there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

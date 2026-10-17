@@ -1,0 +1,91 @@
+﻿{
+  "Number": 17,
+  "Title": "Rejoice, Ye Pure in Heart",
+  "Author": "Edward Hayes Plumptre",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Rejoice, ye pure in heart,",
+        "Rejoice, give thanks and sing;",
+        "Your festal banner wave on high,",
+        "The Cross of Christ your King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Rejoice, rejoice,",
+        "Rejoice, give thanks and sing."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Bright youth and snow-crowned age,",
+        "Strong men and maidens meek;",
+        "Raise high your free, exulting song,",
+        "God's wondrous praises speak."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With all the angel choirs,",
+        "With all the saints on earth,",
+        "Pour out the strains of joy and bliss,",
+        "True rapture, noblest mirth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Yes, on through life's path,",
+        "Still chanting as ye go;",
+        "From youth to age, by night and day,",
+        "In gladness and in woe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Then on, ye pure in heart,",
+        "Rejoice, give thanks, and sing;",
+        "Your glorious banner wave on high,",
+        "The Cross of Christ your King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

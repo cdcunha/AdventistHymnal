@@ -1,0 +1,75 @@
+﻿{
+  "Number": 552,
+  "Title": "I Will Sing You a Song",
+  "Author": "Ellen H. Gatits",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I will sing you a song of that beautiful land,",
+        "The faraway home of the soul,",
+        "Where no storms ever beat on the glittering strand,",
+        "While the years of eternity roll,",
+        "While the years of eternity roll;",
+        "Where no storms ever beat on the glittering strand,",
+        "While the years of eternity roll."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, that home of the soul! in my visions and dreams",
+        "Its bright, jasper walls I can see,",
+        "Till I fancy but thinly the veil intervenes",
+        "Between the fair city and me,",
+        "Between the fair city and me;",
+        "Till I fancy but thinly the veil intervenes",
+        "Between the fair city and me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "That unchangeable home is for you and for me,",
+        "Where Jesus of Nazareth stands;",
+        "The King of all kingdoms forever is He,",
+        "And He holdeth our crowns in His hands,",
+        "And He holdeth our crowns in His hands;",
+        "The King of all kingdoms forever is He,",
+        "And He holdeth our crowns in His hands."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O, how sweet it will be in that beautiful land,",
+        "So free from all sorrow and pain;",
+        "With songs on our lips and with harps in our hands,",
+        "To meet one another again!",
+        "To meet one another again!",
+        "With songs on our lips and with harps in our hands,",
+        "To meet one another again!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

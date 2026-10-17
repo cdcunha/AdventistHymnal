@@ -1,0 +1,50 @@
+﻿{
+  "Number": 340,
+  "Title": "By Cool Siloam’s Shady Rill",
+  "Author": "Reginald Heber",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "By cool Siloam's shady rill",
+        "How fair the lily grows!",
+        "How sweet the breath, beneath the hill,",
+        "Of Sharon's dewy rose!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lo, such the child whose early feet",
+        "The paths of peace have trod,",
+        "Whose secret heart, with influence sweet,",
+        "Is upward drawn to God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Dependent on Thy bounteous breath,",
+        "We seek Thy grace alone,",
+        "In childhood, manhood, age, and death,",
+        "To keep us still Thine own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

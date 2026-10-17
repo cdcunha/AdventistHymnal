@@ -1,0 +1,91 @@
+﻿{
+  "Number": 368,
+  "Title": "We’re Bound for the Land of the Pure",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "We're bound for the land of the pure and the holy,",
+        "The home of the happy, the kingdom of love;",
+        "Ye wanderers from God, in the broad road of folly,",
+        "O say, will you go to the Eden above?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Will you go, will you go, will you go, will you go?",
+        "O say, will you go to the Eden above?"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "In that blessed land, neither sighing nor anguish",
+        "Can breathe in the fields where the glorified rove;",
+        "Ye heart-burdened ones, who in misery languish",
+        "O say, will you go to the Eden above?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Nor fraud, nor deceit, nor the hand of oppression,",
+        "Can injure the dwellers in that holy grove;",
+        "No wickedness there, not a shade of transgression;",
+        "O say, will you go to the Eden above?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "No poverty there, no, the saints are all wealthy,",
+        "The heirs of His glory whose nature is love;",
+        "No sickness can reach them, that country is healthy;",
+        "O say, will you go to the Eden above?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "And yet, guilty sinner, we would not forsake thee,",
+        "We halt yet a moment as onward we move;",
+        "O, come to thy Lord! in His arms He will take thee,",
+        "And bear thee along to the Eden above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

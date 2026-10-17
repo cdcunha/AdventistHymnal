@@ -1,0 +1,79 @@
+﻿{
+  "Number": 530,
+  "Title": "The Great Physician Now Is Near",
+  "Author": "William Hunter",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The great Physician now is near,",
+        "The sympathizing Jesus;",
+        "He speaks the drooping heart to cheer,",
+        "Oh! hear the voice of Jesus!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Sweetest note in seraph song,",
+        "Sweetest name on mortal tongue;",
+        "Sweetest carol ever sung,",
+        "Jesus, blessed Jesus."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "All glory to the dying Lamb!",
+        "I now believe in Jesus;",
+        "I love the blessed Savior's name,",
+        "I love the name of Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "His name dispels my guilt and fear,",
+        "No other name but Jesus;",
+        "Oh! how my soul delights to hear",
+        "The precious name of Jesus!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when He comes to bring the crown —",
+        "The crown of life and glory —",
+        "Then by His side we will sit down,",
+        "And tell redemption's story."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

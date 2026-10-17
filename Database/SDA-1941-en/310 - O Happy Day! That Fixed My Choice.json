@@ -1,0 +1,95 @@
+﻿{
+  "Number": 310,
+  "Title": "O Happy Day! That Fixed My Choice",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O happy day! that fixed my choice",
+        "On Thee, my Saviour and my God;",
+        "Well may this glowing heart rejoice,",
+        "And tell its raptures all abroad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Happy day, happy day,",
+        "When Jesus washed my sins away!",
+        "He taught me how to watch and pray,",
+        "And live rejoicing every day;",
+        "Happy day, happy day,",
+        "When Jesus washed my sins away!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "'Tis done, the great transaction's done;",
+        "I am my Lord's, and He is mine;",
+        "He drew me and I followed on,",
+        "Charmed to confess the voice divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Now rest, my long-divided heart,",
+        "Fixed on this blissful center, rest;",
+        "Nor ever from thy Lord depart,",
+        "With Him of every good possessed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "High Heaven, that heard the solemn vow,",
+        "That vow renewed shall daily hear,",
+        "Till in time's latest hour I bow,",
+        "And bless at last a bond so dear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "And when the bright celestial train.",
+        "From highest heaven to earth shall come;",
+        "Then with my Lord I'll rise, and reign",
+        "Forever in that happy home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

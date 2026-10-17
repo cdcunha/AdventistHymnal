@@ -1,0 +1,50 @@
+﻿{
+  "Number": 318,
+  "Title": "Come, My soul",
+  "Author": "John Newton",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, my soul, thy suit prepare!",
+        "Jesus loves to answer prayer;",
+        "He Himself has bid thee pray,",
+        "Therefore will not say thee nay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With my burden I begin:",
+        "Lord, remove this load of sin;",
+        "Let Thy blood, for sinners spilt,",
+        "Set my conscience free from guilt."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I come to Thee for rest,",
+        "Take possession of my breast:",
+        "There, Thy sovereign right maintain,",
+        "And without a rival reign."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

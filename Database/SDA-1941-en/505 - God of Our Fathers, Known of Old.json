@@ -1,0 +1,86 @@
+﻿{
+  "Number": 505,
+  "Title": "God of Our Fathers, Known of Old",
+  "Author": "Rudyard Kipling",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God of our fathers, known of old,",
+        "Lord of our far-flung battle line,",
+        "Beneath whose awful hand we hold",
+        "Dominion over palm and pine,",
+        "Lord God of hosts, be with us yet,",
+        "Lest we forget, lest we forget."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The tumult and the shouting dies;",
+        "The captains and the kings depart;",
+        "Still stands Thine ancient sacrifice,",
+        "A humble and a contrite heart.",
+        "Lord God of hosts, be with us yet,",
+        "Lest we forget, lest we forget."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Far called, our navies melt away;",
+        "On dune and headland sinks the fire;",
+        "Lo, all our pomp of yesterday",
+        "Is one with Nineveh and Tyre!",
+        "Judge of the nations, spare us yet,",
+        "Lest we forget, lest we forget."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "If, drunk with sight of power, we loose",
+        "Wild tongues that have not Thee in awe,",
+        "Such boastings as the Gentiles use,",
+        "Or lesser breeds without the law —",
+        "Lord God of hosts, be with us yet,",
+        "Lest we forget, lest we forget."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "For heathen heart that puts her trust",
+        "In reeking tube and iron shard;",
+        "All valiant dust that builds on dust,",
+        "And, guarding, calls not Thee to guard,",
+        "For frantic boast and foolish word,",
+        "Thy mercy on Thy people, Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

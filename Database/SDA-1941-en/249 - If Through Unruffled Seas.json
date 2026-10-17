@@ -1,0 +1,71 @@
+﻿{
+  "Number": 249,
+  "Title": "If Through Unruffled Seas",
+  "Author": "Augustus Montague Toplady",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "If through unruffled seas",
+        "Calmly toward heaven we sail,",
+        "With grateful hearts, O God, to thee,",
+        "We'll own the favoring gale,",
+        "With grateful hearts, O God, to thee,",
+        "We'll own the favoring gale."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "But should the surges rise,",
+        "And rest delay to come,",
+        "Blest be the sorrow, kind the storm,",
+        "Which drives us nearer home.",
+        "Blest be the sorrow, kind the storm,",
+        "Which drives us nearer home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Soon shall our doubts and fears",
+        "All yield to thy control;",
+        "Thy tender mercies shall illume",
+        "The midnight of the soul,",
+        "Thy tender mercies shall illume",
+        "The midnight of the soul."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Teach us in every state,",
+        "To make thy will our own,",
+        "And when the joys of sense depart,",
+        "To live by faith alone,",
+        "And when the joys of sense depart,",
+        "To live by faith alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

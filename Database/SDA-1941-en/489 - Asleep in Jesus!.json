@@ -1,0 +1,63 @@
+﻿{
+  "Number": 489,
+  "Title": "Asleep in Jesus!",
+  "Author": "Margarltt Maci Ay",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Asleep in Jesus! blessed sleep,",
+        "From which none ever wake to weep;",
+        "A calm and undisturbed repose,",
+        "Unbroken by the last of foes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Asleep in Jesus! 0 how sweet",
+        "To be for such a slumber meet!",
+        "With holy confidence to rest",
+        "In hope of being ever blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Asleep in Jesus! Peaceful rest,",
+        "Whose waking is supremely blest;",
+        "No fear, no woe, shall dim that hour",
+        "That manifests the Saviour's power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Asleep in Jesus! Soon to rise,",
+        "When the last trump shall rend the skies;",
+        "Then burst the fetters of the tomb,",
+        "And wake in full, immortal bloom."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,81 @@
+﻿{
+  "Number": 554,
+  "Title": "There Is a Land of Corn and Wine",
+  "Author": "Edgar Page",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a land of corn and wine,",
+        "And all its joys will soon be mine;",
+        "There shines undimmed one blissful day,",
+        "For earth's dark night has passed away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Beulah land! sweet Beulah land!",
+        "Upon thy heights I long to stand,",
+        "And view the radiant, jasper sea,",
+        "And mansions fair, prepared for me,",
+        "And find on that eternal shore",
+        "My heaven, my home, forevermore."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "My Saviour then will walk with me;",
+        "O sweet communion that will be!",
+        "He'll gently lead me by the hand,",
+        "In that celestial, happy land."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "A sweet perfume upon the breeze,",
+        "Will come from ever vernal trees,",
+        "And flowers that never fading grow,",
+        "Where streams of life forever flow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The zephyrs then will laden be",
+        "With sounds of sweetest melody,",
+        "As angels, with the ransomed throng,",
+        "Join in the sweet redemption song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

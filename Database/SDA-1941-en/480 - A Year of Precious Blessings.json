@@ -1,0 +1,68 @@
+﻿{
+  "Number": 480,
+  "Title": "A Year of Precious Blessings",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "A year of precious blessings,",
+        "And glorious victories won,",
+        "Of earnest work progressing,",
+        "Its onward course has run;",
+        "To Thee, O God, our Refuge,",
+        "Whose goodness crowns our days,",
+        "Within Thy earthly temple",
+        "We lift our souls in praise;",
+        "Within Thy earthly temple",
+        "We lift our souls in praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou Master of assemblies,",
+        "In mighty power descend,",
+        "Behold our glad reunion,",
+        "Conduct it to the end;",
+        "Inspire our hearts with courage,",
+        "And deeper love for Thee,",
+        "That all Thy name may honor,",
+        "Where'er our field may be;",
+        "That all Thy name may honor,",
+        "Where'er our field may be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O church of God's Anointed,",
+        "March on the lost to win,",
+        "Lead forth Thy ranks victorious",
+        "Against the hosts of sin;",
+        "'Till at His throne in glory,",
+        "Where angels prostrate fall,",
+        "One hallelujah chorus",
+        "Shall crown Him Lord of all;",
+        "One hallelujah chorus",
+        "Shall crown Him Lord of all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

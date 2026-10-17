@@ -1,0 +1,79 @@
+﻿{
+  "Number": 657,
+  "Title": "On the Shore Beyond the Sea",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "On the shore beyond the sea,",
+        "Where the fields are bright and fair,",
+        "There's a call, a plaintive plea,",
+        "I must hasten to be there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Let me go, I cannot stay,",
+        "'Tis the Master calling me;",
+        "Let me go, I must obey;",
+        "Native land, farewell to thee."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Hark! I hear the Master say,",
+        "\"Up, ye reapers! why so slow?\"",
+        "To the vineyard, far away,",
+        "Earthly kindred, let me go."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Just beyond the rolling tide,",
+        "The uplifted hand I see;",
+        "Lo! the gates are open wide,",
+        "And the lost are calling me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Father, mother, darling child,",
+        "I must bid you all adieu;",
+        "Far across the waters wild,",
+        "There's a work for me to do."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+  "Number": 205,
+  "Title": "Come, Holy Spirit, Come",
+  "Author": "Joseph Hart",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, Holy Spirit, come,",
+        "Let thy bright beams arise,",
+        "Dispel the sorrow from our minds,",
+        "The darkness from our eyes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Convince us all of sin,",
+        "Then lead to Jesus’ blood,",
+        "And to our wondering view reveal",
+        "The mercies of our God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Revive our drooping faith,",
+        "Our doubts and fears remove,",
+        "And kindle in our breasts the flame",
+        "Of never dying love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "’Tis Thine to cleanse the heart,",
+        "To sanctify the soul,",
+        "To pour fresh life in every part,",
+        "And new create the whole."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Come, Holy Spirit, come,",
+        "Our minds from bondage free;",
+        "Then we shall know, and praise, and love,",
+        "The Father, Son, and Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

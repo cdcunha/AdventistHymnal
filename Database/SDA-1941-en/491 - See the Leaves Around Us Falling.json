@@ -1,0 +1,50 @@
+﻿{
+  "Number": 491,
+  "Title": "See the Leaves Around Us Falling",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "See the leaves around us falling,",
+        "Dry and withered to the ground;",
+        "Thus to thoughtless mortals calling,",
+        "In a sad and solemn sound:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "\"Youth on length of days presuming,",
+        "Who the paths of pleasure tread,",
+        "View us, late in beauty blooming,",
+        "Numbered now among the dead.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "\"Yearly in our course appearing,",
+        "Messengers of shortest stay,",
+        "Thus we preach in mortal hearing —",
+        "Ye, like us, shall pass away.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

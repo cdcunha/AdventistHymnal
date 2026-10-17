@@ -1,0 +1,95 @@
+﻿{
+  "Number": 159,
+  "Title": "Majestic Sweetness Sits Enthroned",
+  "Author": "Samuel Stennett",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Majestic sweetness sits enthroned",
+        "Upon the Saviour’s brow;",
+        "His head with radiant light is crowned,",
+        "His lips with grace o’erflow,",
+        "His lips with grace o’erflow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "No mortal can with Him compare,",
+        "Among the sons of men;",
+        "Fairer is He than all the fair",
+        "That fill the heav’nly train,",
+        "That fill the heav’nly train."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "He saw me plunged in deep distress,",
+        "And flew to my relief;",
+        "For me He bore the shameful cross,",
+        "And carried all my grief,",
+        "And carried all my grief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To Him I owe my life and breath,",
+        "And all the joys I have;",
+        "He makes me triumph over death,",
+        "He saves me from the grave,",
+        "He saves me from the grave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "To Heaven, the place of His abode,",
+        "He brings my weary feet;",
+        "Shows me the glories of my God,",
+        "And makes my joys complete,",
+        "And makes my joys complete."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Since from His bounty I receive",
+        "Such proofs of love divine,",
+        "Had I a thousand hearts to give,",
+        "Lord, they should all be Thine,",
+        "Lord, they should all be Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

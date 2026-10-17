@@ -1,0 +1,50 @@
+﻿{
+  "Number": 488,
+  "Title": "I Know That My Redeemer Lives",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I know that my Redeemer lives;",
+        "He lives, and on the earth shall stand;",
+        "And though to worms my flesh He gives,",
+        "My dust lies numbered in His hand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In this reanimated clay",
+        "I surely shall behold Him near,",
+        "Shall see Him in the latter day",
+        "In all His majesty appear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With mine and not another's eyes",
+        "The King in beauty I shall view;",
+        "I shall from Him receive the prize,",
+        "The starry crown to victors due."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -6,13 +6,17 @@ The hymn files and idea came from <a>https://github.com/ariseforgod/adventist_hy
 Additionally, this tool can allow you to easily modify the layout of the files in bulk. This makes it easy to adjust spacing and re-import in just a few minutes.
 
 ## How to use
-The hymns for ProPresenter are already prepared in the 'Outputs/ProPresenter' folder. If you would like to further customize the aesthetic, manual tweaking of the generation system will be required. But they work if you just mass import them as .txt files.
+Generated ProPresenter exports are written to `Outputs/ProPresenter/<collection-id>` and can be mass imported as `.txt` files. If you would like to further customize the aesthetic, manual tweaking of the generation system will be required.
 
 If you build the project, you must copy the Inputs/Database folders into the root directory with the executable.
 
-- Inputs: Raw text files of all hymns.
-- Database: Imported hymn files that are parsed and turned into json.
-- Outputs: Final output hymns, ready to be imported.
+- `Inputs/<collection-id>`: Raw `.txt` hymn files for a hymnal collection, such as `Inputs/SDA-1941-en`.
+- `Database/<collection-id>`: Imported hymn files parsed and stored as JSON, such as `Database/SDA-1941-en`.
+- `Outputs/<format>/<collection-id>`: Exported files ready to be imported into presentation software, such as `Outputs/ProPresenter/SDA-1941-en`.
+
+Choose the collection when importing or exporting. The collection folder name is used as its ID and as the export subfolder name. Importing a collection writes its JSON files to the matching `Database/<collection-id>` folder.
+
+For compatibility, files placed directly in the root `Inputs` or `Database` folder are treated as the legacy `SDA-1985-en` collection. Moving them into `Inputs/SDA-1985-en` and `Database/SDA-1985-en` makes the collection explicit.
 
 ## To do
 - Improve abstraction to allow other exporters that may not have a similar syntax.

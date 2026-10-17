@@ -1,0 +1,62 @@
+﻿{
+  "Number": 170,
+  "Title": "Beyond the Starry Skies",
+  "Author": "Daniel Turner",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Beyond the starry skies,",
+        "Far as th'eternal hills,",
+        "There, in the soundless world of light",
+        "Our great Redeemer dwells.",
+        "Around Him angels fair,",
+        "In countless armies shine;",
+        "And ever, in exalted lays,",
+        "They offer songs divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "\"Hail, Prince of life!\" they cry,",
+        "\"Whose unexampled love",
+        "Moved Thee to quit those glorious realms",
+        "And royalties above.\"",
+        "And when He stooped to earth,",
+        "And suffered rude disdain,",
+        "They cast their honors at His feet,",
+        "And waited in His train."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "They saw Him on the cross,",
+        "While darkness veiled the skies;",
+        "And when He burst the gates of death,",
+        "They saw the Conqueror rise.",
+        "They thronged His chariot wheels,",
+        "And bore Him to His throne;",
+        "Then swept their golden harps and sang,",
+        "\"That glorious work is done.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

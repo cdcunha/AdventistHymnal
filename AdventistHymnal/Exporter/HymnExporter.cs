@@ -7,6 +7,15 @@ namespace AdventistHymnal.Exporter
 {
 	public abstract class HymnExporter
 	{
+		protected HymnDatabase Database { get; }
+		protected string CollectionId { get; }
+
+		protected HymnExporter(HymnDatabase database, string collectionId)
+		{
+			Database = database;
+			CollectionId = collectionId;
+		}
+
 		// TODO: Move these to a config.ini file
 		protected abstract int MaxLinesPerSlide { get; set; }
 		protected const int CCLINumber = 999999;
@@ -19,7 +28,7 @@ namespace AdventistHymnal.Exporter
 
 		public void ExportAll()
 		{
-			ExportRange(Program.DB.MinNumber, Program.DB.MaxNumber);
+			ExportRange(Database.MinNumber, Database.MaxNumber);
 		}
 
 		public void ExportRange(int min, int max)
@@ -32,13 +41,16 @@ namespace AdventistHymnal.Exporter
 			Logger.LogMessage($"Beginning export for hymns #{min} - #{max}");
 			for (int i = min; i <= max; i++)
 			{
-				ExportHymn(i);
+				if (Database.GetHymn(i) != null)
+				{
+					ExportHymn(i);
+				}
 			}
 		}
 
 		public void ExportHymn(int number)
 		{
-			Hymn hymn = Program.DB.GetHymn(number);
+			Hymn hymn = Database.GetHymn(number);
 
 			StringBuilder builder = new();
 			builder.AppendLine($"{TitleTag}#{hymn.Number} {hymn.Title}");
@@ -52,7 +64,7 @@ namespace AdventistHymnal.Exporter
 			builder.AppendLine();
 
 			builder.AppendLine("Tag");
-			builder.AppendLine($"SDA Hymnal #{hymn.Number}");
+			builder.AppendLine($"{CollectionId} #{hymn.Number}");
 			builder.AppendLine($"{hymn.Title}");
 			builder.AppendLine();
 
@@ -62,9 +74,9 @@ namespace AdventistHymnal.Exporter
 				builder.AppendLine();
 			}
 			
-			string path = @$"{AppDomain.CurrentDomain.BaseDirectory}Outputs\{OutputFolderName}\";
+			string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, Program.OutputDirectory, OutputFolderName, CollectionId);
 			Directory.CreateDirectory(path);
-			File.WriteAllText($"{path}{hymn.Number:000}.txt", builder.ToString());
+			File.WriteAllText(Path.Combine(path, $"{hymn.Number:000}.txt"), builder.ToString());
 			Logger.LogMessage($"Hymn #{hymn.Number} successful!");
 		}
 

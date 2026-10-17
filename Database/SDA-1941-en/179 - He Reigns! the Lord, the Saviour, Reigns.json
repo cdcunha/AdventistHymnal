@@ -1,0 +1,63 @@
+﻿{
+  "Number": 179,
+  "Title": "He Reigns! the Lord, the Saviour, Reigns",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "He reigns! the Lord, the Savior reigns;",
+        "Sing to His name in lofty strains,",
+        "Let all the saints in songs rejoice,",
+        "And in His praise exalt their voice."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Deep are his counsels, and unknown,",
+        "But grace and truth support His throne;",
+        "Though gloomy clouds His ways surround,",
+        "Justice is their eternal ground."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In robes of judgment, lo, he comes!",
+        "Shakes the wide earth and cleaves the tombs;",
+        "Before him burns devouring fire;",
+        "The mountains melt, the seas retire."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "His enemies, with wild dismay,",
+        "Fly from the sight, and shun the day;",
+        "Then lift your heads, ye saints, on high,",
+        "And sing, for your redemption's nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

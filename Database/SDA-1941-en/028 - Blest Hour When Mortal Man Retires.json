@@ -1,0 +1,63 @@
+﻿{
+  "Number": 28,
+  "Title": "Blest Hour When Mortal Man Retires",
+  "Author": "Thomas Raffles",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Blest hour when mortal man retires",
+        "To hold communion with his God,",
+        "To send to heaven his warm desires,",
+        "And listen to the sacred word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Blest hour when earthly cares resign",
+        "Their empire o'er his anxious breast;",
+        "While all around, the calm divine",
+        "Proclaims the holy day of rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Blest hour when God Himself draws nigh,",
+        "Well pleased His people's voice to hear,",
+        "To hush the penitential sigh,",
+        "And wipe away the mourner's tear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Blest hour! for where the Lord resorts",
+        "Foretastes of future bliss are given;",
+        "And mortals find His earthly courts",
+        "The house of God, the gate of heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Number": 409,
+  "Title": "Guide Me, O Thou Great Jehovah",
+  "Author": "William Williams",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Guide me, O thou great Jehovah!",
+        "Pilgrim through this barren land;",
+        "I am weak, but Thou art mighty,",
+        "Hold me with Thy powerful hand.",
+        "Bread of heaven,",
+        "Bread of heaven, Bread of heaven,",
+        "Feed me till I want no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Open now the crystal fountain",
+        "Whence the healing waters flow,",
+        "Let the firey, cloudy pillar",
+        "Lead me all my journey through.",
+        "Strong Deliverer,",
+        "Strong Deliverer, Strong Deliverer,",
+        "Be Thou still my strength and shield."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When I tread the verge of Jordan,",
+        "Bid my anxious fears subside;",
+        "Bear me through the swelling current,",
+        "Land me safe on Canaan's side.",
+        "Songs of praises,",
+        "Songs of praises, Songs of praises,",
+        "I will ever give to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

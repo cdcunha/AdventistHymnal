@@ -1,0 +1,76 @@
+﻿{
+  "Number": 89,
+  "Title": "God Is the Refuge",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God is the refuge of His saints,",
+        "When storms of sharp distress invade;",
+        "Ere we can offer our complaints,",
+        "Behold him present with His aid."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Loud may the troubled ocean roar;",
+        "In sacred peace our souls abide;",
+        "While every nation, every shore,",
+        "Trembles, and dreads the swelling tide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is a stream, whose gentle flow",
+        "Supplies the city of our God,",
+        "Life, love, and joy still gliding through,",
+        "And watering our divine abode."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "That sacred stream, Thy holy word,",
+        "Our grief allays, our fear controls;",
+        "Sweet peace Thy promises afford,",
+        "And give new strength to fainting souls."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Zion enjoys her Monarch's love,",
+        "Secure against a threatening hour;",
+        "Nor can her firm foundation move,",
+        "Built on His truth, and armed with power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

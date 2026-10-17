@@ -1,0 +1,63 @@
+﻿{
+  "Number": 484,
+  "Title": "O Bow Thine Ear",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O bow Thine ear, Eternal One!",
+        "On Thee each heart adoring calls;",
+        "To Thee the followers of Thy Son",
+        "Have raised, and now devote, these walls."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here let Thy holy days be kept;",
+        "And be this place to worship given,",
+        "Like that bright spot where Jacob slept,",
+        "The house of God, the gate of heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Here may Thine honor dwell; and here",
+        "As incense, let Thy children's prayer,",
+        "From contrite hearts and lips sincere,",
+        "Rise on the still and holy air."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Here be Thy praise devoutly sung,",
+        "Here let Thy truth beam forth to save",
+        "As when of old Thy Spirit hung",
+        "On wings of light o'er Jordan's wave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "Number": 502,
+  "Title": "Mourn for the Thousands Slain",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Mourn for the thousands slain,",
+        "The youthful and the strong;",
+        "Mourn for the wine cup's fearful reign,",
+        "And the deluded throng."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Mourn for the lost — but call,",
+        "Call to the strong, the free;",
+        "Rouse them to shun that dreadful fall,",
+        "And to the Refuge flee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Mourn for the lost — but pray,",
+        "Pray to our God above,",
+        "To break the fell destroyer's sway,",
+        "And show His saving love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

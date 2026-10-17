@@ -1,0 +1,50 @@
+﻿{
+  "Number": 323,
+  "Title": "Come Unto Me When Shadows Darkly Gather",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come unto me when shadows darkly gather,",
+        "When the sad heart is weary and distressed;",
+        "Seeking for comfort from your heavenly Father,",
+        "Come unto me, and I will give you rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Large are the mansions in our Father's dwelling,",
+        "Glad are those homes that sorrows never dim;",
+        "Sweet are the harps in holy music swelling,",
+        "Soft are the tones that raise the heavenly hymn."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There, like an Eden blossoming in gladness,",
+        "Bloom the fair flowers by earth so rudely pressed;",
+        "Come unto Him all ye who droop in sadness,",
+        "\"Come unto Me, and I will give you rest.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

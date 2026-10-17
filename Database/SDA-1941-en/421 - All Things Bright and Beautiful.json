@@ -1,0 +1,79 @@
+﻿{
+  "Number": 421,
+  "Title": "All Things Bright and Beautiful",
+  "Author": "Cecil Frances Alexander",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All things bright and beautiful",
+        "All creatures great and small",
+        "All things wise and wonderful",
+        "The Lord God made them all."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Each little flower that opens,",
+        "Each little bird that sings;",
+        "He made their glowing colors,",
+        "He made their tiny wings."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The purple-headed mountain",
+        "The river running by,",
+        "The sunset, and the morning",
+        "That brighten up the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The cold wind in the winter,",
+        "The pleasant summer sun,",
+        "The ripe fruits in the garden,",
+        "He made them, every one."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He gave us eyes to see them,",
+        "And lips that we might tell",
+        "How great is God Almighty,",
+        "Who has made all things well."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

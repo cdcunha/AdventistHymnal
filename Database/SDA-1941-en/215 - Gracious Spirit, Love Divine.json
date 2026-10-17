@@ -1,0 +1,63 @@
+﻿{
+  "Number": 215,
+  "Title": "Gracious Spirit, Love Divine",
+  "Author": "John Stocker",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Gracious Spirit, Love divine,",
+        "Let thy light within me shine,",
+        "All my guilty fears remove,",
+        "Fill me with thy heavenly love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Speak thy pardoning grace to me,",
+        "Set the burdened sinner free,",
+        "Lead me to the Lamb of God,",
+        "Wash me in his precious blood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Life and peace to me impart,",
+        "Seal salvation on my heart,",
+        "Breathe thyself into my breast,",
+        "Earnest of immortal rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let me never from thee stray,",
+        "Keep me in the narrow way,",
+        "Fill my soul with joy divine,",
+        "Keep me, Lord, forever thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

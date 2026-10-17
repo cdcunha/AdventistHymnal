@@ -1,0 +1,63 @@
+﻿{
+  "Number": 2,
+  "Title": "From All That Dwell Below the Skies",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "From all that dwell below the skies",
+        "Let the Creator's praise arise;",
+        "Let His almighty name be sung",
+        "Through every land, by every tongue."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Eternal are Thy mercies, Lord,",
+        "Eternal truth attends Thy word;",
+        "Thy praise shall sound from shore to shore,",
+        "Till suns shall rise and set no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Your lofty themes, ye mortals, bring,",
+        "In songs of praise divinely sing;",
+        "God's great salvation loud proclaim,",
+        "And shout for joy His glorious name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In every land begin the song,",
+        "To every land the strains belong;",
+        "In cheerful sounds all voices raise,",
+        "And fill the world with loudest praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

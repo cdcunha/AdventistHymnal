@@ -1,0 +1,83 @@
+﻿{
+  "Number": 591,
+  "Title": "I Know My Heavenly Father",
+  "Author": "S. M. I. Henry",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I know my heavenly Father knows",
+        "The storms that would my way oppose;",
+        "But He can drive the clouds away.",
+        "And turn my darkness into day,",
+        "And turn my darkness into day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He knows, He knows",
+        "The storms that would my way oppose;",
+        "He knows, He knows,",
+        "And tempers every wind that blows."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I know my heavenly Father knows",
+        "The balm I need to soothe my woes;",
+        "And with His touch of love divine",
+        "He heals this wounded soul of mine,",
+        "He heals this wounded soul of mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I know my heavenly Father knows",
+        "How frail I am to meet my foes;",
+        "But He my cause will e'er defend,",
+        "Uphold and keep me to the end,",
+        "Uphold and keep me to the end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I know my heavenly Father knows",
+        "The hour my journey here will close;",
+        "And may that hour, O faithful Guide,",
+        "Find me safe sheltered by Thy side,",
+        "Find me safe sheltered by Thy side."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

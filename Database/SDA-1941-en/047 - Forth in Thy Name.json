@@ -1,0 +1,63 @@
+﻿{
+  "Number": 47,
+  "Title": "Forth in Thy Name",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Forth in Thy Name, O Lord, I go,",
+        "My daily labor to pursue;",
+        "Thee, only Thee, resolved to know",
+        "In all I think, or speak, or do."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The task Thy wisdom hath assigned",
+        "O let me cheerfully fulfill;",
+        "In all my works Thy presence find,",
+        "And prove Thy good and perfect will."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Give me to bear Thy easy yoke,",
+        "And every moment watch and pray;",
+        "And still to things eternal look,",
+        "And hasten to Thy glorious day:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "For Thee delightfully employ",
+        "Whate’er Thy bounteous grace hath given;",
+        "And run my course with even joy,",
+        "And closely walk with Thee to heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

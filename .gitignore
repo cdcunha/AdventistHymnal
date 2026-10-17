@@ -142,3 +142,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Cached web pages for tools\Get-Hymnal1941.ps1
+tools/cache/

@@ -1,0 +1,93 @@
+﻿{
+  "Number": 556,
+  "Title": "Angel Voices Sweetly Singing",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Angel voices sweetly singing,",
+        "Echoes through the blue dome ringing,",
+        "News of wondrous gladness bringing;",
+        "Ah, 'tis heaven at last!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Heaven at last, heaven at last;",
+        "O, the joyful story of heaven at last!",
+        "Heaven at last, heaven at last;",
+        "Endless, boundless glory, In heaven at last."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "On the jasper threshold standing,",
+        "Like a pilgrim safely landing,",
+        "See the strange bright scene expanding;",
+        "Ah, 'tis heaven at last!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Softest voices, silver pealing,",
+        "Freshest fragrance, spirit healing,",
+        "Happy hymns around us stealing;",
+        "Ah, 'tis heaven at last!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Not a teardrop ever falleth,",
+        "Not a pleasure ever palleth,",
+        "Song to song forever calleth;",
+        "Ah, 'tis heaven at last!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Christ Himself the living splendor,",
+        "Christ the sunlight, mild and tender;v",
+        "Praise to the Lamb we render;",
+        "Ah, 'tis heaven at last!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

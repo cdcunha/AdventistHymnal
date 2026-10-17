@@ -1,0 +1,50 @@
+﻿{
+  "Number": 274,
+  "Title": "Must Jesus Bear the Cross Alone?",
+  "Author": "Thomas Shepherd",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Must Jesus bear the cross alone,",
+        "And all the world go free?",
+        "No, there's a cross for everyone,",
+        "And there's a cross for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The consecrated cross I'll bear,",
+        "Till he shall set me free;",
+        "And then go home my crown to wear,",
+        "For there's a crown for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Upon the crystal pavement, down",
+        "At Jesus' pierced feet,",
+        "With joy I'll cast my golden crown,",
+        "And His dear name repeat."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,79 @@
+﻿{
+  "Number": 563,
+  "Title": "Softly and Tenderly",
+  "Author": "Will Lamartine Thompson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Softly and tenderly Jesus is calling,",
+        "Calling for you and for me;",
+        "At the heart's portals He's waiting and watching,",
+        "Watching for you and for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come home, come home,",
+        "Ye who are weary come home;",
+        "Earnestly, tenderly Jesus is calling,",
+        "Calling, O sinner, come home!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Why should we tary when Jesus is pleading,",
+        "Pleading for you and for me?",
+        "Why should we linger and heed not His mercies,",
+        "Mercies for you and for me?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Time is now fleeting, the moments are passing,",
+        "Passing from you and from me;",
+        "Shadows are gathering, and death's night is coming,",
+        "Coming for you and for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Think of the wonderful love He has promised,",
+        "Promised for you and for me!",
+        "Though we have sinned, he has mercy and pardon,",
+        "Pardon for you and for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

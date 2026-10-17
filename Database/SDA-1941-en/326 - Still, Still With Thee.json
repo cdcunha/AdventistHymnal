@@ -1,0 +1,76 @@
+﻿{
+  "Number": 326,
+  "Title": "Still, Still With Thee",
+  "Author": "Harriet Beecher Stowe",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Still, still with Thee, when purple morning breaketh,",
+        "When the bird waketh, and the shadows flee;",
+        "Fairer than morning, lovelier than daylight,",
+        "Dawns the sweet consciousness, I am with Thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Alone with Thee, amid the mystic shadows,",
+        "The solemn hush of nature newly born;",
+        "Alone with Thee holy adoration,",
+        "In the calm dew and freshness of the morn."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "As in the dawning, o'er the waveless ocean,",
+        "The image of the morning star doth rest,",
+        "So in this stillness Thou beholdest only",
+        "Thine image mirored in my peaceful breast."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When sinks the soul, subdued by toil, to slumber,",
+        "Its closing eye looks up to Thee in prayer;",
+        "Sweet the repose beneath Thy wings o'ershading,",
+        "But sweeter still, to wake and find Thee there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "So shall it be at last, in that bright morning,",
+        "When the soul waketh and life's shadows flee;",
+        "Oh, in glad hour, fairer than day dawning,",
+        "Shall rise the glorious thought, I am with Thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "Number": 146,
+  "Title": "Jesus, Thy Boundless Love to Me",
+  "Author": "Paul Gerhardt",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, Thy boundless love to me",
+        "No thought can reach, no tongue declare;",
+        "O knit my thankful heart to Thee,",
+        "And reign without a rival there;",
+        "Thine wholly, Thine alone I am;",
+        "Lord, with Thy love my heart inflame."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, grant that nothing in my soul",
+        "May dwell but Thy pure love alone;",
+        "Oh, may Thy love possess me whole,",
+        "My joy, my treasure, and my crown;",
+        "All coldness from my heart remove;",
+        "My every act, word, thought, be love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O love, how cheering is thy ray!",
+        "All pain before thy presence flies;",
+        "Care, anguish, sorrow, melt away",
+        "Wherev'er Thy healing beams arise;",
+        "O Jesus, nothing may I see —",
+        "Nothing desire or seek, but Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In suffering be Thy love my peace,",
+        "In weakness be Thy love my power;",
+        "And when the storms of life shall cease,",
+        "Jesus, in that important hour,",
+        "In death, as life, be Thou my guide,",
+        "And save me, who for me hast died."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

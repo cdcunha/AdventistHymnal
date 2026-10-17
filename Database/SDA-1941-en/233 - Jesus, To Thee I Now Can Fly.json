@@ -1,0 +1,63 @@
+﻿{
+  "Number": 233,
+  "Title": "Jesus, To Thee I Now Can Fly",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, to thee I now can fly,",
+        "On whom my help is laid;",
+        "Oppressed by sins, I lift my eye,",
+        "And see the shadows fade."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Believing on my Lord, I find",
+        "A sure and present aid;",
+        "On thee alone my constant mind",
+        "Be every moment stayed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Whate'er in me seems wise, or good,",
+        "Or strong, I here disclaim;",
+        "I wash my garments in the blood",
+        "Of the atoning Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Jesus, my Strength, my Life, my Rest,",
+        "On thee will I depend,",
+        "Till summoned to the marriage-feast,",
+        "When faith in sight shall end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

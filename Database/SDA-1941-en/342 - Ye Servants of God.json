@@ -1,0 +1,63 @@
+﻿{
+  "Number": 342,
+  "Title": "Ye Servants of God",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ye servants of God, your Master proclaim,",
+        "And publish abroad His wonderful Name;",
+        "The Name all victorious of Jesus extol;",
+        "His kingdom is glorious, He rules over all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God ruleth on high, almighty to save;",
+        "And still He is nigh, His presence we have;",
+        "The great congregation His triumph shall sing,",
+        "Ascribing salvation to Jesus our King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "“Salvation to God, who sits on the throne,”",
+        "Let all cry aloud and honor the Son;",
+        "The praises of Jesus the angels proclaim,",
+        "Fall down on their faces and worship the Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then let us adore and give Him His right,",
+        "All glory and power, all wisdom and might,",
+        "All honor and blessing, with angels above,",
+        "And thanks never ceasing, for infinite love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

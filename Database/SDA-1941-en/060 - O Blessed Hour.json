@@ -1,0 +1,63 @@
+﻿{
+  "Number": 60,
+  "Title": "O Blessed Hour",
+  "Author": "N. J. Squires",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O blessed hour, when evening comes,",
+        "And calls us to our place of prayer !",
+        "with joyful heart our feet we turn",
+        "To meet Thee and Thy children there."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With one accord we gather here,",
+        "Our wants make known, our sins confess;",
+        "Dear Saviour, wilt Thou now appear,",
+        "And bless as only Thou canst bless."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Our faith increase, our fears remove;",
+        "Make strong the weak, the helpless raise;",
+        "May every heart now feel Thy love,",
+        "And every tongue speak forth Thy praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "No want have we Thou canst not fill,",
+        "No need but Thou canst fully meet;",
+        "May we obey Thy gracious will,",
+        "And find our lives in Thee complete."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

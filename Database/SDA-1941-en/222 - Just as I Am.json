@@ -1,0 +1,89 @@
+﻿{
+  "Number": 222,
+  "Title": "Just as I Am",
+  "Author": "Arthur Henry Brown",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Just as I am, without one plea",
+        "But that thy blood was shed for me,",
+        "And that thou bid'st me come to thee,",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, and waiting not",
+        "To rid my soul of one dark blot,",
+        "To thee, whose blood can cleanse each spot,",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, though tossed about",
+        "With many a conflict, many a doubt;",
+        "“Fightings within, and fears without,”",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, poor, wretched, blind;",
+        "Sight, riches, healing of the mind,",
+        "Yea, all I need in thee to find,",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, thou wilt receive,",
+        "Wilt welcome, pardon, cleanse, relieve;",
+        "Because thy promise I believe,",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, thy love I own",
+        "Has broken every barrier down;",
+        "Now, to be thine, and thine alone,",
+        "O Lamb of God, I come, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

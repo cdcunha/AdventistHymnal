@@ -1,0 +1,71 @@
+﻿{
+  "Number": 208,
+  "Title": "Lord, I Hear of Showers of Blessing",
+  "Author": "Elizabeth Codner",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, I hear of showers of blessing,",
+        "Thou art scattering full and free;",
+        "Showers, the thirsty soul refreshing;",
+        "Let some drops now fall on me,",
+        "Even me, even me,",
+        "Let some drops now fall on me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Pass me not, O gracious Father!",
+        "Sinful though my heart may be;",
+        "Thou might'st leave me, but the rather",
+        "Let thy mercy rest on me.",
+        "Even me, even me,",
+        "Let some drops now fall on me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Have I long in sin been sleeping?",
+        "Long been slighting, grieving, thee?",
+        "Has the world my heart been keeping?",
+        "O forgive and rescue me!",
+        "Even me, even me,",
+        "Let some drops now fall on me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Pass me not, O Holy Spirit!",
+        "Thou canst make the blind to see;",
+        "Testify of Jesus' merit,",
+        "Speak the word of peace to me.",
+        "Even me, even me,",
+        "Let some drops now fall on me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

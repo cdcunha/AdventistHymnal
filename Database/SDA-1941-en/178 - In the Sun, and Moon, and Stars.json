@@ -1,0 +1,63 @@
+﻿{
+  "Number": 178,
+  "Title": "In the Sun, and Moon, and Stars",
+  "Author": "Reginald Heber",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "In the sun, and moon, and stars,",
+        "Signs and wonders have appeared;",
+        "Earth has groaned with bloody wars,",
+        "And the hearts of men have feared."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Soon shall ocean’s hoary deep,",
+        "Tossed with stronger tempests, rise;",
+        "Darker storms the mountain sweep,",
+        "Fiercer lightning rend the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Dread alarms shall shake the proud,",
+        "Pale amazement, restless fear;",
+        "And, amid the thunder-cloud,",
+        "Shall the Judge of men appear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "But, though from His awful face,",
+        "Heaven shall fade, and earth shall fly,",
+        "Fear not, ye, His chosen race,",
+        "Your redemption draweth nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

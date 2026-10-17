@@ -1,0 +1,82 @@
+﻿{
+  "Number": 642,
+  "Title": "Just Over the Mountains",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Just over the mountains in the Promised Land,",
+        "Lies the holy city built by God's own hand;",
+        "As our weary footsteps gain the mountain's crest,",
+        "We can view our homeland of eternal rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We are nearing home! We are nearing home!",
+        "See the splendor gleaming from the domes afar!",
+        "See the glory streaming through the \"gates ajar!\"",
+        "There we soon will enter, nevermore to roam,",
+        "Hear the angels singing!",
+        "We are nearing home!",
+        "We are nearing home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "In the rolls of the prophets we have long been told",
+        "Of that wondrous city with its streets of gold;",
+        "Now with raptured vision we can see it there,",
+        "With its walls of jasper and its mansions fair."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Those who enter that city are the faithful few",
+        "Who keep God's commandments — faith of Jesus, too;",
+        "There we'll lift our voices through the endless days,",
+        "In sweet songs of gladness and in psalms of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My brother, my sister, will you meet us there,",
+        "In that land of sunshine where there'll be no care?",
+        "Accept of God's message, and to Him be true;",
+        "Then when Jesus cometh He will call for you."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

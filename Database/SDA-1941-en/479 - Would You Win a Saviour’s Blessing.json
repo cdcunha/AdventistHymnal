@@ -1,0 +1,62 @@
+﻿{
+  "Number": 479,
+  "Title": "Would You Win a Saviour’s Blessing?",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Would you win a Saviour's blessing?",
+        "Freely, freely give;",
+        "Would you see His work progressing?",
+        "Freely, freely give;",
+        "Let your souls with love expand,",
+        "Open wide a liberal hand;",
+        "Would you follow God's command?",
+        "Freely, freely give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With a cheerful heart and willing,",
+        "Freely, freely give;",
+        "Like the dew its balm distilling,",
+        "Freely, freely give;",
+        "Have you little? Give your mite;",
+        "O how precious in His sight!",
+        "He your offering will requite;",
+        "Freely, freely give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Give to spread the grand old story,",
+        "Freely, freely give;",
+        "Give to speed the light of glory.",
+        "Freely, freely give;",
+        "Would you gain a rich reward",
+        "In the harvest of the Lord,",
+        "Then obedient to His word.",
+        "Freely, freely give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

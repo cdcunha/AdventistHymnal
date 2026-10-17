@@ -1,0 +1,25 @@
+﻿{
+  "Number": 696,
+  "Title": "Lord, Keep Us Safe This Night",
+  "Author": "John Leland",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, keep us safe this night,",
+        "Secure from all our fears.",
+        "May angels guard us while we sleep,",
+        "Till morning light appears.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

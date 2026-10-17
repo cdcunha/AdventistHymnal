@@ -1,0 +1,76 @@
+﻿{
+  "Number": 282,
+  "Title": "Thine Forever",
+  "Author": "Mary F. Maude",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thine forever! God of love,",
+        "Hear us from Thy throne above;",
+        "Thine forever may we be,",
+        "Here and in eternity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thine forever! Lord of life,",
+        "Shield us through our earthly strife;",
+        "Thou the life, the truth, the way,",
+        "Guide us to the realms of day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thine forever! Oh how blest",
+        "They who find in Thee their rest!",
+        "Saviour, Guardian, heavenly Friend,",
+        "O defend us to the end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thine forever! Saviour, keep",
+        "These Thy frail and trembling sheep;",
+        "Safe alone beneath Thy care,",
+        "Let us all Thy goodness share."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Thine forever! Thou our Guide,",
+        "All our wants by Thee supplied,",
+        "All our sins by Thee forgiven,",
+        "Lead us, Lord, from earth to heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

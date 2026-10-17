@@ -1,0 +1,79 @@
+﻿{
+  "Number": 513,
+  "Title": "Once to Every Man and Nation",
+  "Author": "James Russell Lowell",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Once to every man and nation,",
+        "Comes the moment to decide,",
+        "In the strife of truth with falsehood,",
+        "For the good or evil side;",
+        "Some great cause, God’s new Messiah,",
+        "Offering each the bloom or blight,",
+        "And the choice goes by forever,",
+        "’twixt that darkness and that light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Then to side with truth is noble,",
+        "When we share her wretched crust,",
+        "Ere her cause bring fame and profit,",
+        "And ’tis prosperous to be just;",
+        "Then it is the brave man chooses",
+        "While the coward stands aside,",
+        "Till the multitude make virtue",
+        "Of the faith they had denied."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "By the light of burning martyrs,",
+        "Christ, Thy bleeding feet we track,",
+        "Toiling up new Calvaries ever",
+        "With the cross that turns not back;",
+        "New occasions teach new duties,",
+        "Time makes ancient good uncouth,",
+        "They must upward still and onward,",
+        "Who would keep abreast of truth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Though the cause of evil prosper,",
+        "Yet the truth alone is strong;",
+        "Though her portion be the scaffold,",
+        "And upon the throne be wrong;",
+        "Yet that scaffold sways the future,",
+        "And behind the dim unknown,",
+        "Standeth God within the shadow,",
+        "Keeping watch above His own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

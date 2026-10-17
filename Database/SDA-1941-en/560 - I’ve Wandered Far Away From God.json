@@ -1,0 +1,93 @@
+﻿{
+  "Number": 560,
+  "Title": "I’ve Wandered Far Away From God",
+  "Author": "William James Kirkpatrick",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I’ve wandered far away from God,",
+        "Now I’m coming home;",
+        "The paths of sin too long I’ve trod;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Coming home, coming home,",
+        "Nevermore to roam,",
+        "Open wide Thine arms of love,",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I’ve wasted many precious years,",
+        "Now I’m coming home;",
+        "I now repent with bitter tears;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I’m tired of sin and straying, Lord,",
+        "Now I’m coming home;",
+        "I’ll trust Thy love, believe Thy Word;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My only hope, my only plea,",
+        "Now I’m coming home;",
+        "That Jesus died, and died for me;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "I need His cleansing blood I know,",
+        "Now I’m coming home;",
+        "O wash me whiter than the snow;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

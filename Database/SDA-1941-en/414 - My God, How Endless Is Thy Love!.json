@@ -1,0 +1,50 @@
+﻿{
+  "Number": 414,
+  "Title": "My God, How Endless Is Thy Love!",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My God, how endless is Thy love!",
+        "Thy gifts are every evening new;",
+        "And morning mercies from above.",
+        "Gently distill like early dew."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou spreadest the curtains of the night,",
+        "Great Guardian of my sleeping hours;",
+        "Thy sovereign word restores the light,",
+        "And quickens all my drowsy powers."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I yield myself to Thy command;",
+        "To Thee I consecrate my days;",
+        "Perpetual blessings from Thy hand",
+        "Demand perpetual songs of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

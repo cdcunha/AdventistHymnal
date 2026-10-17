@@ -1,0 +1,51 @@
+﻿{
+  "Number": 56,
+  "Title": "Again as Evening’s Shadow Falls",
+  "Author": "Samuel Longfellow",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Again, as evening’s shadow falls,",
+        "We gather in these hallowed walls;",
+        "And vesper hymn and vesper prayer",
+        "Rise mingling on the holy air."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May struggling hearts that seek release",
+        "Here find the rest of God’s own peace;",
+        "And, strengthened here by hymn and prayer,",
+        "Lay down the burden and the care."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O God, our Light! to Thee we bow;",
+        "Within all shadows standest Thou;",
+        "Give deeper calm than night can bring;",
+        "Give sweeter songs than lips can sing.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

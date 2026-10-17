@@ -1,0 +1,79 @@
+﻿{
+  "Number": 449,
+  "Title": "O Zion, Haste",
+  "Author": "Mary Ann Thomson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Zion, haste, thy mission high fulfilling,",
+        "To tell to all the world that God is light,",
+        "That he who made all nations is not willing",
+        "One soul should perish, lost in shades of night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Publish glad tidings,",
+        "Tidings of peace;",
+        "Tidings of Jesus,",
+        "Redemption and release."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Proclaim to every people, tongue, and nation",
+        "That God, in whom they live and move, is love;",
+        "Tell how he stooped to save his lost creation,",
+        "And died on earth that we might live above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Give of thine sons to bear the message glorious;",
+        "Give of thy wealth to speed them on their way;",
+        "Pour out thy soul for them in prayer victorious;",
+        "And all thou spendest Jesus will repay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He comes again; O Zion, ere thou meet Him,",
+        "Make known to every heart His saving grace;",
+        "Let none whom He hath ransomed fail to greet Him,",
+        "Through thy neglect, unfit to see His face."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

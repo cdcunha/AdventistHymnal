@@ -1,0 +1,50 @@
+﻿{
+  "Number": 322,
+  "Title": "O, Could I Find, From Day to Day",
+  "Author": "Benjamin Cleveland",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O, could I find, from day to day,",
+        "A nearness to my God,",
+        "Then would my hours glide sweet away.",
+        "While leaning on His word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I desire with Thee to live",
+        "Anew from day to day,",
+        "In joys the world can never give,",
+        "Nor ever take away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Blest Jesus, come, and rule my heart,",
+        "And make me wholly Thine,",
+        "That I may nevermore depart,",
+        "Nor grieve Thy love divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

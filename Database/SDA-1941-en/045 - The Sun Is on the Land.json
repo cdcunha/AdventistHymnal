@@ -1,0 +1,71 @@
+﻿{
+  "Number": 45,
+  "Title": "The Sun Is on the Land",
+  "Author": "Louis F. Benson",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The sun is on the land and sea,",
+        "The day begun;",
+        "Our morning hymn begins with Thee,",
+        "Blest Three in One:",
+        "Our praise shall rise continually",
+        "Till day is done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thy love was ever in our view,",
+        "Like stars, by night;",
+        "Thy gifts are ev'ry morning new,",
+        "O God of light;",
+        "Thy mercy, like the heavens' blue,",
+        "Fills all our sight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We do not know what grief or care",
+        "The day may bring:",
+        "The heart shall find some gladness there",
+        "That loves its King;",
+        "The life that serves Thee ev'rywhere",
+        "Can always sing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All glory to the Father be,",
+        "With Christ the Son,",
+        "And, Holy Spirit, unto Thee,",
+        "Forever One;",
+        "All glory to the Trinity",
+        "While ages run."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

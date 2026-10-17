@@ -1,0 +1,75 @@
+﻿{
+  "Number": 195,
+  "Title": "Great God, What Do I See",
+  "Author": "William B. Collyer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Great God, what do I see and hear!",
+        "The end of things created!",
+        "The Judge of man I see appear",
+        "On clouds of glory seated;",
+        "The trumpet sounds; the graves restore",
+        "The dead which they contained before;",
+        "Prepare, my soul, to meet Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The dead in Christ shall first arise,",
+        "At the last trumpet's sounding —",
+        "Caught up to meet Him in the skies,",
+        "With joy their Lord surrounding;",
+        "No gloomy fears their souls dismay,",
+        "His presence sheds eternal day",
+        "On those prepared to meet Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But sinners filled with guilty fears,",
+        "Behold His wrath prevailing;",
+        "For they shall rise, and find their tears",
+        "And sighs are unavailing;",
+        "The day of grace is past and gone",
+        "Trembling they stand before the throne,",
+        "All unprepared to meet Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Great God! what di I see and hear!",
+        "The end of things created!",
+        "The Judge of man I see apprear",
+        "On clouds of glory seated;",
+        "Beneath His cross I view the day",
+        "When heaven and earth shall pass away,",
+        "And thus prepare to meet Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

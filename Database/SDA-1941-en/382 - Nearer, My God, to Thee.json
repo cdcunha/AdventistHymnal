@@ -1,0 +1,96 @@
+﻿{
+  "Number": 382,
+  "Title": "Nearer, My God, to Thee",
+  "Author": "Sarah F. Adams",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Nearer, my God, to thee,",
+        "Nearer to thee!",
+        "E'en though it be a cross",
+        "That raiseth me,",
+        "Still all my song shall be,",
+        "Nearer, my God, to Thee;",
+        "Nearer, my God, to Thee,",
+        "Nearer to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Though like the wanderer,",
+        "Daylight all gone,",
+        "Darkness be over me,",
+        "My rest a stone;",
+        "Yet in my dreams I'd be",
+        "Nearer, my God, to Thee;",
+        "Nearer, my God, to Thee,",
+        "Nearer to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There let the way appear,",
+        "Steps unto heaven;",
+        "All that thou sendest me,",
+        "In mercy given;",
+        "Angels to beckon me",
+        "Nearer, my God, to Thee;",
+        "Nearer, my God, to Thee,",
+        "Nearer to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then, with my waking thoughts",
+        "Bright with thy praise,",
+        "Out of my stony griefs",
+        "Bethel I'll raise;",
+        "So by my woes to be",
+        "Nearer, my God, to Thee;",
+        "Nearer, my God, to Thee,",
+        "Nearer to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Or if, on joyful wing",
+        "Cleaving the sky,",
+        "Sun, moon, and stars forgot,",
+        "Upward I fly,",
+        "Still all my song shall be,",
+        "Nearer, my God, to Thee;",
+        "Nearer, my God, to Thee,",
+        "Nearer to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

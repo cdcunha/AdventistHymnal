@@ -1,0 +1,76 @@
+﻿{
+  "Number": 174,
+  "Title": "Come, Lord, and Tarry Not",
+  "Author": "Horatius Bonar",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, Lord, and tarry not;",
+        "Bring the longlookedfor day;",
+        "O why these years of waiting here?",
+        "O why this long delay?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, for creation groans,",
+        "Impatient of Thy stay;",
+        "Worn out by these long years of ill,",
+        "These ages of delay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come, for the corn is ripe!",
+        "Put in Thy sickle now;",
+        "Reap the great harvest of the earth;",
+        "Sower and reaper Thou."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Come, spoil the strong man's house,",
+        "Bind him and cast him hence;",
+        "Show Thyself stronger than the strong,",
+        "Thyself Omnipotence."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Come, and begin Thy reign",
+        "Of everlasting peace;",
+        "Come, take the kingdom to Thyself,",
+        "Great King of righteousness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

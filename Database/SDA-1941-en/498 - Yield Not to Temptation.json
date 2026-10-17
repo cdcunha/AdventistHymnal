@@ -1,0 +1,77 @@
+﻿{
+  "Number": 498,
+  "Title": "Yield Not to Temptation",
+  "Author": "Horatio Richmond Palmer",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Yield not to temptation,",
+        "For yielding is sin,",
+        "Each victory will help you",
+        "Some other to win;",
+        "Fight manfully onward,",
+        "Dark passions subdue,",
+        "Look ever to Jesus,",
+        "He'll carry you through."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Ask the Saviour to help you,",
+        "Comfort, strengthen, and keep you;",
+        "He is willing to aid you,",
+        "He will carry you through."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Shun evil companions,",
+        "Bad language disdain,",
+        "God's name hold in reverence,",
+        "Nor take it in vain;",
+        "Be thoughtful and earnest,",
+        "Kindhearted and true,",
+        "Look ever to Jesus,",
+        "He'll carry you through."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "To him that o'ercometh",
+        "God giveth a crown,",
+        "Through faith we shall conquer,",
+        "Though often cast down;",
+        "He who is our Saviour",
+        "Our strength will renew,",
+        "Look ever to Jesus,",
+        "He'll carry you through."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,67 @@
+﻿{
+  "Number": 647,
+  "Title": "To God Be the Glory",
+  "Author": "Fanny Crosby",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "To God be the glory, great things He hath done;",
+        "So loved He the world that He gave us His Son,",
+        "Who yielded His life an atonement for sin,",
+        "And opened the life gate all may go in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Praise the Lord, praise the Lord,",
+        "Let the earth hear His voice;",
+        "Praise the Lord, praise the Lord,",
+        "Let the people rejoice;",
+        "O come to the Father, through Jesus the Son,",
+        "And give Him the glory, great things He hath done."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O perfect redemption, the purchase of blood,",
+        "To every believer the promise of God;",
+        "The vilest offender who truly believes,",
+        "That moment from Jesus a pardon receives."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Great things He hath taught us, great things He hath done,",
+        "And great our rejoicing through Jesus the Son;",
+        "But purer, and higher, and greater will be",
+        "Our wonder, our transport, when Jesus we see."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

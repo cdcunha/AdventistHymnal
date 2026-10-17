@@ -1,0 +1,71 @@
+﻿{
+  "Number": 574,
+  "Title": "Sins Them Over Again to Me",
+  "Author": "Philip Paul Bliss",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sing them over again to me,",
+        "Wonderful words of life;",
+        "Let me more of their beauty see,",
+        "Wonderful words of life.",
+        "Words of life and beauty",
+        "Teach me faith and duty;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Beautiful words, wonderful words,",
+        "Wonderful words of life,",
+        "Beautiful words, wonderful words,",
+        "Wonderful words of life."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Christ, the blessed One, gives to all",
+        "Wonderful words of life;",
+        "Sinner, list to the loving call,",
+        "Wonderful words of life.",
+        "All so freely given,",
+        "Wooing us to heaven;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sweetly echo the Gospel call,",
+        "Wonderful words of life;",
+        "Offer pardon and peace to all,",
+        "Wonderful words of life.",
+        "Jesus, only Savior,",
+        "Sanctify forever;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

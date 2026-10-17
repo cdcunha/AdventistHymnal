@@ -1,0 +1,56 @@
+﻿{
+  "Number": 151,
+  "Title": "O Love Divine, What Hast Thou Done!",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Love divine, what has thou done!",
+        "Th'incarnate God hath died for me!",
+        "The Father's wellbeloved Son",
+        "Bore all my sins upon the tree!",
+        "The Son of God for me hath died;",
+        "My Lord, my Love, is crucified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Is crucified for me and you,",
+        "To bring us rebels back to God;",
+        "Believe, believe the record true,",
+        "Ye all are bought with Jesus' blood;",
+        "Pardon for all flows from His side;",
+        "My Lord, my Love, is crucified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Behold him, all ye that pass by,",
+        "The bleeding Prince of life and peace!",
+        "Come, sinners, see your Saviour die,",
+        "And say, was ever grief like his?",
+        "Come, feel with me His blood applied;",
+        "My Lord, my Love, is crucified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

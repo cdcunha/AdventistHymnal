@@ -1,0 +1,63 @@
+﻿{
+  "Number": 535,
+  "Title": "’Tis Finished!",
+  "Author": "Samuel Stennett",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "\"'Tis finished!\" so the Saviour cried,",
+        "And meekly bowed His head, and died;",
+        "'Tis finished! yes, the race is run,",
+        "The battle fought, the victory won."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "'Tis finished! that which heaven foretold",
+        "By prophets in the days of old;",
+        "And truths are opened to our view",
+        "That kings and prophets never knew."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "'Tis finished! Son of God, Thy power",
+        "Hath triumphed in this awful hour;",
+        "And yet our eyes with sorrow see",
+        "That life to us was death to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "'Tis finished! let the joyful sound",
+        "Be heard through all the nations round;",
+        "'Tis finished! let the triumph rise,",
+        "And swell the chorus of the skies!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

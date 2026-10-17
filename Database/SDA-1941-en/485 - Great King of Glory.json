@@ -1,0 +1,71 @@
+﻿{
+  "Number": 485,
+  "Title": "Great King of Glory",
+  "Author": "Benjamin Francis",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Great King of glory, come,",
+        "And with Thy favor crown",
+        "This temple as Thy home,",
+        "This people as Thine own;",
+        "Beneath this roof, 0 deign to show",
+        "How God can dwell with men below."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here may Thine ears attend",
+        "Our interceding cries,",
+        "And grateful praise ascend,",
+        "Like incense, to the skies;",
+        "Here may Thy word melodious sound,",
+        "And spread celestial joys around."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Here may our unborn sons",
+        "And daughters sound Thy praise,",
+        "And shine, like polished stones,",
+        "Through long-succeeding days;",
+        "Here, Lord, display Thy saving power,",
+        "While temples stand and men adore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Here may the listening throng",
+        "Receive Thy truth in love;",
+        "Here Christians join the song",
+        "Of seraphim above,",
+        "Till all, who humbly seek Thy face,",
+        "Rejoice in Thy abounding grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

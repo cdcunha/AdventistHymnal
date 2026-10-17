@@ -1,0 +1,79 @@
+﻿{
+  "Number": 133,
+  "Title": "On Wings of Living Light",
+  "Author": "William Walsham How",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "On wings of living light",
+        "At earliest dawn of day,",
+        "Came down the angel bright",
+        "And rolled the stone away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lift up your heart, lift up your voice;",
+        "Rejoice; again I say, Rejoice.",
+        "Your voices raise with one accord",
+        "To bless and praise your risen Lord."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "The keepers watching near,",
+        "At that dread sight and sound",
+        "Fell down with sudden fear,",
+        "Like dead men to the ground."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Then rose from death’s dark gloom,",
+        "With angels standing by,",
+        "Triumphant o’er the tomb,",
+        "The Lord of earth and sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Ye children of the light,",
+        "Arise with Him, arise;",
+        "See, how the Day-star bright",
+        "Is burning in the skies!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

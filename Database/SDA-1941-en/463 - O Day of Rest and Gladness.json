@@ -1,0 +1,62 @@
+﻿{
+  "Number": 463,
+  "Title": "O Day of Rest and Gladness",
+  "Author": "Christopher Wordsworth",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O day of rest and gladness,",
+        "O day of joy and light,",
+        "O balm of care and sadness,",
+        "Most beautiful, most bright;",
+        "On thee, the high and lowly,",
+        "Who bend before throne,",
+        "Sing, oly, holy, holy,",
+        "To the Eternal One."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou art a port protected",
+        "From storms that round us rise;",
+        "A garden intersected",
+        "With streams of Paradise;",
+        "Thou art a cooling fountain",
+        "In life's dry, dreary sand;",
+        "From thee, like Pisgah's mountain,",
+        "We view our promised land."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "A day of sweet reflection,",
+        "Thou art a day of love,",
+        "A day to raise affection",
+        "From earth to things above.",
+        "New graces ever gaining",
+        "From this our day of rest,",
+        "We reach the rest remaining",
+        "In mansions of the blessed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

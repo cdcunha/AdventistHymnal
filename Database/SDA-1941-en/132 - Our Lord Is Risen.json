@@ -1,0 +1,76 @@
+﻿{
+  "Number": 132,
+  "Title": "Our Lord Is Risen",
+  "Author": "Charles Wesley",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Our Lord is risen from the dead;",
+        "Our Jesus is gone up on high!",
+        "A captive host He joyful led,",
+        "To the bright portals of the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There His triumphal chariot waits,",
+        "And angels chant the solemn lay:",
+        "\"Lift up your heads, ye heavenly gates;",
+        "Ye everlasting doors, give way.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Loose all your bars of golden light,",
+        "And wide unfold the beauteous scene;",
+        "He claims these mansions as His right,",
+        "Receive the King of glory in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Who is this King of glory? Who?",
+        "The Lord, that all our foes o’ercame;",
+        "The world, sin, death, and hell o’erthrew;",
+        "And Jesus is the conqueror’s name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Who is this King of Glory, Who?",
+        "The Lord, of glorious power possessed;",
+        "The King of saints and angels, too;",
+        "God over all, forever blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

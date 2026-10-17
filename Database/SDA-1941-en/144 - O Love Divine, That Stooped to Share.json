@@ -1,0 +1,63 @@
+﻿{
+  "Number": 144,
+  "Title": "O Love Divine, That Stooped to Share",
+  "Author": "Oliver Wendell Holmes",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O love divine, that stooped to share",
+        "Our sharpest pang, our bitterest tear!",
+        "On Thee we cast each earthborn care;",
+        "We smile at pain while Thou art near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Though long the weary way we tread,",
+        "And sorrow crown each lingering year,",
+        "No path we shun, no darkness dread;",
+        "Our hearts still whispering, “Thou art near!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When drooping pleasure turns to grief,",
+        "And trembling faith is changed to fear,",
+        "The murmuring wind, the quivering leaf,",
+        "Shall softly tell us, “Thou art near!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "On Thee we fling our burdening woe,",
+        "O Love divine, forever dear;",
+        "Content to suffer while we know,",
+        "Living and dying, Thou art near!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

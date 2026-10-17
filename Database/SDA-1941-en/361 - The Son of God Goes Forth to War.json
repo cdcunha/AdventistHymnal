@@ -1,0 +1,79 @@
+﻿{
+  "Number": 361,
+  "Title": "The Son of God Goes Forth to War",
+  "Author": "Reginald Heber",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Son of God goes forth to war,",
+        "A kingly crown to gain;",
+        "His blood red banner streams afar:",
+        "Who follows in His train?",
+        "Who best can drink his cup of woe,",
+        "Triumphant over pain,",
+        "Who patient bears his cross below,",
+        "He follows in His train."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "That martyr first, whose eagle eye",
+        "Could pierce beyond the grave;",
+        "Who saw his Master in the sky,",
+        "And called on Him to save.",
+        "Like Him, with pardon on His tongue,",
+        "In midst of mortal pain,",
+        "He prayed for them that did the wrong:",
+        "Who follows in His train?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "A glorious band, the chosen few",
+        "On whom the Spirit came;",
+        "Twelve valiant saints, their hope they knew,",
+        "And mocked the cross and flame.",
+        "They met the tyrant’s brandished steel,",
+        "The lion’s gory mane;",
+        "They bowed their necks the stroke to feel:",
+        "Who follows in their train?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "A noble army, men and boys,",
+        "The matron and the maid,",
+        "Around the Savior’s throne rejoice,",
+        "In robes of light arrayed.",
+        "They climbed the steep ascent of Heaven,",
+        "Through peril, toil and pain;",
+        "O God, to us may grace be given,",
+        "To follow in their train."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,62 @@
+﻿{
+  "Number": 94,
+  "Title": "All Beautiful the March of Days",
+  "Author": "Frances Whitmarsh Wile",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All beautiful the march of days,",
+        "As seasons come and go;",
+        "The Hand that shaped the rose hath wrought",
+        "The crystal of the snow;",
+        "Hath sent the hoary frost of heaven,",
+        "The flowing waters sealed,",
+        "And laid a silent loveliness",
+        "On hill and wood and field."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O’er white expanses sparkling pure",
+        "The radiant morns unfold;",
+        "The solemn splendors of the night",
+        "Burn brighter through the cold;",
+        "Life mounts in every throbbing vein,",
+        "Love deepens round the hearth,",
+        "And clearer sounds the angel hymn,",
+        "“Good will to men on earth.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Thou from Whose unfathomed law",
+        "The year in beauty flows,",
+        "Thyself the vision passing by",
+        "In crystal and in rose,",
+        "Day unto day doth utter speech,",
+        "And night to night proclaim,",
+        "In ever changing words of light,",
+        "The wonder of Thy Name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

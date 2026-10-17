@@ -1,0 +1,79 @@
+﻿{
+  "Number": 555,
+  "Title": "Shall We Gather at the River?",
+  "Author": "Robert Lowry",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Shall we gather at the river",
+        "Where bright angel feet have trod,",
+        "With its crystal tide forever",
+        "Flowing by the throne of God?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Yes, we'll gather at the river,",
+        "The beautiful, the beautiful river;",
+        "Gather with the saints at the river",
+        "That flows by the throne of God."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "On the margin of the river,",
+        "Washing up its silver spray,",
+        "We will walk and worship ever,",
+        "All the happy golden day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Ere we reach the shining river,",
+        "Lay we every burden down;",
+        "Grace our spirits will deliver,",
+        "And provide a robe and crown."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Soon we'll reach the shining river,",
+        "Soon our pilgrimage will cease;",
+        "Soon our happy hearts will quiver",
+        "With the melody of peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,65 @@
+﻿{
+  "Number": 500,
+  "Title": "Raise the Standard High",
+  "Author": "F. E. Belden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Raise the standard high, Sound the gathering cry,",
+        "Let the evil kingdom fall;",
+        "With a purpose true, And a will to do,",
+        "Sons of freedom, come ye all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Raise the temperance standard high,",
+        "Shout the mighty battle cry;",
+        "Let the evil kingdom fall,",
+        "Sons of freedom, come ye all."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Over sea and land With an iron hand,",
+        "Has the monarch held his sway;",
+        "But his rule shall cease, And the reign of peace",
+        "Usher in the golden day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Let the right prevail, Let the evil fail",
+        "In the conflict fierce and long,",
+        "'Till the land is free, And the victory",
+        "Crowns the temperance army strong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

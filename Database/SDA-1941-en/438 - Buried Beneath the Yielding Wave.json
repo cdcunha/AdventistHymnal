@@ -1,0 +1,63 @@
+﻿{
+  "Number": 438,
+  "Title": "Buried Beneath the Yielding Wave",
+  "Author": "Benjamin Beddome",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Buried beneath the yielding wave",
+        "The great Redeemer lies;",
+        "Faith views Him in the watery grave,",
+        "And hence beholds Him rise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thus do these willing souls today",
+        "Their ardent zeal express,",
+        "And in the Lord's appointed way",
+        "Fulfill all righteousness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With joy we in His footsteps tread,",
+        "And would His cause maintain;",
+        "Like Him be numbered with the dead,",
+        "And with Him rise and reign."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "His presence oft revives our hearts,",
+        "And drives our fears away;",
+        "When He commands, and strength imparts,",
+        "We cheerfully obey."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

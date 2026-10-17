@@ -1,0 +1,105 @@
+﻿{
+  "Number": 644,
+  "Title": "Christ Has for Sin Atonement Made",
+  "Author": "Elisha A. Hoffman",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ has for sin atonement made,",
+        "What a wonderful Saviour!",
+        "We are redeemed! the price is paid!",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "What a wonderful Saviour is Jesus, my Jesus!",
+        "What a wonderful Saviour is Jesus, my Lord!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I praise Him for the cleansing blood,",
+        "What a wonderful Saviour!",
+        "That reconciled my soul to God;",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "He cleansed my heart from all its sin,",
+        "What a wonderful Saviour!",
+        "And now He reigns and rules therein;",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He walks beside me in the way,",
+        "What a wonderful Saviour!",
+        "And keeps me faithful day by day;",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "He gives me overcoming power,",
+        "What a wonderful Saviour!",
+        "And triumph in each trying hour;",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "To Him I’ve given all my heart,",
+        "What a wonderful Saviour!",
+        "The world shall never share a part;",
+        "What a wonderful Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus",
+    "Verse 6",
+    "Chorus"
+  ]
+}

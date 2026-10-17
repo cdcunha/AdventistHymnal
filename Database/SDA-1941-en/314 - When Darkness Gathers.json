@@ -1,0 +1,67 @@
+﻿{
+  "Number": 314,
+  "Title": "When Darkness Gathers",
+  "Author": "Annie R. Smith",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When darkness gathers round thy way,",
+        "As falls the shades of even;",
+        "No star, with its mild, cheering ray,",
+        "To chase the gloom. our fears allay —",
+        "How sweet the light of heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "When toiling in the narrow way,",
+        "By persecution driven,",
+        "Beset with treacherous snares that lay",
+        "To lead our wayward feet astray,",
+        "How sweet the smiles of heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When by earth's care and grief and woe",
+        "The anguished heart is riven,",
+        "And bitter tears of sorrow flow,",
+        "No soothing balm found here below —",
+        "How sweet the joy of heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when our pilgrimage is o'er,",
+        "The blessed promise given;",
+        "When, borne on angels' wings we soar",
+        "To meet the Saviour we adore —",
+        "How sweet the home in heaven!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

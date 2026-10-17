@@ -1,0 +1,113 @@
+﻿{
+  "Number": 103,
+  "Title": "Thou Didst Leave Thy Throne",
+  "Author": "Emily E. S. Elliott",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My heart shall rejoice, Lord Jesus,",
+        "When Thou comest and callest for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O come to my heart, Lord Jesus,",
+        "There is room in my heart for Thee."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Thou didst leave Thy throne",
+        "And Thy kingly crown",
+        "When Thou camest to earth for me;",
+        "But in Bethlehem’s home",
+        "Was there found no room",
+        "For Thy holy nativity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Heaven’s arches rang",
+        "When the angels sang,",
+        "Proclaiming Thy royal degree;",
+        "But of lowly birth",
+        "Didst Thou come to earth,",
+        "And in great humility."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The foxes found rest,",
+        "And the birds their nest",
+        "In the shade of the forest tree;",
+        "But Thy couch was the sod,",
+        "O Thou Son of God,",
+        "In the deserts of Galilee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Thou camest, O Lord,",
+        "With the living Word,",
+        "That should set Thy people free;",
+        "But with mocking scorn",
+        "And with crown of thorn,",
+        "They bore Thee to Calvary."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "When the heavens shall ring,",
+        "And the angels sing,",
+        "At Thy coming to victory,",
+        "Let Thy voice call me home,",
+        "Saying “Yet there is room,",
+        "There is room at My side for thee.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus",
+    "Verse 6",
+    "Chorus"
+  ]
+}

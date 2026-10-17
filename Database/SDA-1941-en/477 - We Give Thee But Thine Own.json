@@ -1,0 +1,63 @@
+﻿{
+  "Number": 477,
+  "Title": "We Give Thee But Thine Own",
+  "Author": "William Walsham How",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "We give Thee but Thine own,",
+        "What-e'er the gift may be;",
+        "All that we have is Thine alone,",
+        "A trust, O Lord, from Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May we Thy bounties thus",
+        "As stewards true receive,",
+        "And gladly, as Thou blessest us,",
+        "To Thee our first fruits give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O hearts are bruised and dead,",
+        "And homes are bare and cold,",
+        "And lambs for whom the Shepherd bled",
+        "Are straying from the fold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And we believe Thy word,",
+        "Though dim our faith may be;",
+        "Whate'er for Thine we do, O Lord,",
+        "We do it unto Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

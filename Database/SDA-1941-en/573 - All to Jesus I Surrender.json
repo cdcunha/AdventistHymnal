@@ -1,0 +1,79 @@
+﻿{
+  "Number": 573,
+  "Title": "All to Jesus I Surrender",
+  "Author": "Judson W. Van DeVenter",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All to Jesus I surrender,",
+        "All to Him I freely give;",
+        "I will ever love and trust Him,",
+        "In His presence daily live;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I surrender all,",
+        "I surrender all.",
+        "All to Thee, my blessed Saviour,",
+        "I surrender all."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "Humbly at His feet I bow,",
+        "Worldly pleasures all forsaken;",
+        "Take me, Jesus, take me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "Make me, Saviour, wholly Thine;",
+        "Let me feel the Holy Spirit,",
+        "Truly know that Thou art mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "Now I feel the sacred flame.",
+        "Oh, the joy of full salvation!",
+        "Glory, glory to His name!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Number": 344,
+  "Title": "Anywhere, Dear Saviour",
+  "Author": "W. A. Ogden",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Anywhere, dear Saviour,",
+        "In Thy vineyard wide,",
+        "Where Thou bidst me labor,",
+        "Lord, there would I abide,",
+        "Miracle of saving grace,",
+        "That Thou givest me a place",
+        "Anywhere, dear Saviour, to work for Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Where the night may find us,",
+        "Surely matters not;",
+        "If we camp with Jesus,",
+        "O blessed is the spot!",
+        "Quickly we the tent may fold,",
+        "Cheerful march through storm or cold,",
+        "Anywhere, dear Saviour, to work for Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All along the journey,",
+        "Let us fix our eyes",
+        "On the \"Rock of Ages,\"",
+        "Until we gain the prize.",
+        "There the heart will make its home,",
+        "Willing led by Thee to roam,",
+        "Anywhere, dear Saviour, to work for Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

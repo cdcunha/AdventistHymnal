@@ -1,0 +1,81 @@
+﻿{
+  "Number": 273,
+  "Title": "Take My Life and Let It Be",
+  "Author": "Frances Ridley Havergal",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Take my life, and let it be",
+        "Consecrated, Lord, to thee;",
+        "Take my hands, and let them move",
+        "At the impulse of thy love,",
+        "At the impulse of thy love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Take my feet, and let them be",
+        "Swift and beautiful for thee.",
+        "Take my voice, and let me sing",
+        "Always, only, for my King,",
+        "Always, only, for my King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Take my lips, and let them be",
+        "Filled with messages from thee.",
+        "Take my silver and my gold,",
+        "Not a mite would I withhold,",
+        "Not a mite would I withhold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Take my will, and make it thine;",
+        "It shall be no longer mine;",
+        "Take my heart, it is thine own,",
+        "It shall be thy royal throne,",
+        "It shall be thy royal throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Take my love; my Lord, I pour",
+        "At thy feet its treasure store;",
+        "Take myself, and I will be,",
+        "Ever, only, all for thee,",
+        "Ever, only, all for thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

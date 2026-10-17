@@ -1,0 +1,63 @@
+﻿{
+  "Number": 72,
+  "Title": "Early, my God, Without Delay",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Early my God, without delay",
+        "I haste to seek Thy face;",
+        "My thirsty spirit faints away",
+        "Without Thy cheering grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "So pilgrims on the scorching sand,",
+        "Beneath a burning sky,",
+        "Long for a cooling stream at hand,",
+        "And they must drink or die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I've seen Thy glory and Thy power",
+        "Through all Thy temple shine;",
+        "My God, repeat that heavenly hour,",
+        "That vision so divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Not life itself, with all its joys,",
+        "Can my best passions move,",
+        "Or raise so high my cheerful voice",
+        "As Thy forgiving love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

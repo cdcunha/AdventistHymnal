@@ -1,0 +1,63 @@
+﻿{
+  "Number": 140,
+  "Title": "My Blest Redeemer",
+  "Author": "Isaac Watts",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My blest Redeemer and my Lord,",
+        "I read my duty in Thy Word;",
+        "But in Thy life the law appears,",
+        "Drawn out in living characters."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "What truth and love Thy bosom fill!",
+        "What zeal to do Thy Father's Will!",
+        "Such zeal, and truth, and love divine,",
+        "I would transcribe, and make them mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Cold mountains and the midnight air",
+        "Witnessed the fervor of Thy prayer;",
+        "The desert Thy temptations knew,",
+        "Thy conflict and Thy victory, too."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Be Thou my pattern; make me bear",
+        "More of Thy gracious image here;",
+        "Then God, the Judge, shall own my name,",
+        "Among the followers of the Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

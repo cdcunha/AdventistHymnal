@@ -1,0 +1,63 @@
+﻿{
+  "Number": 79,
+  "Title": "Ere mountains Reared Their Forms Sublime",
+  "Author": "Harriet Auber",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ere mountains reared their forms sublime,",
+        "Or heaven and earth in order stood,",
+        "Before the birth of ancient time,",
+        "From everlasting Thou art God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "A thousand years are in their flight,",
+        "With Thee but as a fleeting day;",
+        "Past, present, future, to Thy sight",
+        "At once their various scenes display."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But our brief life’s a shadowy dream,",
+        "A passing thought that soon is o’er,",
+        "That fades with morning’s earliest beam,",
+        "And fills the musing mind no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To us, O Lord, the wisdom give",
+        "Each passing moment so to spend,",
+        "That we at length with Thee may live",
+        "Where life and bliss shall never end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+﻿{
+  "Number": 456,
+  "Title": "Another Six Days’ Work Is Done",
+  "Author": "Samuel Stennett",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Another six days' work is done,",
+        "Another Sabbath is begun;",
+        "Return, my soul, enjoy thy rest,",
+        "Improve the day that God has blessed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, bless the Lord, whose love as signs",
+        "So sweet a rest to weary minds;",
+        "A blessed antepast is given,",
+        "On this day more than all the seven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O that our thoughts and thanks may rise",
+        "As grateful incense to the skies,",
+        "And draw from Christ that sweet repose",
+        "Which none but he who feels it knows."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "This heavenly calm within the breast",
+        "Is the best pledge of glorious rest,",
+        "Which for the church of God remains,",
+        "The end of cares, the end of pains."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

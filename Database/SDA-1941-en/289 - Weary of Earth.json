@@ -1,0 +1,50 @@
+﻿{
+  "Number": 289,
+  "Title": "Weary of Earth",
+  "Author": "Samuel John Stone",
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Weary of earth and laden with my sin,",
+        "I look to heaven and long to enter in;",
+        "But there no evil thing may find a home,",
+        "And yet I hear a voice that bids me, \"Come.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The while I fain would tread the heavenly way,",
+        "Evil is ever with me day by day;",
+        "Yet on mine ears the gracious tidings fall,",
+        "\"Repent, return; thou shalt be loosed from all.\""
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Cease, restless will! Thy lonely strife resign!",
+        "I know too well how little strength is mine;",
+        "Grant me, dear Lord, Thy saving love to see;",
+        "I strive no more; I give myself to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}
