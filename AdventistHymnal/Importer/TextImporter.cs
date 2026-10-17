@@ -8,15 +8,11 @@ namespace AdventistHymnal.Importer
 {
 	public class TextImporter
 	{
-		enum ReplacementType { ReplaceFile = 1, DontReplaceFile = 2, ReplaceAllFiles = 3, DontReplaceAnyFile = 4 }
-
 		public void ImportTextFiles(string path, string databasePath)
 		{
 			string[] files = Directory.GetFiles(path, "*.txt");
 
-			bool mustCheckFileExists = true;
-			bool dontReplaceAnyFile = false;
-			bool canWriteFile = false;
+			OverwritePrompt overwritePrompt = new();
 
 			if (files.Length == 0)
 			{
@@ -51,56 +47,27 @@ namespace AdventistHymnal.Importer
 
 				string filename = Path.Combine(databasePath, $"{hymn.Number:000} - {hymn.Title.MakeValidFileName()}.json");
 
-				if (mustCheckFileExists)
-				{
-					if (File.Exists(filename))
-					{
-						if (!dontReplaceAnyFile)
-						{
-							Console.WriteLine("The filename already exists. Do you want to replace it?");
-							Console.WriteLine("1) Yes");
-							Console.WriteLine("2) No");
-							Console.WriteLine("3) Replace All");
-							Console.WriteLine("4) Don't replace any. Only new files will be created");
-							Console.WriteLine();
-							Console.Write("> ");
-
-							if (!int.TryParse(Console.ReadLine(), out int replacementId))
-							{
-								Console.WriteLine("Invalid option. Cancelling process.");
-								break;
-							}
-
-							mustCheckFileExists = replacementId != 3;
-							dontReplaceAnyFile = replacementId == 4;
-							canWriteFile = replacementId == 1 || replacementId == 3;
-						}
-						else
-						{
-							canWriteFile = !dontReplaceAnyFile;
-                        }
-					}
-					else
-					{
-						canWriteFile = true;
-                    }
-				}
-				else
-				{
-                    canWriteFile = true;
-                }
-
-				if (canWriteFile)
+				if (overwritePrompt.ShouldWrite(filename))
 				{
 					File.WriteAllText(filename, json);
 					Console.WriteLine($"Imported #{hymn.Number} - {hymn.Title}");
 				}
+				else if (overwritePrompt.Cancelled)
+				{
+					break;
+				}
 				else
 				{
-                    Console.WriteLine($"Skipped #{hymn.Number} - {hymn.Title}");
-                }
+					Console.WriteLine($"Skipped #{hymn.Number} - {hymn.Title}");
+				}
 			}
-			
+
+			if (overwritePrompt.Cancelled)
+			{
+				Logger.LogMessage("Import cancelled.");
+				return;
+			}
+
 			Logger.LogMessage("Hymn database generation complete!");
 		}
 

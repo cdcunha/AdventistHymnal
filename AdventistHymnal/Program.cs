@@ -98,13 +98,7 @@ namespace AdventistHymnal
 			Console.WriteLine();
 			Console.Write("> ");
 
-			if (!int.TryParse(Console.ReadLine(), out int commandId))
-			{
-				MainMenu();
-				return;
-			}
-
-			if (commandId != 1)
+			if (!int.TryParse(Console.ReadLine(), out int commandId) || commandId != 1)
 			{
 				MainMenu();
 				return;
@@ -117,9 +111,9 @@ namespace AdventistHymnal
 				return;
 			}
 
-            HymnDatabase database = new();
+			HymnDatabase database = new();
 			database.LoadData(collectionPath);
-			new ProPresenterExporter(maxLinesPerSlide, database, collectionPath.Replace(DatabaseDirectory, "")).ExportAll();
+			new ProPresenterExporter(maxLinesPerSlide, database, Path.GetFileName(collectionPath)).ExportAll();
 
 			Logger.LogMessage("Press any key to return to the main menu");
 			Console.ReadKey();
@@ -134,14 +128,14 @@ namespace AdventistHymnal
 				Directory.CreateDirectory(InputDirectory);
 			}
 
-            string collectionPath = SelectCollection(InputDirectory);
-            if (collectionPath == null)
-            {
-                MainMenu();
-                return;
-            }
+			string collectionPath = SelectCollection(InputDirectory);
+			if (collectionPath == null)
+			{
+				MainMenu();
+				return;
+			}
 
-			string databasePath = Path.Combine(DatabaseDirectory, collectionPath.Replace(InputDirectory, ""));
+			string databasePath = Path.Combine(DatabaseDirectory, Path.GetFileName(collectionPath));
 			TextImporter importer = new();
 			importer.ImportTextFiles(collectionPath, databasePath);
 
@@ -151,48 +145,38 @@ namespace AdventistHymnal
 			MainMenu();
 		}
 
-        private static string SelectCollection(string rootPath)
-        {
-            if (!Directory.Exists(rootPath))
-            {
-                return null;
-            }
-
-            string[] subFolders = Directory.GetDirectories(rootPath);
-            if (subFolders.Length == 0)
-            {
-                Logger.LogMessage($"No collection subfolders found in the {rootPath} folder");
-                MainMenu();
-                return null;
-            }
-
-            Console.WriteLine("Choose a collection:");
-            for (int i = 0; i < subFolders.Length; i++)
-            {
-                Console.WriteLine($"{i + 1}) {Path.GetFileName(subFolders[i])}");
-            }
-            Console.WriteLine();
-            Console.Write("> ");
-
-            if (!int.TryParse(Console.ReadLine(), out int commandId))
-            {
-                MainMenu();
-                return null;
-            }
-
-            return subFolders[commandId - 1];
-        }
-
-        private sealed class HymnalFolder
+		// Returns the chosen collection folder, or null if there is nothing to choose or the choice is invalid.
+		private static string SelectCollection(string rootPath)
 		{
-			public string Id { get; }
-			public string Path { get; }
-
-			public HymnalFolder(string id, string path)
+			if (!Directory.Exists(rootPath))
 			{
-				Id = id;
-				Path = path;
+				Logger.LogMessage($"The {rootPath} folder does not exist");
+				Console.ReadKey();
+				return null;
 			}
+
+			string[] subFolders = Directory.GetDirectories(rootPath);
+			if (subFolders.Length == 0)
+			{
+				Logger.LogMessage($"No collection subfolders found in the {rootPath} folder");
+				Console.ReadKey();
+				return null;
+			}
+
+			Console.WriteLine("Choose a collection:");
+			for (int i = 0; i < subFolders.Length; i++)
+			{
+				Console.WriteLine($"{i + 1}) {Path.GetFileName(subFolders[i])}");
+			}
+			Console.WriteLine();
+			Console.Write("> ");
+
+			if (!int.TryParse(Console.ReadLine(), out int commandId) || commandId < 1 || commandId > subFolders.Length)
+			{
+				return null;
+			}
+
+			return subFolders[commandId - 1];
 		}
 	}
 }

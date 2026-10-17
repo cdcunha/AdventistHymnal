@@ -10,11 +10,9 @@ namespace AdventistHymnal.Exporter
 		protected HymnDatabase Database { get; }
 		protected string CollectionId { get; }
 
-        bool MustCheckFileExists = true;
-        bool DontReplaceAnyFile = false;
-        bool CanWriteFile = false;
+		private readonly OverwritePrompt _overwritePrompt = new();
 
-        protected HymnExporter(HymnDatabase database, string collectionId)
+		protected HymnExporter(HymnDatabase database, string collectionId)
 		{
 			Database = database;
 			CollectionId = collectionId;
@@ -48,6 +46,11 @@ namespace AdventistHymnal.Exporter
 				if (Database.GetHymn(i) != null)
 				{
 					ExportHymn(i);
+					if (_overwritePrompt.Cancelled)
+					{
+						Logger.LogMessage("Export cancelled.");
+						return;
+					}
 				}
 			}
 		}
@@ -85,51 +88,14 @@ namespace AdventistHymnal.Exporter
 
 			string filename = Path.Combine(path, $"{hymn.Number:000}.txt");
 
-            if (MustCheckFileExists)
+			if (!_overwritePrompt.ShouldWrite(filename))
 			{
-                if (File.Exists(filename))
+				if (!_overwritePrompt.Cancelled)
 				{
-					if (!DontReplaceAnyFile)
-					{
-						Console.WriteLine("The filename already exists. Do you want to replace it?");
-						Console.WriteLine("1) Yes");
-						Console.WriteLine("2) No");
-						Console.WriteLine("3) Replace All");
-						Console.WriteLine("4) Don't replace any. Only new files will be created");
-						Console.WriteLine();
-						Console.Write("> ");
-
-						if (!int.TryParse(Console.ReadLine(), out int replacementId))
-						{
-							Console.WriteLine("Invalid option. Cancelling process.");
-							return;
-						}
-
-						MustCheckFileExists = replacementId != 3;
-						DontReplaceAnyFile = replacementId == 4;
-						CanWriteFile = replacementId == 1 || replacementId == 3;
-
-					}
-					else
-					{
-						CanWriteFile = !DontReplaceAnyFile;
-					}
-                }
-                else
-                {
-                	CanWriteFile = true;
-                }
-            }
-            else
-            {
-                CanWriteFile = true;
-            }
-
-			if (!CanWriteFile)
-            {
-                Logger.LogMessage($"Hymn #{hymn.Number} skipped.");
-                return;
-            }
+					Logger.LogMessage($"Hymn #{hymn.Number} skipped.");
+				}
+				return;
+			}
 
             File.WriteAllText(filename, builder.ToString());
             Logger.LogMessage($"Hymn #{hymn.Number} successful!");
