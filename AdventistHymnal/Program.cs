@@ -18,25 +18,30 @@ namespace AdventistHymnal
 			{
 				if (_db == null)
 				{
-					_db = new HymnDatabase(DatabaseDirectory);
-				}
+					_db = new HymnDatabase();
+                    _db.LoadData(DatabaseDirectory);
+                }
 
-				return _db;
+                return _db;
 			}
 		}
 		private static HymnDatabase _db;
+		private static int maxLinesPerSlide = 2;
 
-		static void Main(string[] args)
+
+        static void Main(string[] args)
 		{
 			MainMenu();
 		}
 
 		public static void MainMenu()
 		{
-			Console.Clear();
-			Console.WriteLine("Input the number to execute the command.");
-			Console.WriteLine("1) Export Hymns");
-			Console.WriteLine("2) Import Hymns");
+            Console.Clear();
+			Console.WriteLine("Input the number to execute the command."); 
+			Console.WriteLine($"1) Setup Max Lines Per Slide (Set to: {maxLinesPerSlide} lines per slide)");
+            Console.WriteLine("2) Export Hymns");
+            Console.WriteLine("3) Import Hymns");
+			Console.WriteLine("4) Quit");
 			Console.WriteLine();
 			Console.Write("> ");
 
@@ -46,13 +51,24 @@ namespace AdventistHymnal
 				return;
 			}
 
-			if (commandId == 1)
+			
+
+            if (commandId == 1)
+            {
+                maxLinesPerSlide = SetupLinesPerSlide();
+                MainMenu();
+            }
+            else if (commandId == 2)
 			{
-				ExportHymns();
+				ExportHymns(maxLinesPerSlide);
 			}
-			else if (commandId == 2)
+			else if (commandId == 3)
 			{
 				ImportHymns();
+			}
+			else if (commandId == 4)
+			{
+				return;
 			}
 			else
 			{
@@ -60,7 +76,37 @@ namespace AdventistHymnal
 			}
 		}
 
-		private static void ExportHymns()
+		private static int SetupLinesPerSlide()
+		{
+            Console.WriteLine("How many lines per slide? ");
+            Console.WriteLine("1) One line per slide");
+            Console.WriteLine("2) Two lines per slide");
+            Console.WriteLine("3) Three lines per slide");
+            Console.WriteLine("4) Four lines per slide");
+            Console.WriteLine();
+            Console.Write("> ");
+
+            if (!int.TryParse(Console.ReadLine(), out int commandId))
+            {
+                return 2;
+            }
+
+			switch (commandId)
+			{
+                case 1:
+                    return 1;
+                case 2:
+                    return 2;
+                case 3:
+                    return 3;
+                case 4:
+                    return 4;
+                default:
+                    return 2;
+            }
+        }
+
+		private static void ExportHymns(int maxLinesPerSlide)
 		{
 			Console.WriteLine("What format would you like to export?");
 			Console.WriteLine("1) ProPresenter");
@@ -75,7 +121,7 @@ namespace AdventistHymnal
 
 			if (commandId == 1)
 			{
-				new ProPresenterExporter().ExportAll();
+				new ProPresenterExporter(maxLinesPerSlide).ExportAll();
 			}
 			else
 			{

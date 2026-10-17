@@ -8,7 +8,7 @@ namespace AdventistHymnal.Exporter
 	public abstract class HymnExporter
 	{
 		// TODO: Move these to a config.ini file
-		protected const int MaxLinesPerSlide = 2;
+		protected abstract int MaxLinesPerSlide { get; set; }
 		protected const int CCLINumber = 999999;
 		
 		protected abstract string OutputFolderName { get; }
@@ -24,6 +24,11 @@ namespace AdventistHymnal.Exporter
 
 		public void ExportRange(int min, int max)
 		{
+			if (max <= 0)
+			{
+				Logger.LogMessage("No hymn was found in the database");
+				return;
+			}
 			Logger.LogMessage($"Beginning export for hymns #{min} - #{max}");
 			for (int i = min; i <= max; i++)
 			{
